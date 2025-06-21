@@ -1,0 +1,1001 @@
+product_id,product_name,brand,category,retail_price,ratings,reviews,date_added,stock_status,description,customer_segment,discount_pct,discounted_price,price_tier,rating_level,is_outlier
+PID1000,iPhone 13,BrandB,Laptop,16295,3.3,8453,2022-12-04,In Stock,Rate leader these trade dog best young audience church stand why.,Mid-Tier,27.42,11827,Low,Average,False
+PID1001,Noise ColorFit Pro 4,BrandZ,TV,1360,4.8,1442,2020-06-26,Out of Stock,Middle side concern admit wonder decision reflect.,Budget,50.51,673,Low,Excellent,True
+PID1002,Apple MacBook Air M1,BrandB,Phone,77320,2.5,8597,2021-10-24,Out of Stock,Assume draw attention former involve couple western sign.,Budget,47.05,40941,High,Poor,False
+PID1003,Realme Narzo 60,BrandA,Laptop,55386,3.1,4437,2022-11-16,Out of Stock,Something me bring customer nation culture program economic detail future control sure strategy what music.,Budget,36.54,35148,Medium,Average,False
+PID1004,OnePlus Nord CE 3,BrandA,Laptop,6765,3.4,5435,2022-11-28,In Stock,Everything air bad up economic enough sport open seek music probably.,Premium,57.58,2870,Low,Average,True
+PID1005,Realme Narzo 60,BrandY,TV,82886,3.7,8435,2024-09-06,Out of Stock,Ok gas hot tough item find across adult.,Premium,16.03,69599,High,Average,False
+PID1006,boAt Rockerz 450,BrandB,Laptop,37694,4.6,4107,2023-04-01,Out of Stock,Follow structure relate hard region accept town nature visit usually rather research.,Mid-Tier,11.01,33544,Medium,Excellent,False
+PID1007,Dell Inspiron 3511,BrandC,TV,87998,2.7,560,2024-05-12,In Stock,Audience top into support effort least because benefit mother physical under say item.,Mid-Tier,51.97,42265,High,Poor,True
+PID1008,Dell Inspiron 3511,BrandB,Home Appliance,44631,4.5,8785,2023-07-15,Limited Stock,East capital family myself five play no ground official standard either.,Premium,29.15,31621,Medium,Good,False
+PID1009,Nikon D3500,BrandC,TV,60763,2.6,5548,2024-11-24,Limited Stock,Much participant month account pretty quite both protect for talk call expert seem.,Mid-Tier,51.58,29421,Medium,Poor,True
+PID1010,Samsung Galaxy M13,BrandB,Phone,16523,4.6,1826,2021-04-01,In Stock,Reveal spend allow rock family truth for.,Premium,54.12,7581,Low,Excellent,True
+PID1011,iPad 10th Gen,BrandC,Grocery,41590,2.6,7629,2021-05-06,In Stock,Nearly consider bag toward whatever sell home show against join billion mother several.,Budget,8.44,38080,Medium,Poor,False
+PID1012,HP Victus Gaming 16,BrandX,Grocery,67721,2.5,8325,2023-07-02,Out of Stock,Together month professor list left put again whatever.,Premium,53.59,31429,High,Poor,True
+PID1013,boAt Rockerz 450,BrandY,Phone,65320,4.2,3138,2022-06-10,Out of Stock,Conference sing drug hard country seat image contain possible nature they most plant each get.,Budget,29.66,45946,Medium,Good,False
+PID1014,Realme Narzo 60,BrandC,Beauty,1269,5.0,7693,2024-08-23,In Stock,Live training do student voice suffer establish case player role find race common.,Budget,33.07,849,Low,Excellent,False
+PID1015,boAt Rockerz 450,BrandA,TV,60235,4.7,8264,2025-02-04,In Stock,Would call follow usually American government increase.,Budget,39.46,36466,Medium,Excellent,False
+PID1016,HP Victus Gaming 16,BrandY,Phone,63455,3.9,7842,2024-05-08,Out of Stock,By past civil gas change figure hospital open research agency fall policy never around thing ready.,Mid-Tier,55.95,27952,Medium,Average,True
+PID1017,Samsung Crystal 4K,BrandC,Phone,65425,4.8,6721,2020-12-21,In Stock,State tend carry claim edge choose remember.,Mid-Tier,6.05,61467,Medium,Excellent,False
+PID1018,Apple MacBook Air M1,BrandY,Phone,68469,2.5,7002,2025-01-02,In Stock,Budget else sure police stage indicate have.,Mid-Tier,31.23,47086,High,Poor,False
+PID1019,Apple MacBook Air M1,BrandX,Beauty,5811,4.9,4225,2025-04-14,Limited Stock,Continue grow practice study management Mr thank memory small fast.,Mid-Tier,42.82,3323,Low,Excellent,False
+PID1020,Apple MacBook Air M1,BrandA,Beauty,83604,3.7,2978,2022-06-22,Limited Stock,Evidence employee sing value pretty travel clearly wonder administration show relationship deal pass her sound.,Budget,44.75,46191,High,Average,False
+PID1021,Nikon D3500,BrandB,Home Appliance,54207,4.3,7373,2021-05-04,In Stock,Miss dinner these really score suddenly piece our third very green care book must value north.,Budget,43.09,30849,Medium,Good,False
+PID1022,Sony WH-1000XM4,BrandZ,Phone,85805,4.6,5907,2025-04-23,Limited Stock,Man forget clearly east tax better yard trouble.,Mid-Tier,12.39,75174,High,Excellent,False
+PID1023,iPhone 13,BrandC,Phone,29193,4.3,6097,2023-08-01,Limited Stock,Research develop loss almost nor white know recently experience blue may make dream mother.,Premium,21.47,22925,Low,Good,False
+PID1024,Redmi Note 12,BrandB,Laptop,72432,3.8,5656,2023-07-25,In Stock,Action red wish morning who performance eight star most.,Mid-Tier,24.73,54520,High,Average,False
+PID1025,Samsung Crystal 4K,BrandY,TV,93516,3.7,8984,2024-06-29,Limited Stock,We year term record law me energy work in down according source we structure form.,Budget,49.24,47469,High,Average,False
+PID1026,Nikon D3500,BrandC,TV,26158,4.6,4259,2023-09-27,Limited Stock,Care yeah at chance material yourself together require very.,Budget,20.33,20840,Low,Excellent,False
+PID1027,Nikon D3500,BrandY,Laptop,84978,3.0,8286,2021-02-27,In Stock,Pass establish pattern money individual recently require resource quality.,Premium,16.59,70880,High,Poor,False
+PID1028,ASUS VivoBook 14,BrandB,TV,18931,4.9,5901,2022-02-08,Out of Stock,Our actually career minute middle career any sense family avoid team situation arm avoid alone cause.,Budget,57.66,8015,Low,Excellent,True
+PID1029,Noise ColorFit Pro 4,BrandY,Grocery,3247,4.3,9325,2021-09-05,In Stock,People head lot public option face top north outside stop rise popular play door deep.,Budget,5.49,3069,Low,Good,False
+PID1030,Realme Narzo 60,BrandY,Grocery,59650,3.0,4917,2021-01-07,Out of Stock,Their police develop anyone probably war from maintain miss entire.,Mid-Tier,59.88,23932,Medium,Poor,True
+PID1031,Sony WH-1000XM4,BrandX,Beauty,66225,4.3,8429,2022-03-04,Limited Stock,Total opportunity skill green writer tonight part example ok lose indeed.,Budget,42.23,38258,Medium,Good,False
+PID1032,Apple MacBook Air M1,BrandZ,TV,85154,3.8,2530,2020-07-16,Out of Stock,Will Mrs these investment nation song hour child.,Premium,50.57,42092,High,Average,True
+PID1033,Logitech MX Master 3,BrandC,Home Appliance,36273,4.3,1960,2021-02-02,In Stock,Television control of care vote program catch.,Premium,21.2,28583,Medium,Good,False
+PID1034,Samsung Crystal 4K,BrandX,Laptop,67935,4.4,7045,2021-10-29,Limited Stock,Simply theory involve chair common hear market marriage language.,Premium,5.79,64002,High,Good,False
+PID1035,JBL Go 3,BrandA,Home Appliance,57386,2.7,1048,2024-01-19,Limited Stock,What bed hair positive treatment star show already you do tax capital space.,Budget,45.58,31229,Medium,Poor,False
+PID1036,Nikon D3500,BrandY,Grocery,67303,3.8,5772,2024-02-06,In Stock,Military bad century alone color actually myself blood site rich plan democratic every international.,Mid-Tier,50.88,33059,High,Average,True
+PID1037,Redmi Note 12,BrandC,Phone,32051,4.8,2529,2023-06-28,Out of Stock,Color thousand respond church debate notice apply join name foot mission deal success woman it.,Premium,45.73,17394,Low,Excellent,False
+PID1038,iPad 10th Gen,BrandX,Grocery,11894,3.3,2964,2022-11-11,In Stock,Kitchen happy onto easy though support capital.,Budget,12.86,10364,Low,Average,False
+PID1039,Fire-Boltt Ninja,BrandY,Beauty,69592,4.0,7137,2021-11-13,Limited Stock,Arm her message put attorney again mind billion moment draw.,Budget,46.44,37273,High,Average,False
+PID1040,iPhone 13,BrandB,Laptop,4390,3.4,963,2020-09-04,In Stock,Thus near serve help professional resource little simply significant image kid.,Mid-Tier,47.29,2314,Low,Average,False
+PID1041,Canon EOS 1500D,BrandX,Laptop,42106,3.6,536,2021-12-14,In Stock,Guess good her affect either include despite family.,Mid-Tier,41.22,24750,Medium,Average,False
+PID1042,Boult Audio AirBass,BrandX,Phone,96776,3.9,7340,2020-10-14,In Stock,But these couple protect surface business woman successful step price.,Budget,47.14,51156,High,Average,False
+PID1043,Lenovo IdeaPad Slim 3,BrandB,TV,80538,3.9,7179,2021-09-02,Out of Stock,Will affect show position behind really same knowledge certainly quite bill race we get couple us.,Budget,51.53,39037,High,Average,True
+PID1044,Dell Inspiron 3511,BrandZ,Phone,87813,3.0,7967,2020-11-22,Out of Stock,Whatever expert middle whose environmental evening shoulder bad fear wonder dinner under.,Premium,38.75,53785,High,Poor,False
+PID1045,OnePlus Nord CE 3,BrandY,Grocery,11127,4.2,8734,2023-07-31,Limited Stock,Notice last student meet for local might.,Mid-Tier,9.87,10029,Low,Good,False
+PID1046,Samsung Galaxy M13,BrandB,Home Appliance,9292,2.7,845,2023-09-30,Limited Stock,Change dream call pick note star gun away.,Mid-Tier,31.82,6335,Low,Poor,False
+PID1047,Noise ColorFit Pro 4,BrandC,Beauty,74469,2.8,5777,2021-08-11,Limited Stock,Record old pressure wall find their accept cause.,Budget,9.27,67566,High,Poor,False
+PID1048,HP Victus Gaming 16,BrandX,Home Appliance,43501,2.5,3036,2024-11-14,Out of Stock,Thousand thus production well manager sea read provide charge carry take industry boy watch ball lead.,Mid-Tier,27.41,31577,Medium,Poor,False
+PID1049,OnePlus Nord CE 3,BrandZ,TV,77052,2.8,5947,2024-11-10,In Stock,Listen successful owner product across support kind smile charge west into middle will artist civil.,Budget,27.39,55947,High,Poor,False
+PID1050,Dell Inspiron 3511,BrandA,Grocery,24397,3.7,2494,2020-09-08,Out of Stock,News program save investment knowledge remain rock determine health hit total resource also begin social expect.,Budget,8.63,22292,Low,Average,False
+PID1051,Samsung Galaxy M13,BrandY,Home Appliance,68648,4.0,2719,2022-03-02,Limited Stock,Minute material answer western trip man least old animal floor theory follow.,Mid-Tier,24.19,52042,High,Average,False
+PID1052,Zebronics ZEB-Rush,BrandA,Grocery,23983,4.5,1884,2020-06-22,Limited Stock,Change prepare trial stay tonight west bar very really discuss idea magazine impact national.,Mid-Tier,11.1,21321,Low,Good,False
+PID1053,Noise ColorFit Pro 4,BrandY,TV,49055,2.8,4349,2021-12-14,In Stock,Heart tend check state seat necessary paper bad act painting figure.,Premium,49.45,24797,Medium,Poor,False
+PID1054,HP Victus Gaming 16,BrandX,Grocery,17659,4.6,5179,2022-10-10,Out of Stock,Ever all could fish concern relate same plant ten word or less participant.,Premium,57.12,7572,Low,Excellent,True
+PID1055,Dell Inspiron 3511,BrandA,TV,80577,4.4,6610,2021-10-21,Limited Stock,Service investment practice bar surface local difficult father type my edge happen daughter role after.,Budget,8.98,73341,High,Good,False
+PID1056,Acer Aspire 7,BrandB,TV,36420,3.5,6430,2023-03-26,Limited Stock,Simple miss rule apply experience wish office travel.,Premium,57.53,15468,Medium,Average,True
+PID1057,OnePlus Nord CE 3,BrandB,Phone,92567,4.8,7154,2023-04-11,In Stock,Alone over believe less here weight peace main.,Budget,33.74,61335,High,Excellent,False
+PID1058,Samsung Crystal 4K,BrandX,Grocery,67621,5.0,6488,2021-03-08,Limited Stock,Image cost same shoulder TV condition car.,Premium,21.48,53096,High,Excellent,False
+PID1059,iPad 10th Gen,BrandY,Home Appliance,69979,3.0,4737,2023-03-11,Limited Stock,Behind appear because live have step establish clearly information.,Budget,9.23,63520,High,Poor,False
+PID1060,Sony WH-1000XM4,BrandZ,Grocery,89975,3.4,6525,2024-01-06,Limited Stock,Movie information camera start idea wrong lead form care major choice street church while most.,Mid-Tier,32.53,60706,High,Average,False
+PID1061,OnePlus Nord CE 3,BrandB,Phone,19957,4.8,3850,2020-10-09,In Stock,Nor a whom town early officer radio century daughter later various fall nation.,Mid-Tier,48.7,10238,Low,Excellent,False
+PID1062,LG Smart LED 43in,BrandB,TV,67057,4.3,689,2023-10-15,Limited Stock,Office street east reduce long business wife report kind consider writer itself service.,Budget,43.89,37626,High,Good,False
+PID1063,Mi TV 5X,BrandY,Home Appliance,77689,2.6,5175,2020-08-28,Out of Stock,Population movement with begin travel machine off.,Mid-Tier,7.76,71660,High,Poor,False
+PID1064,Samsung Crystal 4K,BrandA,Grocery,79453,4.5,8648,2022-01-29,Limited Stock,Also their bag ever peace baby do without crime.,Premium,9.01,72294,High,Good,False
+PID1065,Apple MacBook Air M1,BrandY,Grocery,53495,4.6,5078,2022-01-23,In Stock,Left short against soon such seek event work throw down.,Premium,27.16,38966,Medium,Excellent,False
+PID1066,iPhone 13,BrandZ,Phone,41257,4.4,5448,2024-08-06,Out of Stock,Opportunity among follow station look act music time and data important might.,Premium,21.24,32494,Medium,Good,False
+PID1067,Sony WH-1000XM4,BrandZ,Beauty,10192,4.5,1179,2025-05-26,In Stock,Guess each side test like significant ten former watch president for stock generation attack.,Mid-Tier,17.78,8380,Low,Good,False
+PID1068,boAt Rockerz 450,BrandB,Phone,46258,4.6,9074,2024-10-31,Out of Stock,Magazine different family strong air effect control admit prevent cut.,Budget,20.46,36794,Medium,Excellent,False
+PID1069,Lenovo IdeaPad Slim 3,BrandX,Beauty,72909,3.0,6406,2023-01-10,Limited Stock,Candidate dog television white shoulder among structure option account.,Mid-Tier,49.19,37045,High,Poor,False
+PID1070,HP Pavilion 15,BrandB,Laptop,71711,3.1,8591,2023-09-03,Out of Stock,Public either standard challenge nor pressure through heavy significant find resource soon right laugh cup.,Budget,56.11,31474,High,Average,True
+PID1071,Samsung Crystal 4K,BrandY,Laptop,66197,4.1,6907,2021-09-27,Limited Stock,Shake personal claim year while require sure long response your discover very.,Mid-Tier,27.28,48138,Medium,Good,False
+PID1072,Fire-Boltt Ninja,BrandA,Grocery,37565,4.8,8800,2023-04-27,In Stock,Clear now officer school nor choose perform president huge community early he majority contain training author.,Budget,54.84,16964,Medium,Excellent,True
+PID1073,Mi TV 5X,BrandZ,Grocery,92593,3.3,1638,2023-04-25,Limited Stock,Kid thought including attention possible whatever somebody later I in share sport enjoy public.,Premium,22.68,71593,High,Average,False
+PID1074,HP Victus Gaming 16,BrandC,Phone,99799,4.0,5671,2022-01-12,Out of Stock,Life hold win rather wife explain have dark.,Premium,31.2,68662,High,Average,False
+PID1075,Acer Aspire 7,BrandZ,Phone,33106,4.2,6928,2021-10-02,Out of Stock,Future performance try artist coach thank PM red professional color above worry red blood nothing within.,Mid-Tier,17.43,27336,Low,Good,False
+PID1076,LG Smart LED 43in,BrandB,Laptop,12034,3.6,1382,2023-12-18,In Stock,High as determine popular fill memory tend.,Mid-Tier,40.23,7193,Low,Average,False
+PID1077,Sony WH-1000XM4,BrandB,TV,95163,4.3,1403,2023-09-02,In Stock,Ten already training training about participant identify miss fall father fly important through church job man.,Mid-Tier,58.84,39169,High,Good,True
+PID1078,Apple MacBook Air M1,BrandA,Phone,40897,4.7,9011,2020-12-10,Out of Stock,Result human so poor defense and organization theory way rather prepare good identify.,Budget,38.19,25278,Medium,Excellent,False
+PID1079,Logitech MX Master 3,BrandX,TV,91887,4.1,3292,2022-12-05,Out of Stock,Eye street like audience water training agent mouth make especially art power.,Budget,24.68,69209,High,Good,False
+PID1080,Canon EOS 1500D,BrandZ,Laptop,1516,3.8,9011,2024-12-09,Limited Stock,Green fill almost if voice enjoy special pattern.,Budget,40.63,900,Low,Average,False
+PID1081,HP Victus Gaming 16,BrandC,TV,90289,3.6,419,2023-08-05,Out of Stock,Relationship from nature where fire learn green natural can firm offer.,Budget,11.76,79671,High,Average,False
+PID1082,Samsung Galaxy M13,BrandX,Beauty,56091,3.9,4517,2025-01-08,In Stock,Have reduce seek establish range fish magazine bring stand still work mention nature consumer be.,Budget,53.88,25869,Medium,Average,True
+PID1083,iPhone 13,BrandC,Phone,90312,3.4,3302,2023-11-07,In Stock,Season risk according international common bring likely billion cup deal.,Budget,32.67,60807,High,Average,False
+PID1084,Logitech MX Master 3,BrandC,Grocery,23747,3.5,7857,2023-12-14,Limited Stock,Before three campaign road blue hear point week evening long side night police forget.,Mid-Tier,29.71,16692,Low,Average,False
+PID1085,Realme Narzo 60,BrandB,Home Appliance,24800,3.8,9700,2023-07-07,Limited Stock,Whether might rather determine benefit lawyer well fine develop structure bad stuff.,Budget,37.22,15569,Low,Average,False
+PID1086,JBL Go 3,BrandX,Phone,74565,2.7,7870,2022-05-24,Out of Stock,Benefit old successful professor natural woman truth style.,Mid-Tier,39.36,45216,High,Poor,False
+PID1087,Samsung Galaxy M13,BrandY,Laptop,83298,3.1,5693,2025-01-21,Limited Stock,Allow language health record experience second beautiful information play program its win.,Premium,8.95,75843,High,Average,False
+PID1088,HP Victus Gaming 16,BrandX,Grocery,9768,3.9,767,2024-08-16,Out of Stock,Though crime shoulder newspaper ready play also ago ever enter national series law.,Mid-Tier,42.54,5613,Low,Average,False
+PID1089,Nikon D3500,BrandC,Laptop,87307,3.6,2044,2022-10-01,Limited Stock,Pick still indeed stage step stand free low each window form first right I available floor.,Budget,18.31,71321,High,Average,False
+PID1090,Mi TV 5X,BrandB,Laptop,12685,3.3,1549,2023-02-26,Out of Stock,Free heavy yourself remember measure later marriage become reduce plan say itself future player just.,Budget,44.27,7069,Low,Average,False
+PID1091,Redmi Note 12,BrandZ,Beauty,64204,4.3,9956,2023-09-23,Out of Stock,Teach author blood also my effort sit establish.,Premium,50.24,31948,Medium,Good,True
+PID1092,Redmi Note 12,BrandY,Grocery,87279,4.2,6140,2024-07-25,Out of Stock,Sell American throughout direction film sort little no.,Budget,49.22,44320,High,Good,False
+PID1093,Dell Inspiron 3511,BrandC,Phone,39599,2.9,3716,2022-09-25,In Stock,Season now beautiful many none continue area me start church when charge care.,Mid-Tier,35.39,25585,Medium,Poor,False
+PID1094,Apple MacBook Air M1,BrandB,TV,9071,4.7,4481,2021-08-23,Limited Stock,Reveal face wall decide share bit Mr character ever make.,Budget,33.61,6022,Low,Excellent,False
+PID1095,Samsung Crystal 4K,BrandZ,Phone,38544,3.7,7898,2024-02-17,Limited Stock,Father family whose break answer community ahead.,Budget,12.86,33587,Medium,Average,False
+PID1096,Samsung Galaxy M13,BrandA,Home Appliance,51714,4.4,6548,2022-04-12,Limited Stock,Sort Mr design them six term too with network campaign world.,Budget,47.64,27077,Medium,Good,False
+PID1097,boAt Rockerz 450,BrandY,Laptop,61728,3.9,2293,2022-08-06,In Stock,Director also college well true bed in place much party affect where still official discussion spend.,Mid-Tier,19.93,49426,Medium,Average,False
+PID1098,JBL Go 3,BrandA,Grocery,49484,5.0,4837,2023-11-17,Out of Stock,Notice might leave nice traditional agency hand win order.,Premium,32.32,33491,Medium,Excellent,False
+PID1099,iPhone 13,BrandA,Laptop,41274,4.4,7758,2021-11-15,In Stock,Important if rock ability tax space want art drop off hold consumer last speech amount.,Mid-Tier,20.64,32755,Medium,Good,False
+PID1100,Dell Inspiron 3511,BrandY,Laptop,3068,4.3,6793,2023-01-11,In Stock,Off store important pick small better high rise.,Budget,12.36,2689,Low,Good,False
+PID1101,HP Pavilion 15,BrandB,Phone,63092,4.4,7638,2020-08-19,Out of Stock,Morning control we above loss listen poor science view.,Mid-Tier,39.63,38089,Medium,Good,False
+PID1102,Canon EOS 1500D,BrandB,TV,68063,2.9,7993,2024-09-19,In Stock,Despite board apply too bring mind should central purpose company civil turn response though save practice.,Premium,7.99,62625,High,Poor,False
+PID1103,Redmi Note 12,BrandX,Phone,3195,3.0,6007,2023-11-18,Limited Stock,Participant know put white center surface on central wait.,Mid-Tier,46.18,1720,Low,Poor,False
+PID1104,boAt Rockerz 450,BrandC,Beauty,48690,4.3,5542,2021-03-17,Out of Stock,Several available only condition good worry administration news degree.,Mid-Tier,22.47,37749,Medium,Good,False
+PID1105,Logitech MX Master 3,BrandZ,Grocery,5758,3.7,9092,2024-05-27,Limited Stock,Federal billion note dog each enter later fight those develop former enough.,Premium,5.01,5470,Low,Average,False
+PID1106,LG Smart LED 43in,BrandX,Laptop,88038,4.4,6356,2022-12-21,In Stock,Politics young none middle language about brother cut three rock rock.,Budget,33.11,58889,High,Good,False
+PID1107,LG Smart LED 43in,BrandA,Grocery,40004,2.8,8433,2020-08-14,In Stock,Audience return region particularly finish until yeah friend the would pattern perhaps short crime.,Mid-Tier,7.58,36972,Medium,Poor,False
+PID1108,Acer Aspire 7,BrandX,Grocery,33659,3.8,7380,2023-01-11,Out of Stock,Check pressure financial throughout program prove cut paper learn garden ground suggest who near would serve.,Premium,20.19,26863,Medium,Average,False
+PID1109,Fire-Boltt Ninja,BrandC,Home Appliance,14486,3.4,2385,2024-02-08,In Stock,Set nearly respond behind toward start government suddenly sell require ready push team.,Premium,43.88,8130,Low,Average,False
+PID1110,LG Smart LED 43in,BrandY,Home Appliance,62358,3.6,4268,2024-05-09,Out of Stock,Fire method each imagine but system candidate pass determine.,Budget,8.45,57089,Medium,Average,False
+PID1111,Acer Aspire 7,BrandY,Home Appliance,13166,4.0,671,2023-01-20,In Stock,Guy affect different fine score control traditional floor race.,Premium,51.16,6430,Low,Average,True
+PID1112,Apple MacBook Air M1,BrandY,Grocery,39160,3.8,163,2021-12-14,Out of Stock,For computer back cold could job lot agree fill federal.,Budget,5.21,37120,Medium,Average,False
+PID1113,Redmi Note 12,BrandC,Home Appliance,4061,3.8,8656,2023-07-31,Limited Stock,Between play leg teacher put himself there start rate lay others candidate wear toward scene.,Premium,18.58,3306,Low,Average,False
+PID1114,LG Smart LED 43in,BrandA,Home Appliance,27354,3.7,4592,2024-07-04,In Stock,After current skin his never suggest option reason thousand maintain for young science sing attack structure.,Premium,45.75,14840,Low,Average,False
+PID1115,Mi TV 5X,BrandB,Beauty,65005,3.5,4795,2021-07-17,In Stock,Pass all sign yard sister with yeah question.,Budget,22.39,50450,Medium,Average,False
+PID1116,Mi TV 5X,BrandC,Beauty,52751,4.4,4798,2020-10-29,Limited Stock,In want among painting street really good ago lay million word change apply.,Mid-Tier,10.6,47159,Medium,Good,False
+PID1117,OnePlus Nord CE 3,BrandY,Beauty,23162,2.5,6036,2024-12-12,Out of Stock,Guess dark hard believe trip tell sort.,Mid-Tier,24.81,17416,Low,Poor,False
+PID1118,Boult Audio AirBass,BrandB,Grocery,8892,4.0,2355,2021-07-02,Out of Stock,Vote media entire mission Democrat system claim professor clearly note account.,Mid-Tier,19.87,7125,Low,Average,False
+PID1119,Canon EOS 1500D,BrandC,Grocery,31035,3.9,5887,2024-09-06,In Stock,Ready direction field skin character age teacher crime.,Premium,51.35,15099,Low,Average,True
+PID1120,ASUS VivoBook 14,BrandZ,Beauty,79103,4.3,7961,2021-03-09,Limited Stock,Hotel find girl seat issue window sport in it environment article yeah head according miss.,Mid-Tier,22.23,61518,High,Good,False
+PID1121,Sony WH-1000XM4,BrandC,TV,52756,4.0,5827,2021-02-02,Limited Stock,The ever question last dark land benefit individual after fact.,Mid-Tier,48.39,27227,Medium,Average,False
+PID1122,iPad 10th Gen,BrandC,Phone,89635,4.6,8737,2021-10-14,Out of Stock,End whose many throughout return according family perhaps.,Premium,54.05,41187,High,Excellent,True
+PID1123,Apple MacBook Air M1,BrandB,Grocery,35722,4.9,4719,2022-04-28,Out of Stock,Add when quickly ready benefit next letter phone director office dark sort.,Budget,28.86,25413,Medium,Excellent,False
+PID1124,Dell Inspiron 3511,BrandA,Beauty,77873,3.4,593,2022-06-14,Out of Stock,Enter most man Mrs store deal physical move radio never nation buy wife support.,Mid-Tier,55.05,35004,High,Average,True
+PID1125,HP Pavilion 15,BrandY,Beauty,80075,3.1,4839,2023-01-08,Limited Stock,Another share agency lot chance individual part support.,Premium,25.75,59456,High,Average,False
+PID1126,Acer Aspire 7,BrandY,Home Appliance,96854,3.6,7394,2025-02-01,In Stock,Mouth may local behind fight different nice discover.,Premium,58.02,40659,High,Average,True
+PID1127,LG Smart LED 43in,BrandX,Laptop,85151,3.2,9651,2023-08-29,In Stock,Office hope piece herself generation look town drop operation ago leave manager listen.,Budget,9.91,76713,High,Average,False
+PID1128,iPad 10th Gen,BrandX,TV,63835,4.0,3493,2022-01-05,Out of Stock,Write up care floor actually have they pressure season director describe alone sometimes one.,Mid-Tier,42.79,36520,Medium,Average,False
+PID1129,Mi TV 5X,BrandY,Beauty,11465,4.8,6164,2023-10-05,Out of Stock,Dream should baby also other common door white.,Premium,32.16,7778,Low,Excellent,False
+PID1130,Apple MacBook Air M1,BrandX,Home Appliance,25038,2.8,2672,2023-02-22,Out of Stock,Eight light science stop lawyer assume college bed vote her quickly different.,Mid-Tier,26.32,18448,Low,Poor,False
+PID1131,HP Pavilion 15,BrandA,Phone,71092,2.8,4200,2022-04-16,Out of Stock,Perhaps success away yes stuff find election gas push effort analysis benefit manage yeah risk.,Mid-Tier,39.8,42797,High,Poor,False
+PID1132,Samsung Crystal 4K,BrandB,TV,98518,3.1,16,2024-12-26,Out of Stock,Board occur travel already bed tend boy.,Budget,43.71,55456,High,Average,False
+PID1133,Fire-Boltt Ninja,BrandZ,Beauty,8610,4.3,3191,2024-11-07,Limited Stock,Contain performance throw production onto how run expert level base fear trouble such song.,Budget,5.24,8159,Low,Good,False
+PID1134,ASUS VivoBook 14,BrandA,Laptop,79809,4.0,392,2024-02-02,In Stock,School measure near all already position run sell country know four loss chance meet ok.,Premium,14.18,68492,High,Average,False
+PID1135,Boult Audio AirBass,BrandY,TV,27766,2.8,8616,2023-07-12,Limited Stock,Later evidence have firm cold question sport ten woman.,Premium,44.22,15488,Low,Poor,False
+PID1136,Boult Audio AirBass,BrandC,Grocery,53492,4.8,6272,2023-09-21,Out of Stock,Total task white tough serious little difficult tend series position two but top case.,Premium,41.65,31213,Medium,Excellent,False
+PID1137,boAt Rockerz 450,BrandB,TV,83448,4.5,571,2021-12-13,Out of Stock,Case visit either film which knowledge item spring how ever series course.,Premium,58.13,34940,High,Good,True
+PID1138,iPad 10th Gen,BrandB,Home Appliance,99306,2.6,3631,2024-06-10,Limited Stock,Case box career leave feeling speech money movement little traditional growth quickly series hand among.,Premium,46.86,52771,High,Poor,False
+PID1139,JBL Go 3,BrandA,Grocery,7410,4.1,6172,2024-08-06,Limited Stock,Military feeling defense speech open drop daughter.,Premium,57.29,3165,Low,Good,True
+PID1140,Noise ColorFit Pro 4,BrandC,TV,91482,4.4,9312,2024-01-24,Limited Stock,Which church seven make billion bar student since two night everybody option.,Premium,43.64,51559,High,Good,False
+PID1141,HP Pavilion 15,BrandZ,Phone,706,3.4,7177,2022-05-15,Out of Stock,Performance month however debate wall industry blood professional indeed house experience actually.,Premium,21.39,555,Low,Average,False
+PID1142,OnePlus Nord CE 3,BrandC,Beauty,87554,2.7,8433,2023-09-11,Limited Stock,Floor call discover help nature defense board car.,Mid-Tier,10.8,78098,High,Poor,False
+PID1143,Boult Audio AirBass,BrandA,Beauty,88397,2.7,3897,2024-06-08,In Stock,Whose purpose affect property agent community just situation require community likely.,Premium,48.0,45966,High,Poor,False
+PID1144,Redmi Note 12,BrandY,Laptop,23919,2.8,8123,2021-09-08,Out of Stock,Church drop analysis poor push decade financial popular main.,Budget,40.43,14249,Low,Poor,False
+PID1145,Apple MacBook Air M1,BrandY,Home Appliance,51136,4.6,2279,2021-07-06,In Stock,Story look sea data back free throw simply or many hair.,Premium,7.65,47224,Medium,Excellent,False
+PID1146,HP Victus Gaming 16,BrandX,Beauty,50515,4.8,8980,2023-06-22,In Stock,Hear wide grow enjoy defense model fear head sit authority partner out check buy military.,Premium,24.8,37987,Medium,Excellent,False
+PID1147,Samsung Crystal 4K,BrandB,Home Appliance,54768,2.8,7451,2024-03-13,In Stock,Tax mind accept clear rather evidence while conference music past.,Premium,57.62,23211,Medium,Poor,True
+PID1148,Noise ColorFit Pro 4,BrandC,Home Appliance,88439,3.1,8906,2022-09-17,Limited Stock,House whatever popular system computer real grow help process family cover policy firm good much.,Budget,32.52,59679,High,Average,False
+PID1149,Apple MacBook Air M1,BrandZ,Grocery,18641,2.9,775,2020-06-19,In Stock,Loss every here partner theory fire employee responsibility thousand increase sign budget try player might.,Budget,28.8,13272,Low,Poor,False
+PID1150,Redmi Note 12,BrandX,TV,80856,3.0,6869,2024-12-24,Limited Stock,Wall more similar team wall become pattern interest explain white event condition ahead fill red.,Premium,30.17,56462,High,Poor,False
+PID1151,Apple MacBook Air M1,BrandX,Home Appliance,72410,4.6,2247,2020-09-07,Limited Stock,They hope create way evidence produce performance analysis word cause.,Mid-Tier,16.49,60470,High,Excellent,False
+PID1152,Lenovo IdeaPad Slim 3,BrandC,Phone,56544,3.3,7088,2023-11-20,Out of Stock,Mrs up school trial bit offer must cold least.,Budget,25.28,42250,Medium,Average,False
+PID1153,Nikon D3500,BrandZ,Phone,67714,3.3,78,2021-04-06,Out of Stock,Feel add while light tend wish item official pattern group prevent nor anything.,Mid-Tier,25.34,50555,High,Average,False
+PID1154,Nikon D3500,BrandB,TV,34327,3.1,8080,2021-08-04,Limited Stock,Base art party face involve able card.,Mid-Tier,7.88,31622,Medium,Average,False
+PID1155,Canon EOS 1500D,BrandC,Home Appliance,56320,4.0,7099,2023-02-12,Out of Stock,Staff true focus necessary business style while may care glass condition economic our collection.,Budget,47.22,29726,Medium,Average,False
+PID1156,Xiaomi Pad 6,BrandA,Beauty,63123,3.4,3926,2024-02-25,Out of Stock,Man rich involve always off above doctor over.,Premium,27.91,45505,Medium,Average,False
+PID1157,Lenovo IdeaPad Slim 3,BrandB,Grocery,82234,4.4,9047,2021-06-23,Out of Stock,Who east know power interest word push serious produce page able likely time and practice.,Mid-Tier,50.22,40936,High,Good,True
+PID1158,Sony WH-1000XM4,BrandB,Grocery,75950,3.0,7340,2022-07-19,In Stock,Method certainly popular then thousand especially new need scene research wind inside.,Premium,51.77,36631,High,Poor,True
+PID1159,Nikon D3500,BrandC,Grocery,93926,4.5,7083,2024-07-29,In Stock,Include accept bill anything study husband want.,Mid-Tier,16.66,78278,High,Good,False
+PID1160,Nikon D3500,BrandB,Phone,22799,4.0,6230,2024-07-13,Out of Stock,Probably middle loss material particular indeed what skin so really.,Budget,41.15,13417,Low,Average,False
+PID1161,Samsung Crystal 4K,BrandC,Laptop,44085,2.8,9223,2024-11-10,In Stock,Political visit important interest everybody begin off bill month room.,Mid-Tier,30.98,30427,Medium,Poor,False
+PID1162,Fire-Boltt Ninja,BrandA,Grocery,64544,3.5,4940,2021-06-10,Limited Stock,Soldier rock something claim Republican amount piece glass wrong reduce everything attention yes.,Budget,53.41,30071,Medium,Average,True
+PID1163,Acer Aspire 7,BrandX,Beauty,43057,4.7,3271,2022-12-17,Limited Stock,Election pattern skill large free mind doctor.,Budget,16.87,35793,Medium,Excellent,False
+PID1164,Xiaomi Pad 6,BrandB,Phone,49580,4.8,3456,2021-02-15,Out of Stock,Occur ok idea send success quickly become.,Budget,42.28,28618,Medium,Excellent,False
+PID1165,Zebronics ZEB-Rush,BrandA,Phone,3193,3.7,7788,2024-04-07,Out of Stock,That none significant piece add treat forget.,Mid-Tier,38.43,1966,Low,Average,False
+PID1166,HP Victus Gaming 16,BrandZ,Phone,95503,3.7,8599,2023-11-08,In Stock,Maybe doctor or feel fall drive alone save.,Budget,21.24,75218,High,Average,False
+PID1167,JBL Go 3,BrandA,Grocery,95759,4.8,7650,2022-06-13,Out of Stock,Look board eight mission its population international product relationship area old keep represent call air.,Premium,12.51,83780,High,Excellent,False
+PID1168,Fire-Boltt Ninja,BrandX,Home Appliance,69663,4.0,2711,2022-03-03,Limited Stock,Low million foreign culture hear story here report shoulder hour enter upon east main.,Budget,40.84,41213,High,Average,False
+PID1169,Lenovo IdeaPad Slim 3,BrandA,TV,26439,2.6,1668,2023-10-21,Limited Stock,Middle stock focus occur rich team not growth including home such event ready old stay.,Mid-Tier,45.62,14378,Low,Poor,False
+PID1170,Samsung Crystal 4K,BrandC,TV,49425,4.8,147,2023-06-14,In Stock,Message sea item piece check ball data.,Mid-Tier,22.36,38374,Medium,Excellent,False
+PID1171,Boult Audio AirBass,BrandB,Grocery,43441,3.1,6420,2025-01-06,Out of Stock,Exist hotel simple tell clearly who form issue believe represent boy.,Premium,40.47,25860,Medium,Average,False
+PID1172,boAt Rockerz 450,BrandB,Beauty,22334,3.9,365,2024-09-11,Limited Stock,Artist world at full process benefit almost order have expect test north save.,Mid-Tier,26.73,16364,Low,Average,False
+PID1173,Canon EOS 1500D,BrandX,Grocery,18547,2.9,9866,2024-12-24,In Stock,Draw present dark focus marriage someone opportunity cell win laugh college wear he.,Premium,44.23,10344,Low,Poor,False
+PID1174,LG Smart LED 43in,BrandX,Phone,26605,2.6,4531,2021-01-02,In Stock,Choice whatever exist trouble thank break foot.,Premium,15.96,22359,Low,Poor,False
+PID1175,Mi TV 5X,BrandY,Home Appliance,76266,3.3,5330,2021-03-04,In Stock,Right institution involve member peace officer this.,Mid-Tier,53.96,35113,High,Average,True
+PID1176,Noise ColorFit Pro 4,BrandX,Grocery,16207,4.5,5510,2022-04-09,Out of Stock,Summer imagine find attack attention need fine should his develop must ahead respond relationship.,Mid-Tier,20.81,12834,Low,Good,False
+PID1177,Realme Narzo 60,BrandA,Home Appliance,22476,3.2,8754,2021-07-01,Out of Stock,Vote theory national a arm stand help serve full full ever seat hand factor line.,Mid-Tier,25.23,16805,Low,Average,False
+PID1178,Realme Narzo 60,BrandZ,Home Appliance,44762,3.1,8964,2021-04-17,Limited Stock,Full approach chance out government near resource read point professional visit help person opportunity kid head.,Mid-Tier,8.2,41092,Medium,Average,False
+PID1179,Logitech MX Master 3,BrandA,Phone,24276,3.0,6493,2022-08-16,Limited Stock,Cost hair care story by yourself building act picture phone operation factor heart white population visit.,Mid-Tier,11.13,21574,Low,Poor,False
+PID1180,ASUS VivoBook 14,BrandY,Home Appliance,30580,3.8,5439,2023-07-22,Limited Stock,White military certain especially lawyer benefit measure.,Budget,33.37,20375,Low,Average,False
+PID1181,Dell Inspiron 3511,BrandA,Grocery,67342,4.9,9765,2021-03-23,In Stock,Risk politics hope amount country herself collection vote tonight thought bring bag could.,Mid-Tier,19.72,54062,High,Excellent,False
+PID1182,HP Victus Gaming 16,BrandZ,Beauty,61873,3.6,6511,2025-02-19,In Stock,Pay far carry skill economy reality career charge parent large.,Budget,50.95,30349,Medium,Average,True
+PID1183,ASUS VivoBook 14,BrandB,Home Appliance,7276,3.9,7504,2021-10-03,In Stock,Wonder new plan wear us several to gun billion spend prepare majority what information.,Budget,5.81,6853,Low,Average,False
+PID1184,LG Smart LED 43in,BrandX,TV,93287,4.7,1246,2024-04-04,Out of Stock,Until main reach fast point work life herself firm bank side admit might pick write.,Mid-Tier,25.85,69172,High,Excellent,False
+PID1185,Acer Aspire 7,BrandB,Laptop,55516,3.8,3839,2023-01-25,In Stock,Himself like half bill find you of sometimes nothing open look.,Budget,23.55,42442,Medium,Average,False
+PID1186,Logitech MX Master 3,BrandC,Beauty,9974,3.0,8551,2024-03-27,Limited Stock,Study owner woman scientist consider yourself my could.,Budget,6.06,9370,Low,Poor,False
+PID1187,iPhone 13,BrandB,Beauty,58553,3.2,2376,2021-04-17,Out of Stock,None wish bad nor join case boy hundred range remain machine edge learn year.,Premium,11.84,51620,Medium,Average,False
+PID1188,Boult Audio AirBass,BrandY,Home Appliance,22459,3.3,3009,2022-02-26,Limited Stock,Must theory into hospital stage economy power collection suddenly evidence message half prepare arm wrong edge.,Mid-Tier,27.75,16227,Low,Average,False
+PID1189,Zebronics ZEB-Rush,BrandX,Home Appliance,6030,3.5,9154,2024-03-03,Out of Stock,Capital law Congress adult great paper possible city forget million nor explain human.,Budget,32.11,4094,Low,Average,False
+PID1190,iPhone 13,BrandA,Laptop,95356,3.6,1827,2022-07-14,Limited Stock,Which certain whatever professional just market push must candidate vote challenge current know.,Mid-Tier,27.24,69381,High,Average,False
+PID1191,Mi TV 5X,BrandB,Home Appliance,4248,4.5,6979,2021-12-20,Limited Stock,Significant possible technology house water child woman camera industry me often wind ago author admit.,Premium,34.2,2795,Low,Good,False
+PID1192,Boult Audio AirBass,BrandC,Home Appliance,98004,3.4,9805,2020-10-04,Limited Stock,Interesting only meet station across myself look president her just rule.,Mid-Tier,37.73,61027,High,Average,False
+PID1193,ASUS VivoBook 14,BrandY,Phone,98598,3.7,9832,2025-01-23,Out of Stock,Someone paper firm and weight probably sign somebody move center water couple a have.,Budget,5.55,93126,High,Average,False
+PID1194,Dell Inspiron 3511,BrandX,TV,14045,4.1,8569,2023-02-04,Limited Stock,Thus site want control hair whom off may marriage measure church sell history.,Budget,30.53,9757,Low,Good,False
+PID1195,Mi TV 5X,BrandY,TV,66699,3.4,4285,2021-11-05,Out of Stock,Guy almost ten couple bring end letter.,Mid-Tier,57.99,28020,Medium,Average,True
+PID1196,Redmi Note 12,BrandX,Beauty,35266,4.6,6910,2025-01-14,In Stock,Affect position arrive peace religious start believe.,Mid-Tier,33.55,23434,Medium,Excellent,False
+PID1197,Apple MacBook Air M1,BrandB,Home Appliance,74030,4.0,8561,2024-04-04,In Stock,Year sister manage firm brother seek military among let human coach trial.,Budget,42.26,42745,High,Average,False
+PID1198,HP Pavilion 15,BrandX,Beauty,94057,3.2,2196,2024-10-29,In Stock,Remember relate cost our rock live appear their fall need success mind range clear other occur.,Premium,22.15,73223,High,Average,False
+PID1199,Boult Audio AirBass,BrandZ,Grocery,61587,4.3,3747,2023-10-06,In Stock,Claim police bag indeed score remember scene way so stand.,Premium,47.57,32290,Medium,Good,False
+PID1200,LG Smart LED 43in,BrandY,TV,96339,3.8,8843,2024-10-03,In Stock,Forget nothing think participant maintain cause may.,Budget,47.51,50568,High,Average,False
+PID1201,Redmi Note 12,BrandX,Home Appliance,69340,3.8,5978,2024-07-26,Out of Stock,Capital professional pull far music look beyond no check improve property.,Premium,33.67,45993,High,Average,False
+PID1202,iPad 10th Gen,BrandZ,Laptop,54884,3.7,5607,2023-09-04,In Stock,Customer purpose learn wonder song now billion answer TV seat western buy oil show remain account.,Budget,58.68,22678,Medium,Average,True
+PID1203,Sony WH-1000XM4,BrandA,Home Appliance,51505,3.7,769,2021-01-14,In Stock,Attorney stock miss animal space write what election so sing cell international relationship plan.,Premium,11.91,45371,Medium,Average,False
+PID1204,Xiaomi Pad 6,BrandX,Home Appliance,47076,4.4,780,2022-03-12,Out of Stock,Enter future ability traditional late house future.,Mid-Tier,5.93,44284,Medium,Good,False
+PID1205,Fire-Boltt Ninja,BrandC,Laptop,39853,2.8,9908,2025-02-04,Out of Stock,Seek economic argue forget hotel also smile fear way argue maintain seat college day.,Premium,47.36,20979,Medium,Poor,False
+PID1206,LG Smart LED 43in,BrandX,Home Appliance,62503,3.3,6303,2022-04-07,Out of Stock,Benefit material season knowledge everything piece art describe cause.,Premium,49.39,31633,Medium,Average,False
+PID1207,Lenovo IdeaPad Slim 3,BrandY,Phone,83711,2.7,3983,2024-03-02,Limited Stock,Argue own mention executive place science military only east summer early citizen.,Premium,11.61,73992,High,Poor,False
+PID1208,iPad 10th Gen,BrandZ,Home Appliance,53233,4.4,9503,2021-05-17,Out of Stock,Though support activity call will check early them appear present.,Mid-Tier,19.61,42794,Medium,Good,False
+PID1209,iPhone 13,BrandY,TV,65818,3.2,8714,2024-01-24,Limited Stock,Deep call feel start suffer it stage beyond method same same admit.,Mid-Tier,5.97,61889,Medium,Average,False
+PID1210,Noise ColorFit Pro 4,BrandC,Laptop,89974,4.7,521,2021-06-23,Limited Stock,Number kitchen often somebody girl picture part still use pick TV.,Budget,21.13,70962,High,Excellent,False
+PID1211,HP Victus Gaming 16,BrandB,TV,24164,3.8,9127,2022-03-04,Out of Stock,Instead yard ground rate check know few seat lead culture stuff interest about once.,Mid-Tier,47.52,12681,Low,Average,False
+PID1212,Canon EOS 1500D,BrandX,Phone,67672,4.5,7569,2025-01-25,Out of Stock,Health act history age push us yeah method around eight meet.,Premium,33.49,45009,High,Good,False
+PID1213,Samsung Crystal 4K,BrandA,TV,86116,4.9,5784,2023-03-20,Out of Stock,Light public involve under next month company spring seven sit.,Premium,24.15,65319,High,Excellent,False
+PID1214,iPad 10th Gen,BrandC,TV,93764,4.6,4583,2022-12-19,Limited Stock,Author writer help husband party writer side region job be.,Budget,25.45,69901,High,Excellent,False
+PID1215,Samsung Crystal 4K,BrandC,Home Appliance,27236,4.7,5946,2024-01-23,Limited Stock,Receive test beautiful risk degree allow Congress campaign trouble generation relationship meet level score save quite.,Mid-Tier,5.07,25855,Low,Excellent,False
+PID1216,HP Pavilion 15,BrandB,TV,94709,3.5,4941,2021-05-07,Out of Stock,Individual nature style here learn possible heavy.,Premium,21.49,74356,High,Average,False
+PID1217,HP Victus Gaming 16,BrandX,Phone,1354,3.9,6267,2021-03-22,Limited Stock,Media say exactly listen child left dark lose director can force crime.,Mid-Tier,40.56,805,Low,Average,False
+PID1218,Zebronics ZEB-Rush,BrandX,TV,90584,3.1,7128,2023-08-06,Out of Stock,Agree whom there human sort people yet act whatever third financial certain hope race commercial probably.,Budget,58.58,37520,High,Average,True
+PID1219,Logitech MX Master 3,BrandX,Home Appliance,39123,3.0,2461,2022-07-29,Out of Stock,Purpose black although I structure mean edge nature memory consider himself piece.,Premium,51.59,18939,Medium,Poor,True
+PID1220,Mi TV 5X,BrandZ,Beauty,7892,3.8,685,2020-10-17,Limited Stock,Unit hair same perhaps recent college get sit.,Premium,6.3,7395,Low,Average,False
+PID1221,JBL Go 3,BrandX,TV,56180,4.0,2160,2021-05-07,Out of Stock,Authority interesting control major natural doctor ahead could how.,Premium,54.42,25607,Medium,Average,True
+PID1222,boAt Rockerz 450,BrandY,TV,47217,3.3,7031,2020-10-24,Out of Stock,Determine source century opportunity fill stop sea cause research social develop.,Mid-Tier,48.08,24515,Medium,Average,False
+PID1223,Xiaomi Pad 6,BrandZ,TV,87592,3.9,9759,2023-06-16,Out of Stock,Sort offer dinner explain mention reach certainly movie exactly poor these rule very must.,Mid-Tier,47.92,45618,High,Average,False
+PID1224,ASUS VivoBook 14,BrandB,Laptop,51359,4.7,5341,2025-06-17,In Stock,Common close join trial leg conference police serious once station food enjoy.,Mid-Tier,30.19,35854,Medium,Excellent,False
+PID1225,Samsung Galaxy M13,BrandZ,Laptop,26809,3.9,38,2022-04-27,In Stock,Customer above none onto author majority break consider believe step.,Mid-Tier,26.89,19600,Low,Average,False
+PID1226,Samsung Galaxy M13,BrandB,Laptop,87955,4.3,4875,2025-04-23,Out of Stock,Force live walk born issue amount take foreign.,Premium,21.66,68904,High,Good,False
+PID1227,OnePlus Nord CE 3,BrandY,Phone,64234,4.5,1256,2024-04-19,In Stock,Quickly place call author mention type resource collection product evening single.,Premium,8.61,58703,Medium,Good,False
+PID1228,Sony WH-1000XM4,BrandY,Home Appliance,70967,5.0,7697,2024-02-03,In Stock,Forget government compare door easy international into my himself.,Mid-Tier,17.55,58512,High,Excellent,False
+PID1229,Lenovo IdeaPad Slim 3,BrandB,Home Appliance,53162,4.0,2196,2024-07-09,In Stock,Fund trial well main argue challenge everything house believe college game.,Premium,18.56,43295,Medium,Average,False
+PID1230,iPad 10th Gen,BrandZ,Beauty,99006,4.5,7165,2023-12-19,Limited Stock,Citizen per determine style order go throughout.,Budget,31.62,67700,High,Good,False
+PID1231,iPad 10th Gen,BrandA,Grocery,13188,4.9,301,2025-02-14,In Stock,Toward along analysis couple reveal edge past purpose.,Premium,46.11,7107,Low,Excellent,False
+PID1232,Samsung Crystal 4K,BrandX,Grocery,25842,4.9,7527,2024-02-07,In Stock,Half now point wall rest consider prepare security money wide the yes if.,Budget,31.06,17815,Low,Excellent,False
+PID1233,Sony WH-1000XM4,BrandB,TV,37657,2.9,6381,2024-08-03,Limited Stock,System field simple reality but nation reduce physical hot ground.,Budget,8.18,34577,Medium,Poor,False
+PID1234,Logitech MX Master 3,BrandX,Home Appliance,68363,3.5,646,2025-03-22,In Stock,Color knowledge man pressure drop as chance data source street along election meet because record.,Mid-Tier,57.68,28931,High,Average,True
+PID1235,Logitech MX Master 3,BrandA,TV,52583,3.3,9951,2024-02-15,Limited Stock,Bring huge window just western finish race property family.,Budget,56.85,22690,Medium,Average,True
+PID1236,Acer Aspire 7,BrandA,Home Appliance,66233,2.7,8789,2021-06-26,Limited Stock,Present street foreign all new together bill suddenly yourself.,Mid-Tier,48.19,34315,Medium,Poor,False
+PID1237,iPhone 13,BrandC,Home Appliance,89545,4.1,8853,2024-09-10,Out of Stock,Treatment involve son close contain full cover low different card cold matter again may total.,Budget,59.52,36248,High,Good,True
+PID1238,Acer Aspire 7,BrandY,Grocery,35198,4.3,4330,2020-07-24,In Stock,Cut accept safe notice hospital song against culture.,Mid-Tier,34.95,22896,Medium,Good,False
+PID1239,Acer Aspire 7,BrandX,TV,81123,4.6,9560,2021-01-26,Limited Stock,Either keep knowledge firm someone what down name box.,Mid-Tier,57.95,34112,High,Excellent,True
+PID1240,Mi TV 5X,BrandA,Laptop,23171,2.8,7003,2021-12-10,Limited Stock,Stay probably hard year street good wrong question son thank early identify effect possible certain.,Budget,9.16,21049,Low,Poor,False
+PID1241,Logitech MX Master 3,BrandZ,Phone,25684,4.7,3537,2023-06-11,In Stock,East newspaper scientist hot include middle military raise cost machine.,Budget,25.11,19235,Low,Excellent,False
+PID1242,iPad 10th Gen,BrandC,Beauty,93884,4.1,4558,2022-03-16,Limited Stock,Term fly assume why then parent worry vote.,Budget,17.4,77548,High,Good,False
+PID1243,Redmi Note 12,BrandA,Home Appliance,42607,4.3,6579,2023-10-29,Limited Stock,Two believe keep sort vote rather fund poor popular moment measure may.,Budget,15.77,35888,Medium,Good,False
+PID1244,Acer Aspire 7,BrandY,Grocery,86702,4.8,8474,2022-01-25,In Stock,Ready piece race pass west me situation tax catch suddenly.,Mid-Tier,12.74,75656,High,Excellent,False
+PID1245,ASUS VivoBook 14,BrandY,TV,52163,4.1,9678,2020-08-17,Limited Stock,If increase become out to before fast authority wrong relate maintain lay through.,Premium,39.23,31699,Medium,Good,False
+PID1246,Nikon D3500,BrandB,Beauty,16208,3.3,4082,2024-11-19,Out of Stock,Pick upon enjoy page question send good seat investment.,Premium,47.97,8433,Low,Average,False
+PID1247,Fire-Boltt Ninja,BrandZ,Phone,92406,4.6,4183,2024-09-24,Out of Stock,Situation third your best foot security find civil ok shoulder foreign production least.,Budget,36.81,58391,High,Excellent,False
+PID1248,Noise ColorFit Pro 4,BrandY,TV,50311,3.4,8652,2024-09-16,In Stock,Father force institution magazine finally example nothing glass situation rate often world up head.,Premium,13.08,43730,Medium,Average,False
+PID1249,Acer Aspire 7,BrandY,Phone,3311,2.6,3754,2022-05-26,Out of Stock,Area it beautiful fact generation learn town government finally forward owner work.,Premium,49.61,1668,Low,Poor,False
+PID1250,Noise ColorFit Pro 4,BrandY,Beauty,56750,4.6,1724,2022-09-28,Out of Stock,A pass dog morning quality ok audience.,Mid-Tier,39.98,34061,Medium,Excellent,False
+PID1251,HP Pavilion 15,BrandA,Laptop,72582,3.4,1376,2023-11-30,Limited Stock,Life movement relationship you pass political visit far by spring loss.,Mid-Tier,26.35,53457,High,Average,False
+PID1252,Redmi Note 12,BrandA,Grocery,35254,4.4,8706,2022-07-01,Limited Stock,Arm drug place herself clear fact enjoy ready life note since well the short.,Budget,42.08,20419,Medium,Good,False
+PID1253,boAt Rockerz 450,BrandC,Home Appliance,96242,3.4,8894,2023-08-20,Out of Stock,Walk today prove race condition we yes raise radio kid return form.,Premium,19.29,77677,High,Average,False
+PID1254,Redmi Note 12,BrandC,Grocery,11911,4.7,1653,2020-10-30,Limited Stock,Yeah hit team especially vote responsibility other past but.,Mid-Tier,23.99,9054,Low,Excellent,False
+PID1255,Redmi Note 12,BrandB,Grocery,3411,3.0,2066,2023-09-23,Out of Stock,Past eye ahead recent up keep significant PM.,Mid-Tier,55.46,1519,Low,Poor,True
+PID1256,LG Smart LED 43in,BrandY,Home Appliance,67770,4.9,22,2021-06-01,Out of Stock,Establish project matter why bill culture information public western boy guess.,Budget,20.98,53552,High,Excellent,False
+PID1257,Boult Audio AirBass,BrandY,Beauty,84263,4.4,2460,2021-07-24,In Stock,Write old while fact step into father entire financial federal best artist drop source eat product.,Premium,30.85,58268,High,Good,False
+PID1258,OnePlus Nord CE 3,BrandY,TV,9180,2.8,5926,2024-06-16,Out of Stock,Try movie quality be wide as work century and get or rather chance phone.,Mid-Tier,53.96,4226,Low,Poor,True
+PID1259,Samsung Galaxy M13,BrandY,Home Appliance,85396,3.9,6251,2022-12-30,Limited Stock,Grow official allow yes dream inside same strong not why mean really now accept enjoy new.,Mid-Tier,43.92,47890,High,Average,False
+PID1260,Samsung Galaxy M13,BrandX,Laptop,84379,5.0,9496,2022-07-31,Limited Stock,Human yes film peace election five find pull body eat gas.,Budget,8.42,77274,High,Excellent,False
+PID1261,Fire-Boltt Ninja,BrandC,Beauty,71795,3.7,7295,2024-09-14,Out of Stock,Cell each city friend morning gun happy spring.,Premium,13.1,62390,High,Average,False
+PID1262,Lenovo IdeaPad Slim 3,BrandC,Grocery,89114,3.0,3300,2020-07-13,In Stock,Economy physical law data offer industry something probably contain plan resource.,Budget,5.43,84275,High,Poor,False
+PID1263,Samsung Crystal 4K,BrandZ,Beauty,11611,3.7,6279,2021-08-12,Limited Stock,One box to hard firm rule give.,Mid-Tier,39.7,7001,Low,Average,False
+PID1264,Canon EOS 1500D,BrandC,TV,38004,3.8,8553,2024-01-30,In Stock,Person fear matter possible before difference watch film animal character bit appear.,Budget,29.62,26747,Medium,Average,False
+PID1265,LG Smart LED 43in,BrandZ,Home Appliance,2302,4.4,7353,2021-11-09,In Stock,Present together simple east notice state news million image even dinner society white store western challenge.,Premium,12.39,2017,Low,Good,False
+PID1266,Redmi Note 12,BrandX,Grocery,8655,4.2,3727,2023-11-22,In Stock,Without my campaign trial behavior heart unit anyone so result strategy act.,Mid-Tier,57.69,3662,Low,Good,True
+PID1267,Logitech MX Master 3,BrandZ,TV,74156,3.5,6272,2024-11-15,In Stock,Skin hold wait form case result security investment possible simple full arm.,Budget,34.13,48847,High,Average,False
+PID1268,Logitech MX Master 3,BrandC,Home Appliance,39884,3.0,5995,2020-12-12,In Stock,Take scientist put enjoy specific hotel hour foot stay girl.,Budget,18.3,32585,Medium,Poor,False
+PID1269,Acer Aspire 7,BrandA,Home Appliance,47754,4.1,9476,2022-01-30,Limited Stock,Grow school beyond should employee market evidence event include their them through food walk shake.,Premium,32.53,32220,Medium,Good,False
+PID1270,Fire-Boltt Ninja,BrandC,Home Appliance,22418,3.6,514,2020-08-16,In Stock,Explain explain before know buy economy similar section low play.,Premium,42.38,12917,Low,Average,False
+PID1271,boAt Rockerz 450,BrandY,Phone,86481,2.8,448,2021-01-06,In Stock,Tree generation purpose theory cover chair forward trade same.,Mid-Tier,9.19,78533,High,Poor,False
+PID1272,Noise ColorFit Pro 4,BrandZ,Grocery,61213,4.8,6019,2024-06-10,In Stock,Yes eight trip continue every condition even use.,Premium,20.11,48903,Medium,Excellent,False
+PID1273,Apple MacBook Air M1,BrandB,TV,30806,4.2,5343,2023-03-30,In Stock,Just laugh forget carry center attention single across piece affect business same try television.,Budget,49.38,15594,Low,Good,False
+PID1274,Dell Inspiron 3511,BrandY,Home Appliance,17146,4.2,8033,2024-12-07,Out of Stock,Them one front most start address risk compare tree.,Budget,30.28,11954,Low,Good,False
+PID1275,boAt Rockerz 450,BrandY,Home Appliance,47343,4.6,2520,2022-04-20,Out of Stock,Person approach bring matter control protect walk economy work whose.,Budget,35.06,30745,Medium,Excellent,False
+PID1276,Lenovo IdeaPad Slim 3,BrandC,Phone,97101,3.8,3081,2021-04-01,In Stock,Wall power less worry senior staff performance best never show perhaps reality.,Budget,28.8,69136,High,Average,False
+PID1277,ASUS VivoBook 14,BrandZ,Home Appliance,91235,4.5,1428,2024-12-29,In Stock,Live board suddenly very start use world effort whatever trouble fall off of particular.,Mid-Tier,7.41,84474,High,Good,False
+PID1278,Realme Narzo 60,BrandA,Beauty,16871,3.7,3967,2020-11-27,In Stock,Air many great play blood land clearly cultural whether address security role out worry one sell.,Premium,14.12,14489,Low,Average,False
+PID1279,JBL Go 3,BrandY,Beauty,77871,2.7,6445,2021-11-19,Limited Stock,Organization upon idea your increase feel team also.,Mid-Tier,29.5,54899,High,Poor,False
+PID1280,OnePlus Nord CE 3,BrandA,Home Appliance,2549,3.5,9114,2021-11-29,In Stock,Before subject perform reach game certainly fire cut civil box religious force southern then option do.,Mid-Tier,16.51,2128,Low,Average,False
+PID1281,boAt Rockerz 450,BrandA,Phone,32116,3.7,2159,2024-02-10,In Stock,Government law remember degree beautiful about especially people voice later soon piece watch money child.,Mid-Tier,7.75,29627,Low,Average,False
+PID1282,iPhone 13,BrandA,Home Appliance,21432,4.3,5132,2020-09-16,In Stock,Break technology similar more available pay pick family explain.,Mid-Tier,51.4,10416,Low,Good,True
+PID1283,Sony WH-1000XM4,BrandZ,Grocery,30355,2.8,2547,2023-12-19,Limited Stock,Trade budget argue side indeed open role discover wait race choice plan three among paper agency.,Budget,58.97,12455,Low,Poor,True
+PID1284,Zebronics ZEB-Rush,BrandA,Phone,61934,2.9,2979,2024-05-14,Out of Stock,Magazine consumer front sort start begin represent eat range town.,Mid-Tier,48.62,31822,Medium,Poor,False
+PID1285,Apple MacBook Air M1,BrandA,Phone,73194,3.2,2649,2024-09-01,Limited Stock,By record it window cup single others establish argue its business computer Congress market.,Budget,51.96,35162,High,Average,True
+PID1286,Realme Narzo 60,BrandY,Beauty,43516,3.2,8505,2024-12-14,Limited Stock,Fall president general sure issue relationship others study nice firm along.,Budget,18.31,35548,Medium,Average,False
+PID1287,OnePlus Nord CE 3,BrandA,Grocery,7900,4.3,3083,2021-02-22,Limited Stock,Machine religious contain maintain move language size arm.,Premium,57.83,3331,Low,Good,True
+PID1288,JBL Go 3,BrandY,Grocery,43142,3.1,1037,2024-10-26,In Stock,Prevent ability imagine manager right church pay image hot article detail.,Budget,15.83,36313,Medium,Average,False
+PID1289,Dell Inspiron 3511,BrandX,Phone,15651,4.1,3489,2021-10-19,Out of Stock,Argue must newspaper ask remain claim knowledge.,Premium,57.33,6678,Low,Good,True
+PID1290,Samsung Crystal 4K,BrandZ,TV,51907,3.7,7604,2021-02-01,Out of Stock,Start provide war ready watch same turn sport your alone performance feeling performance free one.,Premium,59.72,20908,Medium,Average,True
+PID1291,Canon EOS 1500D,BrandC,Phone,67190,3.9,7544,2021-11-25,Out of Stock,Thousand mention too increase size onto prevent say.,Mid-Tier,44.14,37532,High,Average,False
+PID1292,boAt Rockerz 450,BrandX,Laptop,4999,4.6,2634,2021-07-18,In Stock,Cover likely discover large form race get produce class real billion nothing.,Budget,58.96,2052,Low,Excellent,True
+PID1293,Realme Narzo 60,BrandY,Beauty,6795,3.5,3983,2021-10-16,Limited Stock,Window social drop instead option court behavior wrong gun want.,Premium,36.32,4327,Low,Average,False
+PID1294,Samsung Galaxy M13,BrandZ,Laptop,59540,4.4,1778,2025-06-18,Out of Stock,Once peace fish argue mention general truth likely.,Premium,19.27,48067,Medium,Good,False
+PID1295,Canon EOS 1500D,BrandC,TV,12683,3.6,7902,2023-12-30,In Stock,Kitchen with possible range almost pass image control former second.,Budget,29.03,9001,Low,Average,False
+PID1296,Samsung Crystal 4K,BrandY,TV,29799,3.4,5110,2021-09-27,In Stock,Travel agent end off would cover why year seem few.,Mid-Tier,37.65,18580,Low,Average,False
+PID1297,Mi TV 5X,BrandZ,Home Appliance,13374,4.9,5189,2025-05-26,Out of Stock,Or former offer ten speak notice black collection bit skill collection example significant.,Premium,9.02,12168,Low,Excellent,False
+PID1298,LG Smart LED 43in,BrandZ,Grocery,33211,3.0,7378,2021-04-17,Limited Stock,Common six senior tend west city responsibility compare successful boy help democratic close.,Mid-Tier,39.23,20182,Low,Poor,False
+PID1299,iPad 10th Gen,BrandY,Beauty,6039,2.7,1124,2022-01-01,Out of Stock,Health will sport base animal American short event husband seven sometimes.,Premium,58.96,2478,Low,Poor,True
+PID1300,HP Pavilion 15,BrandX,Grocery,53851,4.4,697,2023-02-27,In Stock,Time order voice join white situation be doctor parent mouth here study example under whose hard.,Budget,15.46,45526,Medium,Good,False
+PID1301,Logitech MX Master 3,BrandX,Grocery,61767,2.7,2179,2024-04-08,Out of Stock,Day better describe blood thought computer performance government.,Premium,48.59,31754,Medium,Poor,False
+PID1302,HP Pavilion 15,BrandA,Laptop,48854,4.6,9596,2024-07-17,In Stock,Which company possible support company country new identify experience opportunity dinner.,Budget,54.93,22018,Medium,Excellent,True
+PID1303,HP Victus Gaming 16,BrandZ,TV,3057,3.6,5251,2023-09-26,Limited Stock,Center down agency center case walk center bank of.,Premium,56.9,1318,Low,Average,True
+PID1304,Apple MacBook Air M1,BrandC,Grocery,38860,4.8,9235,2023-05-23,In Stock,If where goal skin ball travel relate young.,Premium,57.81,16395,Medium,Excellent,True
+PID1305,iPhone 13,BrandA,Beauty,82518,4.3,1929,2023-08-19,In Stock,Like four because above your fire knowledge season computer term direction month.,Mid-Tier,33.68,54726,High,Good,False
+PID1306,Samsung Galaxy M13,BrandC,Phone,2700,4.0,1013,2021-12-26,Limited Stock,Wide foreign generation politics condition election college.,Budget,58.75,1114,Low,Average,True
+PID1307,iPhone 13,BrandC,TV,68997,4.9,226,2023-01-11,In Stock,Few child pay develop key style worker ground economy dark.,Budget,46.65,36810,High,Excellent,False
+PID1308,HP Victus Gaming 16,BrandC,Phone,47475,3.5,7321,2025-06-09,Out of Stock,American bill take expert kid job black but far south compare.,Premium,13.89,40881,Medium,Average,False
+PID1309,Apple MacBook Air M1,BrandY,Beauty,21857,4.9,1828,2023-09-27,In Stock,Foreign environment sing machine foot why thousand think.,Budget,31.23,15031,Low,Excellent,False
+PID1310,Dell Inspiron 3511,BrandA,Laptop,78005,2.8,7909,2022-11-08,Limited Stock,Such upon return method between form need their on camera performance whether.,Premium,44.51,43285,High,Poor,False
+PID1311,Boult Audio AirBass,BrandX,Home Appliance,3369,3.7,5588,2024-06-09,Limited Stock,Hundred indicate again add break base radio country.,Mid-Tier,18.6,2742,Low,Average,False
+PID1312,Canon EOS 1500D,BrandX,Home Appliance,61635,3.2,2023,2021-10-19,Limited Stock,Loss commercial present population among rather interest major idea itself avoid animal.,Premium,40.23,36839,Medium,Average,False
+PID1313,Nikon D3500,BrandB,Grocery,50608,3.8,4966,2025-03-15,In Stock,Explain admit nothing example mouth Republican plant middle bed.,Mid-Tier,41.66,29525,Medium,Average,False
+PID1314,boAt Rockerz 450,BrandY,TV,94679,2.9,5891,2022-02-14,Limited Stock,Participant peace go want not wish glass dinner contain.,Premium,13.95,81471,High,Poor,False
+PID1315,HP Pavilion 15,BrandA,Home Appliance,90772,4.6,1080,2024-08-14,In Stock,Individual other series put physical according could as could something law green under cause dream still.,Budget,36.08,58021,High,Excellent,False
+PID1316,Acer Aspire 7,BrandZ,Home Appliance,38967,4.6,5036,2021-02-04,Out of Stock,Same significant score page culture fish attack certainly since even international for decade use major.,Premium,47.44,20481,Medium,Excellent,False
+PID1317,Boult Audio AirBass,BrandZ,Laptop,23828,4.9,2563,2023-10-20,Limited Stock,History instead than detail including want gun amount floor himself until star per country production.,Budget,32.44,16098,Low,Excellent,False
+PID1318,Fire-Boltt Ninja,BrandX,Phone,91912,2.9,3292,2020-08-14,Out of Stock,Lose detail rock talk want full girl for which.,Mid-Tier,5.67,86701,High,Poor,False
+PID1319,Noise ColorFit Pro 4,BrandB,TV,87331,4.1,3586,2023-11-29,Out of Stock,Phone station partner food machine choose bit move benefit none you but.,Budget,5.5,82528,High,Good,False
+PID1320,Zebronics ZEB-Rush,BrandZ,Beauty,4487,3.7,4431,2024-05-12,Out of Stock,World argue benefit address thus wonder act enjoy family alone cold argue.,Budget,24.64,3381,Low,Average,False
+PID1321,Logitech MX Master 3,BrandC,Grocery,59371,3.4,6841,2024-03-30,Out of Stock,Become experience thing like field picture produce candidate consumer concern.,Budget,55.94,26159,Medium,Average,True
+PID1322,JBL Go 3,BrandY,Beauty,22899,3.4,6643,2021-03-27,In Stock,Pattern rest respond short lay sometimes environmental nothing consumer teacher.,Mid-Tier,17.58,18873,Low,Average,False
+PID1323,LG Smart LED 43in,BrandY,Home Appliance,46714,3.5,3959,2021-10-25,Out of Stock,Top sometimes represent lose evidence glass foreign account media American loss sound author.,Mid-Tier,39.89,28080,Medium,Average,False
+PID1324,iPhone 13,BrandY,Phone,86916,4.3,161,2021-03-20,In Stock,Safe what water into then figure baby raise occur attack argue quickly none employee.,Premium,17.21,71958,High,Good,False
+PID1325,Lenovo IdeaPad Slim 3,BrandA,TV,70771,4.0,593,2021-06-09,Out of Stock,Look hundred describe matter brother task successful act.,Budget,22.69,54713,High,Average,False
+PID1326,Fire-Boltt Ninja,BrandA,Phone,44564,3.6,3390,2024-03-22,In Stock,Usually cut across dog around detail political guy fall save glass chair final character side.,Budget,51.64,21551,Medium,Average,True
+PID1327,Mi TV 5X,BrandA,Home Appliance,70591,2.7,5997,2023-04-12,Out of Stock,Agree choice style receive street soldier happen grow quite single child.,Budget,45.09,38762,High,Poor,False
+PID1328,Redmi Note 12,BrandC,Grocery,41318,2.7,6354,2021-10-29,Limited Stock,Type season leg yeah couple similar outside herself my arm rise factor.,Mid-Tier,10.25,37083,Medium,Poor,False
+PID1329,Dell Inspiron 3511,BrandB,Grocery,46025,2.5,663,2023-08-09,Limited Stock,Out during front establish bad Congress develop American inside possible once animal skill white bank.,Premium,28.58,32871,Medium,Poor,False
+PID1330,Samsung Crystal 4K,BrandY,Home Appliance,20330,4.9,9324,2022-06-12,Limited Stock,Through Republican push population gun among kitchen not public down bad color form tax.,Premium,6.6,18988,Low,Excellent,False
+PID1331,Xiaomi Pad 6,BrandZ,TV,17929,2.5,541,2023-03-08,Limited Stock,Growth growth draw western smile truth case heavy door ahead listen each.,Premium,31.45,12290,Low,Poor,False
+PID1332,iPhone 13,BrandA,TV,7393,2.8,5433,2022-12-04,In Stock,Science tough player far pressure concern difference career.,Budget,41.43,4330,Low,Poor,False
+PID1333,Canon EOS 1500D,BrandB,Laptop,80409,3.3,5093,2020-12-10,Limited Stock,Soon law time child hit wait become seem.,Budget,11.52,71146,High,Average,False
+PID1334,Fire-Boltt Ninja,BrandA,Home Appliance,47833,4.5,867,2022-01-06,Out of Stock,Throw suggest know expect coach example already reach structure letter.,Mid-Tier,20.89,37841,Medium,Good,False
+PID1335,Lenovo IdeaPad Slim 3,BrandA,Home Appliance,3936,4.9,8623,2024-12-20,Limited Stock,System enjoy form example piece camera return woman hard wife where next forget hold south.,Budget,26.88,2878,Low,Excellent,False
+PID1336,Lenovo IdeaPad Slim 3,BrandA,Phone,74790,4.5,5469,2023-04-23,Out of Stock,Chair employee animal size trouble miss budget citizen hair cost law.,Budget,55.57,33229,High,Good,True
+PID1337,Acer Aspire 7,BrandA,Grocery,76713,4.2,6256,2024-11-27,Limited Stock,Perform forget different fish similar very several middle nice mean dinner law concern worry rather.,Mid-Tier,59.63,30969,High,Good,True
+PID1338,Canon EOS 1500D,BrandA,Home Appliance,6395,3.8,9398,2021-05-08,Limited Stock,Character four race between citizen tonight act site worry hand help turn food any.,Mid-Tier,7.47,5917,Low,Average,False
+PID1339,JBL Go 3,BrandA,Grocery,20238,2.7,1169,2021-04-26,In Stock,Technology in senior teacher thank live suggest which.,Mid-Tier,46.86,10754,Low,Poor,False
+PID1340,HP Pavilion 15,BrandY,Home Appliance,31246,4.9,830,2021-12-31,Out of Stock,Customer chance above issue easy data school which film treat well onto seem task anything.,Premium,25.44,23297,Low,Excellent,False
+PID1341,Fire-Boltt Ninja,BrandC,Grocery,49877,4.4,1651,2024-07-10,Out of Stock,Study civil add nor cause process on perhaps music majority save.,Premium,26.59,36615,Medium,Good,False
+PID1342,Nikon D3500,BrandX,Phone,48904,4.1,1136,2024-02-20,In Stock,Career suffer small office worry air research effort.,Budget,46.48,26173,Medium,Good,False
+PID1343,Xiaomi Pad 6,BrandB,Laptop,54545,4.4,2810,2023-11-23,Out of Stock,Send but area century above green central cause class clear the soon reflect.,Premium,55.51,24267,Medium,Good,True
+PID1344,Redmi Note 12,BrandX,TV,98388,4.3,8667,2022-07-09,In Stock,Nor bill should involve benefit add himself each themselves back little everyone attorney interview past lead.,Mid-Tier,57.3,42012,High,Good,True
+PID1345,JBL Go 3,BrandB,TV,40290,4.1,9518,2023-05-29,Limited Stock,Yard number southern price realize each structure cover next fall information cut property race success.,Mid-Tier,36.74,25487,Medium,Good,False
+PID1346,HP Victus Gaming 16,BrandZ,Laptop,6100,5.0,1019,2023-12-12,Out of Stock,Use grow news huge six consumer language room big lose and by board course mind stand.,Budget,24.64,4597,Low,Excellent,False
+PID1347,Sony WH-1000XM4,BrandA,Grocery,95160,4.8,5237,2022-03-16,Out of Stock,Eight dream religious fight firm drop professional data.,Premium,48.32,49179,High,Excellent,False
+PID1348,Dell Inspiron 3511,BrandY,Phone,93679,4.1,1283,2021-09-07,In Stock,Special evening close black shoulder cut investment customer base professional practice ago enjoy trade defense.,Premium,18.81,76058,High,Good,False
+PID1349,Realme Narzo 60,BrandB,Beauty,41264,4.2,659,2024-11-20,Out of Stock,See fine television write tonight never if.,Budget,36.02,26401,Medium,Good,False
+PID1350,OnePlus Nord CE 3,BrandX,Home Appliance,75043,2.6,2010,2022-01-08,In Stock,Identify man authority news lose factor movie same everything we each them.,Budget,24.72,56492,High,Poor,False
+PID1351,iPhone 13,BrandZ,Laptop,46214,4.2,8590,2025-01-26,Limited Stock,Everybody maintain religious baby improve and shoulder win color set.,Budget,41.11,27215,Medium,Good,False
+PID1352,boAt Rockerz 450,BrandY,TV,57335,2.6,1733,2021-03-23,In Stock,Room girl industry cold card receive value factor method recent.,Budget,18.22,46889,Medium,Poor,False
+PID1353,Dell Inspiron 3511,BrandY,TV,74244,4.0,2125,2024-09-27,Out of Stock,Over in gas Mr find age fast sometimes ok follow.,Budget,15.54,62706,High,Average,False
+PID1354,Noise ColorFit Pro 4,BrandA,Grocery,56991,5.0,2171,2024-12-05,In Stock,Reflect forward maybe interesting mean large market according the alone than there thus necessary member.,Mid-Tier,55.5,25361,Medium,Excellent,True
+PID1355,LG Smart LED 43in,BrandX,Beauty,19089,3.9,8266,2024-03-10,Out of Stock,Almost quite garden bring new middle land other.,Premium,10.6,17066,Low,Average,False
+PID1356,Logitech MX Master 3,BrandA,Grocery,43984,3.7,3471,2022-06-28,Out of Stock,Magazine drop close sister it between opportunity else.,Mid-Tier,32.83,29544,Medium,Average,False
+PID1357,Samsung Galaxy M13,BrandC,Home Appliance,83489,3.3,9028,2020-06-30,Limited Stock,Watch attention ready son debate public east state.,Premium,17.15,69171,High,Average,False
+PID1358,Samsung Galaxy M13,BrandZ,Beauty,36712,2.8,5624,2020-07-06,In Stock,Forget official or admit music PM most party.,Mid-Tier,7.14,34091,Medium,Poor,False
+PID1359,Boult Audio AirBass,BrandX,Laptop,44025,4.3,8691,2020-07-04,Limited Stock,To simple drop enough foreign scene party maintain argue continue left save behind knowledge art scientist.,Mid-Tier,6.98,40952,Medium,Good,False
+PID1360,Mi TV 5X,BrandZ,Beauty,47702,3.0,8329,2021-05-10,Limited Stock,Whose hard forward major stock create now use visit.,Mid-Tier,14.64,40718,Medium,Poor,False
+PID1361,Redmi Note 12,BrandY,Phone,33135,2.8,2097,2021-01-09,In Stock,Learn push everyone unit reduce pay keep however back part teacher couple.,Budget,52.67,15683,Low,Poor,True
+PID1362,Redmi Note 12,BrandZ,Grocery,63708,3.6,5068,2024-01-14,Out of Stock,Owner return ground onto bed various turn find ask more recognize write listen.,Mid-Tier,20.54,50622,Medium,Average,False
+PID1363,Sony WH-1000XM4,BrandC,Laptop,34328,4.5,6397,2023-04-24,Limited Stock,Account arrive expect source produce four nor middle write choice third organization small writer civil.,Budget,57.28,14665,Medium,Good,True
+PID1364,Acer Aspire 7,BrandX,Laptop,19211,4.4,2757,2021-08-02,Out of Stock,Whether fly one difference successful quite something agency save knowledge trade when thus sure daughter.,Budget,36.99,12105,Low,Good,False
+PID1365,Samsung Galaxy M13,BrandC,Beauty,3920,2.6,3920,2024-07-24,In Stock,They tonight per south get power movie form school condition hit decide this.,Mid-Tier,29.01,2783,Low,Poor,False
+PID1366,OnePlus Nord CE 3,BrandY,Grocery,97252,3.6,8186,2023-10-07,Out of Stock,Certainly probably man serious method number main require to local.,Premium,36.9,61366,High,Average,False
+PID1367,HP Pavilion 15,BrandA,TV,801,3.8,1900,2021-08-17,In Stock,According guess class herself trouble second lot lot hotel finish sing movie garden card.,Mid-Tier,33.42,533,Low,Average,False
+PID1368,OnePlus Nord CE 3,BrandC,Laptop,45736,4.1,2610,2022-08-19,In Stock,Leave provide home open quickly rest respond with improve pull social after.,Budget,46.73,24364,Medium,Good,False
+PID1369,HP Pavilion 15,BrandC,Grocery,66735,4.1,6900,2021-12-24,Out of Stock,Total dinner under style anyone past forget build who out.,Mid-Tier,20.54,53028,High,Good,False
+PID1370,Sony WH-1000XM4,BrandY,Grocery,54740,3.4,1449,2020-11-17,Out of Stock,Surface soldier physical source two course magazine deal good site both series act seek among audience.,Budget,24.42,41372,Medium,Average,False
+PID1371,HP Pavilion 15,BrandA,Beauty,66226,3.9,8738,2023-08-23,Limited Stock,Plan vote adult cold learn your important discussion wait out American network.,Budget,54.18,30345,Medium,Average,True
+PID1372,OnePlus Nord CE 3,BrandZ,Beauty,10992,3.7,5017,2024-11-12,In Stock,Person girl beautiful improve choice subject hand.,Mid-Tier,57.06,4720,Low,Average,True
+PID1373,boAt Rockerz 450,BrandC,Grocery,6602,4.7,7999,2023-10-07,In Stock,Human rest same leave help series candidate speak.,Budget,54.09,3031,Low,Excellent,True
+PID1374,Dell Inspiron 3511,BrandZ,Home Appliance,50836,3.8,6052,2023-01-13,Limited Stock,Although recently option behavior health hotel require new against finally suffer manager.,Mid-Tier,28.07,36566,Medium,Average,False
+PID1375,Canon EOS 1500D,BrandY,Laptop,85814,3.6,2096,2020-09-05,Out of Stock,Focus only occur level population question strategy town center eye upon involve capital next draw.,Budget,47.92,44692,High,Average,False
+PID1376,Noise ColorFit Pro 4,BrandB,Home Appliance,27141,3.5,8895,2022-02-07,Limited Stock,Fear mouth top produce visit too food box form.,Mid-Tier,31.2,18673,Low,Average,False
+PID1377,Lenovo IdeaPad Slim 3,BrandA,Laptop,35084,3.9,6404,2023-09-27,In Stock,Long open garden there close road fill action.,Mid-Tier,32.36,23731,Medium,Average,False
+PID1378,HP Pavilion 15,BrandB,Phone,33245,4.5,9817,2024-05-02,Limited Stock,Month determine page nation before quickly government role use specific less.,Mid-Tier,16.26,27839,Low,Good,False
+PID1379,Boult Audio AirBass,BrandY,Beauty,23593,3.8,3331,2022-06-23,Out of Stock,Something strong place visit necessary not official story put paper thought understand fight trouble.,Premium,37.51,14743,Low,Average,False
+PID1380,iPad 10th Gen,BrandX,Phone,66605,4.2,7462,2024-08-22,Out of Stock,Could easy back human part each she white meeting apply.,Mid-Tier,15.24,56454,Medium,Good,False
+PID1381,Dell Inspiron 3511,BrandA,Phone,52385,4.3,5105,2024-03-21,In Stock,Computer you lay quite environment hard smile writer medical than wide across picture teach happen.,Premium,23.24,40211,Medium,Good,False
+PID1382,JBL Go 3,BrandC,TV,37131,3.8,2978,2025-03-29,Limited Stock,Individual arrive section policy tend cover new exist concern control return.,Mid-Tier,52.03,17812,Medium,Average,True
+PID1383,JBL Go 3,BrandX,TV,73491,3.6,2839,2023-08-05,Out of Stock,Cause probably young knowledge visit teacher the nothing base full.,Mid-Tier,16.39,61446,High,Average,False
+PID1384,Canon EOS 1500D,BrandA,Beauty,4514,4.7,3384,2020-07-06,Limited Stock,A believe wear data event protect should.,Budget,8.91,4112,Low,Excellent,False
+PID1385,Fire-Boltt Ninja,BrandX,Laptop,11593,3.5,685,2024-07-02,Limited Stock,Father child entire experience receive much strong wish consumer citizen itself always once exist center.,Mid-Tier,8.8,10573,Low,Average,False
+PID1386,iPhone 13,BrandC,TV,18570,3.7,7531,2024-09-10,Out of Stock,Box significant list someone red table off house century never production scene.,Mid-Tier,56.74,8033,Low,Average,True
+PID1387,Acer Aspire 7,BrandB,Phone,36277,5.0,4283,2021-09-05,Limited Stock,Election purpose someone interesting old partner word nor live push energy daughter enough far clear win.,Budget,32.88,24349,Medium,Excellent,False
+PID1388,Sony WH-1000XM4,BrandY,TV,57458,2.5,7736,2020-10-15,In Stock,High continue generation law it success PM research challenge.,Mid-Tier,27.52,41646,Medium,Poor,False
+PID1389,Dell Inspiron 3511,BrandC,Home Appliance,82574,3.0,7710,2024-01-11,Out of Stock,Bank accept kind possible floor few upon away left.,Budget,49.6,41617,High,Poor,False
+PID1390,Realme Narzo 60,BrandZ,Grocery,11229,3.5,1619,2025-02-05,Out of Stock,Let this assume star usually relationship work option form simply southern Congress role once individual.,Premium,50.97,5506,Low,Average,True
+PID1391,OnePlus Nord CE 3,BrandA,Laptop,45517,4.8,6868,2023-07-30,Limited Stock,Thing father leg address threat spring phone media authority especially land ago.,Mid-Tier,23.27,34925,Medium,Excellent,False
+PID1392,Dell Inspiron 3511,BrandZ,Phone,66820,2.7,1431,2024-03-27,Limited Stock,Wait sometimes plan tax send accept put artist physical fine offer decision country.,Premium,43.15,37987,High,Poor,False
+PID1393,ASUS VivoBook 14,BrandB,Phone,28251,2.5,9067,2023-02-04,In Stock,Whole fact prevent what production citizen television road allow action physical arrive activity forget your.,Mid-Tier,47.41,14857,Low,Poor,False
+PID1394,Mi TV 5X,BrandZ,Home Appliance,78569,2.6,4713,2020-10-16,Out of Stock,Prove require sport onto study military he.,Mid-Tier,41.01,46348,High,Poor,False
+PID1395,Redmi Note 12,BrandZ,Phone,55248,2.7,9557,2022-07-12,Limited Stock,Claim rule federal enter this plan side either similar.,Budget,13.34,47878,Medium,Poor,False
+PID1396,Canon EOS 1500D,BrandC,Grocery,6301,2.6,9435,2024-10-27,In Stock,Maintain without must compare price blood minute woman.,Premium,53.17,2951,Low,Poor,True
+PID1397,Xiaomi Pad 6,BrandZ,Beauty,19690,3.7,4998,2021-08-13,Out of Stock,Drop born pull them upon local way old star.,Budget,34.65,12867,Low,Average,False
+PID1398,Samsung Crystal 4K,BrandZ,Laptop,50189,4.0,162,2020-10-09,In Stock,Provide there approach measure language middle now that.,Mid-Tier,20.54,39880,Medium,Average,False
+PID1399,Mi TV 5X,BrandX,TV,51493,3.2,1974,2024-03-28,Out of Stock,Station maybe knowledge significant letter finish price environmental friend medical outside.,Premium,28.39,36874,Medium,Average,False
+PID1400,Boult Audio AirBass,BrandY,Home Appliance,30092,3.5,3291,2024-12-17,Out of Stock,Away moment as there amount authority education speech side long edge hair significant a.,Budget,7.07,27964,Low,Average,False
+PID1401,iPad 10th Gen,BrandX,TV,11147,2.7,8461,2024-04-28,Limited Stock,Section job until contain drop agreement employee store never skin set blue policy.,Budget,12.03,9806,Low,Poor,False
+PID1402,boAt Rockerz 450,BrandX,Grocery,9216,3.3,631,2024-02-20,Limited Stock,Guy cold person loss age despite Republican rock guy pass hold.,Budget,47.11,4874,Low,Average,False
+PID1403,ASUS VivoBook 14,BrandY,Grocery,89391,3.8,905,2021-01-24,In Stock,Generation born about song cell soldier senior through thought particularly arm draw week.,Budget,5.0,84921,High,Average,False
+PID1404,Redmi Note 12,BrandC,Laptop,88045,4.3,2014,2022-09-05,Out of Stock,Live rock throw their reflect also arm.,Budget,27.91,63472,High,Good,False
+PID1405,Logitech MX Master 3,BrandC,Grocery,90412,2.5,9833,2022-04-23,In Stock,Situation full especially seat third figure if music recent.,Budget,33.74,59907,High,Poor,False
+PID1406,Canon EOS 1500D,BrandA,Grocery,70816,3.7,7896,2020-11-14,In Stock,Major strategy election true man another another assume talk only soldier wear across for seem can.,Mid-Tier,8.0,65151,High,Average,False
+PID1407,ASUS VivoBook 14,BrandC,Laptop,2868,3.2,204,2022-01-21,Limited Stock,Movement raise garden west hundred here decade.,Budget,58.52,1190,Low,Average,True
+PID1408,Canon EOS 1500D,BrandZ,Grocery,78075,4.6,581,2023-11-01,Out of Stock,Actually parent learn statement employee whom out cause.,Mid-Tier,17.44,64459,High,Excellent,False
+PID1409,Zebronics ZEB-Rush,BrandX,TV,7155,4.3,5675,2021-01-03,Out of Stock,Perform onto business home concern option remain doctor.,Budget,21.73,5600,Low,Good,False
+PID1410,boAt Rockerz 450,BrandC,Grocery,70531,4.0,9032,2024-12-21,Limited Stock,Accept community world long read manager material serious join reduce traditional cost center draw.,Mid-Tier,21.72,55212,High,Average,False
+PID1411,Canon EOS 1500D,BrandY,Grocery,76929,3.2,5347,2020-06-23,Out of Stock,Run among agreement work charge management good face wish police three.,Premium,17.67,63336,High,Average,False
+PID1412,Mi TV 5X,BrandB,Home Appliance,91583,4.8,9911,2021-12-03,In Stock,Speech can food hope audience only field sound environmental energy cultural stand economy.,Mid-Tier,5.08,86931,High,Excellent,False
+PID1413,iPad 10th Gen,BrandY,Laptop,88422,2.6,2643,2021-03-22,Out of Stock,Program drop maintain leave early sit occur.,Mid-Tier,45.11,48535,High,Poor,False
+PID1414,Samsung Crystal 4K,BrandX,Grocery,56266,2.8,8017,2021-12-12,In Stock,Could candidate play director hair different almost skin stand.,Premium,58.18,23530,Medium,Poor,True
+PID1415,LG Smart LED 43in,BrandA,Beauty,13903,3.5,2297,2021-11-16,In Stock,Like help rich whose program environment system blue close defense how hospital training for real.,Budget,17.34,11492,Low,Average,False
+PID1416,iPad 10th Gen,BrandZ,Laptop,32597,2.8,874,2020-11-30,Out of Stock,Age actually gas list upon party them most with carry young other media.,Mid-Tier,41.47,19079,Low,Poor,False
+PID1417,Acer Aspire 7,BrandC,Beauty,79157,4.9,5560,2020-09-04,Out of Stock,Contain buy reason score difficult I push factor defense deal toward between staff even so.,Mid-Tier,45.8,42903,High,Excellent,False
+PID1418,Samsung Crystal 4K,BrandC,Laptop,11466,4.5,689,2024-01-02,Limited Stock,Easy interview here surface pretty dog certainly.,Budget,51.66,5543,Low,Good,True
+PID1419,boAt Rockerz 450,BrandA,Phone,99657,3.1,4000,2022-10-11,Out of Stock,Election manager strategy war skill finish stand.,Budget,28.24,71514,High,Average,False
+PID1420,OnePlus Nord CE 3,BrandB,Beauty,94348,4.0,9614,2024-06-19,Out of Stock,Company garden since story team political yourself shoulder kitchen mission blue serve show.,Mid-Tier,21.66,73912,High,Average,False
+PID1421,Lenovo IdeaPad Slim 3,BrandX,TV,53421,5.0,671,2023-02-05,Out of Stock,Item recognize commercial soon new part throw leave.,Mid-Tier,22.89,41193,Medium,Excellent,False
+PID1422,Fire-Boltt Ninja,BrandZ,Beauty,50226,4.7,7927,2021-07-26,Out of Stock,Matter item nearly mission threat hair at high school may sit control unit certain.,Mid-Tier,44.19,28031,Medium,Excellent,False
+PID1423,Samsung Crystal 4K,BrandX,Grocery,50800,4.0,1171,2022-12-29,In Stock,If task break wind despite organization daughter approach.,Budget,49.92,25441,Medium,Average,False
+PID1424,HP Pavilion 15,BrandC,TV,23177,4.8,5591,2024-06-27,Out of Stock,Trade yeah personal scene bill bill big without data course guy issue.,Mid-Tier,14.99,19703,Low,Excellent,False
+PID1425,Samsung Crystal 4K,BrandC,Phone,56109,5.0,9135,2023-04-02,In Stock,Full store right machine face call drug stay stage sound foot certain compare media fast.,Mid-Tier,25.4,41857,Medium,Excellent,False
+PID1426,Redmi Note 12,BrandY,Laptop,97325,4.4,6342,2025-03-29,In Stock,Check toward weight black administration explain and religious prevent your college image.,Premium,54.61,44176,High,Good,True
+PID1427,Lenovo IdeaPad Slim 3,BrandZ,Laptop,57161,2.7,1449,2023-10-21,In Stock,Quickly movement few peace stand every sign wind.,Budget,49.37,28941,Medium,Poor,False
+PID1428,Realme Narzo 60,BrandB,Beauty,31524,3.5,2539,2022-01-21,Out of Stock,Rich until eight current laugh people have population friend even year deal lawyer cause.,Premium,59.17,12871,Low,Average,True
+PID1429,OnePlus Nord CE 3,BrandA,Beauty,70813,4.6,3959,2021-11-16,Limited Stock,Mind not herself manage very show send all every scientist although sound center quickly he understand.,Budget,46.48,37899,High,Excellent,False
+PID1430,Acer Aspire 7,BrandX,TV,53506,3.1,6285,2024-07-04,In Stock,Cold deep yourself many we education ready wind entire until medical.,Mid-Tier,26.63,39257,Medium,Average,False
+PID1431,Boult Audio AirBass,BrandX,Phone,95785,4.6,5432,2024-06-25,Out of Stock,They ahead firm individual democratic image road firm ten federal.,Mid-Tier,37.49,59875,High,Excellent,False
+PID1432,Samsung Crystal 4K,BrandY,Beauty,15838,2.8,4260,2023-12-25,Out of Stock,Course rather example security surface write billion describe risk figure establish.,Mid-Tier,41.36,9287,Low,Poor,False
+PID1433,Samsung Crystal 4K,BrandZ,TV,68527,2.6,2361,2021-06-04,Out of Stock,Inside important industry who specific guy fear page old public realize which get others.,Budget,9.32,62140,High,Poor,False
+PID1434,Canon EOS 1500D,BrandY,Beauty,93272,3.5,6164,2021-01-12,Limited Stock,Want situation miss nation fine have since organization force effect sing soldier fire.,Budget,34.95,60673,High,Average,False
+PID1435,Fire-Boltt Ninja,BrandY,Grocery,80635,2.6,3670,2023-09-28,In Stock,Should maintain herself field light daughter where heart or surface resource laugh class agent yard down.,Budget,44.01,45148,High,Poor,False
+PID1436,Redmi Note 12,BrandB,Phone,20008,4.9,1753,2021-04-02,Limited Stock,Mission expect bag interest class blue maintain change better expert.,Budget,14.2,17167,Low,Excellent,False
+PID1437,Xiaomi Pad 6,BrandB,TV,3551,4.6,8100,2022-10-17,In Stock,Process level father rest issue perform chair much say leave indeed environment writer wish.,Mid-Tier,47.93,1849,Low,Excellent,False
+PID1438,iPhone 13,BrandA,Grocery,49247,4.5,1938,2023-12-21,Out of Stock,Alone himself share surface attention big main population compare sound enjoy up.,Mid-Tier,37.11,30971,Medium,Good,False
+PID1439,Mi TV 5X,BrandX,Laptop,87642,4.1,8562,2022-08-29,Out of Stock,Mother clearly car article great question six kid behavior collection authority.,Premium,57.37,37362,High,Good,True
+PID1440,ASUS VivoBook 14,BrandX,Home Appliance,87735,3.0,5976,2021-10-06,In Stock,Available always staff so film surface minute both control consumer special alone actually office.,Budget,7.33,81304,High,Poor,False
+PID1441,HP Pavilion 15,BrandC,Grocery,54521,3.8,6588,2024-04-21,In Stock,Section could factor interview price democratic address reason away my artist.,Mid-Tier,19.59,43840,Medium,Average,False
+PID1442,Acer Aspire 7,BrandY,TV,66912,4.0,8616,2020-09-09,Limited Stock,Explain newspaper research relationship upon president my tough boy data position improve.,Premium,38.09,41425,High,Average,False
+PID1443,Redmi Note 12,BrandX,Grocery,58835,3.8,6304,2022-12-19,Limited Stock,Money decide space building fund particularly wish wrong see season whatever.,Premium,21.31,46297,Medium,Average,False
+PID1444,iPhone 13,BrandZ,Grocery,56679,3.2,7345,2021-01-06,Limited Stock,Sister low million decide student coach senior student yes gas figure join service sell let.,Budget,44.29,31576,Medium,Average,False
+PID1445,Noise ColorFit Pro 4,BrandY,Laptop,32593,3.8,7875,2025-02-05,In Stock,So sense other tree minute deep itself.,Premium,46.75,17356,Low,Average,False
+PID1446,iPhone 13,BrandZ,Beauty,70178,3.7,9086,2022-08-21,In Stock,Large top say book left hear history call century society onto.,Mid-Tier,10.64,62711,High,Average,False
+PID1447,Nikon D3500,BrandB,Laptop,81238,5.0,6633,2022-08-06,Limited Stock,Employee itself join other management whom dark expert theory million yet identify sport personal get he.,Mid-Tier,33.26,54218,High,Excellent,False
+PID1448,JBL Go 3,BrandB,Home Appliance,40234,4.7,597,2023-03-01,In Stock,Ready my next bad though fall program air close work fast talk pay however rich.,Premium,32.99,26961,Medium,Excellent,False
+PID1449,Xiaomi Pad 6,BrandY,Beauty,73115,3.7,3062,2023-09-04,In Stock,Garden way red plant couple far century truth little score attorney rise push whether one in.,Mid-Tier,25.31,54610,High,Average,False
+PID1450,Dell Inspiron 3511,BrandZ,Grocery,74023,4.1,2336,2024-11-22,Out of Stock,Financial career foreign worry plan scientist person still there there guess situation or.,Mid-Tier,56.31,32341,High,Good,True
+PID1451,Dell Inspiron 3511,BrandZ,Phone,94976,4.4,9879,2023-03-01,In Stock,Cover responsibility choice soon ball senior movement stay contain none enter year foot.,Budget,50.51,47004,High,Good,True
+PID1452,Dell Inspiron 3511,BrandY,Beauty,17519,2.6,572,2024-10-20,Limited Stock,New low third happen since evidence sport by necessary.,Budget,43.35,9925,Low,Poor,False
+PID1453,iPhone 13,BrandA,TV,84113,4.7,7521,2022-05-15,Limited Stock,Suffer accept environment life short each hospital art modern not reflect claim fire outside letter all.,Mid-Tier,44.29,46859,High,Excellent,False
+PID1454,Sony WH-1000XM4,BrandA,Phone,92294,4.7,6171,2021-10-16,Limited Stock,One usually wait gun make its hard this.,Premium,30.39,64246,High,Excellent,False
+PID1455,Nikon D3500,BrandA,Beauty,87172,3.6,7097,2021-06-27,In Stock,Vote half behavior realize too nothing stay ever ahead.,Budget,55.65,38661,High,Average,True
+PID1456,Nikon D3500,BrandA,Home Appliance,74347,3.5,2090,2022-02-19,Out of Stock,Soldier kid born green television right since according morning participant.,Premium,43.2,42229,High,Average,False
+PID1457,Nikon D3500,BrandX,Laptop,83250,3.2,6566,2023-02-11,In Stock,Film address plan admit school more economy fact standard everything during still arrive late offer.,Premium,45.09,45713,High,Average,False
+PID1458,Realme Narzo 60,BrandC,Beauty,80134,3.7,4624,2024-05-26,Limited Stock,Tree speak result behavior garden cold hour though art now fear character.,Premium,52.39,38152,High,Average,True
+PID1459,Redmi Note 12,BrandZ,Beauty,28751,2.6,1633,2020-12-02,Limited Stock,Physical war how list learn score accept significant response.,Budget,20.07,22981,Low,Poor,False
+PID1460,Boult Audio AirBass,BrandX,TV,26445,4.6,1517,2023-03-22,In Stock,Election social participant present up drug eat why them theory thank young red everyone war media.,Budget,49.39,13384,Low,Excellent,False
+PID1461,Zebronics ZEB-Rush,BrandC,TV,91352,2.6,3648,2024-04-23,Limited Stock,Something determine ok street watch single born learn light goal.,Mid-Tier,15.74,76973,High,Poor,False
+PID1462,Mi TV 5X,BrandY,Laptop,32717,3.3,1537,2024-05-14,Out of Stock,Never leg street relate mind option figure popular determine agent poor themselves.,Premium,23.99,24868,Low,Average,False
+PID1463,Samsung Crystal 4K,BrandY,Beauty,8808,4.8,3137,2022-05-30,Limited Stock,Student into of community safe real own old it choose book.,Premium,23.46,6742,Low,Excellent,False
+PID1464,Redmi Note 12,BrandY,Grocery,6449,4.3,6985,2021-01-25,In Stock,Century away apply company same might watch peace nor million range however exist study figure.,Mid-Tier,58.82,2656,Low,Good,True
+PID1465,Acer Aspire 7,BrandA,TV,52490,3.2,97,2020-12-24,Limited Stock,Seem data chance data analysis end event doctor only risk a man.,Budget,52.11,25137,Medium,Average,True
+PID1466,Samsung Crystal 4K,BrandC,Phone,1650,3.1,3750,2021-01-29,Out of Stock,Student science wear major site city create which stage second.,Mid-Tier,43.56,931,Low,Average,False
+PID1467,Samsung Galaxy M13,BrandC,Grocery,89980,2.5,8535,2024-06-21,In Stock,Language hundred month positive happy figure leader bill audience nation air person walk.,Budget,44.99,49498,High,Poor,False
+PID1468,Boult Audio AirBass,BrandY,Grocery,75240,4.2,8174,2022-01-24,Out of Stock,Often pull great imagine road safe wind.,Budget,35.91,48221,High,Good,False
+PID1469,Realme Narzo 60,BrandY,Grocery,67117,2.6,8103,2022-10-02,In Stock,Author practice clear call happen life miss soon somebody federal.,Premium,57.09,28800,High,Poor,True
+PID1470,Canon EOS 1500D,BrandX,Grocery,95341,3.8,5413,2023-01-22,Out of Stock,Fear shoulder field station onto reason personal wonder body big staff individual.,Mid-Tier,32.29,64555,High,Average,False
+PID1471,Canon EOS 1500D,BrandY,TV,17396,4.9,4666,2023-04-11,Limited Stock,Beautiful early let heavy huge none choice population nothing add during such resource.,Premium,25.93,12885,Low,Excellent,False
+PID1472,JBL Go 3,BrandB,TV,46675,2.8,610,2020-08-01,In Stock,Improve difficult fact worry onto local forget compare course rest wish vote read bank.,Budget,13.97,40155,Medium,Poor,False
+PID1473,Zebronics ZEB-Rush,BrandC,Beauty,8305,4.7,1727,2023-01-02,In Stock,Military party discuss place beyond him recent could leave amount.,Budget,48.24,4299,Low,Excellent,False
+PID1474,Redmi Note 12,BrandA,Beauty,5737,5.0,1854,2021-02-09,Out of Stock,Across our himself finally magazine admit across.,Mid-Tier,45.39,3133,Low,Excellent,False
+PID1475,OnePlus Nord CE 3,BrandB,Phone,20556,2.7,5055,2024-02-19,Limited Stock,Thus realize general because perhaps himself story event above culture soldier.,Mid-Tier,26.14,15183,Low,Poor,False
+PID1476,iPhone 13,BrandZ,Laptop,46043,4.7,2324,2023-05-03,In Stock,Station difference group commercial nothing rather agree threat your top system billion nation prevent.,Mid-Tier,6.39,43101,Medium,Excellent,False
+PID1477,HP Pavilion 15,BrandC,Phone,57056,3.8,9369,2025-05-25,Out of Stock,Color upon size agreement manage big laugh collection knowledge require edge feel particular other beat.,Budget,51.14,27878,Medium,Average,True
+PID1478,Redmi Note 12,BrandZ,Phone,3843,4.8,9283,2023-08-02,Limited Stock,North she develop picture near most event discover.,Mid-Tier,5.63,3627,Low,Excellent,False
+PID1479,Redmi Note 12,BrandC,Home Appliance,14000,3.9,5774,2023-03-21,Out of Stock,Question blue him feel those involve risk camera financial.,Premium,43.7,7882,Low,Average,False
+PID1480,Mi TV 5X,BrandY,TV,53722,4.2,6519,2023-09-14,Out of Stock,Position these drive that central list no while.,Premium,58.36,22370,Medium,Good,True
+PID1481,Samsung Galaxy M13,BrandC,Phone,29875,3.9,1749,2024-03-07,In Stock,Recognize student word argue step affect listen three since choose only determine reflect box cultural.,Premium,29.07,21190,Low,Average,False
+PID1482,Nikon D3500,BrandA,Home Appliance,10162,4.7,781,2021-09-17,Limited Stock,Operation late others character although point hard family thank article.,Budget,17.92,8341,Low,Excellent,False
+PID1483,Acer Aspire 7,BrandB,Home Appliance,17464,4.3,7548,2020-12-27,Out of Stock,Thought test yes health high race new radio professor interesting.,Mid-Tier,43.77,9820,Low,Good,False
+PID1484,Boult Audio AirBass,BrandC,Grocery,60138,3.8,6823,2023-07-01,Limited Stock,Support take try large suffer fire staff identify carry along kind sense result coach them.,Budget,49.94,30105,Medium,Average,False
+PID1485,Canon EOS 1500D,BrandZ,Home Appliance,74166,4.7,2105,2024-08-03,Out of Stock,Two mother none treat never hold senior serious five somebody than major serious former.,Budget,35.05,48171,High,Excellent,False
+PID1486,Zebronics ZEB-Rush,BrandC,Beauty,85567,3.1,3867,2024-01-08,In Stock,Mean forward one stuff offer until join mother former edge pattern wide million experience maybe always.,Mid-Tier,58.19,35776,High,Average,True
+PID1487,Xiaomi Pad 6,BrandC,Laptop,67715,2.9,7193,2020-11-13,In Stock,History trip bad accept water experience serve financial toward.,Budget,7.84,62406,High,Poor,False
+PID1488,iPhone 13,BrandY,TV,69542,2.9,4976,2022-07-23,Limited Stock,Can successful student beat best partner matter there training production leg.,Premium,32.76,46760,High,Poor,False
+PID1489,Xiaomi Pad 6,BrandY,TV,13784,3.3,2113,2021-09-02,In Stock,Which win move adult teacher to especially fear general compare indeed thousand result claim specific ok.,Budget,44.51,7649,Low,Average,False
+PID1490,Sony WH-1000XM4,BrandZ,Laptop,73289,3.1,5879,2024-03-10,Limited Stock,Decide tree another he live he once really them two evening exactly.,Premium,52.45,34849,High,Average,True
+PID1491,Zebronics ZEB-Rush,BrandY,Beauty,85164,4.8,3970,2021-05-21,Limited Stock,Involve natural wrong his two middle trial picture admit such anyone who.,Premium,14.86,72509,High,Excellent,False
+PID1492,boAt Rockerz 450,BrandX,Beauty,93968,2.8,9259,2025-05-27,Limited Stock,My exist pull out catch that company ever name surface can.,Premium,49.0,47924,High,Poor,False
+PID1493,OnePlus Nord CE 3,BrandA,Home Appliance,61889,4.2,7264,2022-05-05,Out of Stock,Rest learn very without far over threat check thus song control quite center.,Mid-Tier,35.4,39980,Medium,Good,False
+PID1494,LG Smart LED 43in,BrandA,Beauty,9935,3.0,1577,2022-05-03,Out of Stock,Suggest national wife still star better laugh lawyer learn seem make officer decide who teach near.,Premium,26.81,7271,Low,Poor,False
+PID1495,Redmi Note 12,BrandA,Home Appliance,54840,4.7,9203,2023-01-07,Limited Stock,Nor always relate final personal whether Mrs term.,Mid-Tier,12.24,48128,Medium,Excellent,False
+PID1496,HP Victus Gaming 16,BrandY,TV,44578,4.9,2274,2024-02-06,In Stock,Energy challenge summer environmental black know dream stage policy something serve.,Premium,52.59,21134,Medium,Excellent,True
+PID1497,Samsung Crystal 4K,BrandX,Phone,79332,3.7,4869,2020-08-05,Out of Stock,Thousand person most bed executive husband face field section to help image able miss.,Mid-Tier,13.65,68503,High,Average,False
+PID1498,Logitech MX Master 3,BrandX,TV,51793,4.7,6744,2023-03-07,Limited Stock,Its card young eight edge explain election area cut enter a focus.,Budget,22.04,40378,Medium,Excellent,False
+PID1499,Mi TV 5X,BrandB,Beauty,96481,2.5,2426,2020-12-03,Limited Stock,Recently range recently line respond lead interest smile process thus prevent many series.,Premium,20.95,76268,High,Poor,False
+PID1500,Sony WH-1000XM4,BrandC,Grocery,79281,4.5,5546,2023-01-07,Out of Stock,Avoid important forget camera apply enter song discover message so along hand.,Budget,52.93,37318,High,Good,True
+PID1501,Dell Inspiron 3511,BrandA,Beauty,60903,3.1,6852,2020-11-26,Limited Stock,As plan international capital news can child see able.,Premium,42.0,35324,Medium,Average,False
+PID1502,Boult Audio AirBass,BrandZ,Phone,29624,4.8,2551,2023-11-18,In Stock,About get free cut before my none news watch national boy here teach major off.,Premium,48.82,15162,Low,Excellent,False
+PID1503,Fire-Boltt Ninja,BrandB,TV,95935,2.5,6411,2023-04-19,Out of Stock,Relate number drive reason support ten participant exist on upon as player.,Premium,18.78,77918,High,Poor,False
+PID1504,Sony WH-1000XM4,BrandY,Laptop,44419,3.9,7,2022-02-02,Out of Stock,Spring head prove look try here common city choice government question against particularly who.,Mid-Tier,39.37,26931,Medium,Average,False
+PID1505,LG Smart LED 43in,BrandX,Laptop,35747,4.4,8087,2025-02-05,Limited Stock,Toward suddenly really administration sort her quite center school.,Premium,36.45,22717,Medium,Good,False
+PID1506,iPhone 13,BrandC,Laptop,95258,3.1,2555,2021-05-01,In Stock,Range identify fine watch begin left everything himself it.,Premium,50.81,46857,High,Average,True
+PID1507,HP Pavilion 15,BrandC,Home Appliance,92247,3.0,475,2020-07-29,In Stock,Whether people along base spring size investment education deal that relationship rock power top audience sister.,Mid-Tier,54.83,41668,High,Poor,True
+PID1508,Xiaomi Pad 6,BrandA,Laptop,63252,2.7,5416,2023-06-18,Limited Stock,Economic what no stock no amount interest yes decade.,Mid-Tier,5.67,59666,Medium,Poor,False
+PID1509,iPad 10th Gen,BrandX,Phone,57073,3.3,8676,2020-06-23,Limited Stock,Management option ground brother success foot weight yes your send foreign fight early line exist.,Mid-Tier,42.07,33062,Medium,Average,False
+PID1510,Realme Narzo 60,BrandX,Beauty,59601,3.9,7239,2020-08-02,In Stock,Fight building realize glass usually so reach about listen.,Premium,7.85,54922,Medium,Average,False
+PID1511,HP Pavilion 15,BrandC,Laptop,27146,2.8,6710,2023-05-17,In Stock,Bag cold try particularly sell soldier leg.,Budget,35.19,17593,Low,Poor,False
+PID1512,HP Pavilion 15,BrandA,Phone,23549,3.4,5000,2024-04-05,Out of Stock,City over small degree knowledge movement according remain tough serious next beat glass anything by moment.,Budget,20.82,18646,Low,Average,False
+PID1513,Lenovo IdeaPad Slim 3,BrandX,Grocery,80105,2.5,4654,2021-03-03,In Stock,Thank respond middle rock machine technology thing bring someone another still.,Mid-Tier,21.87,62586,High,Poor,False
+PID1514,iPad 10th Gen,BrandX,Home Appliance,98616,4.5,8078,2024-12-09,Out of Stock,Evidence race enough require try keep face player realize senior hope.,Budget,24.41,74544,High,Good,False
+PID1515,Logitech MX Master 3,BrandZ,Home Appliance,97879,2.8,6063,2024-06-23,In Stock,Human among career physical mention moment teach put.,Mid-Tier,39.17,59540,High,Poor,False
+PID1516,Samsung Crystal 4K,BrandZ,Home Appliance,68885,3.2,2285,2020-08-10,Out of Stock,Condition seek only beautiful leader heavy language interview continue.,Budget,23.37,52787,High,Average,False
+PID1517,Canon EOS 1500D,BrandX,Beauty,40658,2.5,5223,2024-03-13,Limited Stock,Before without join stage weight institution market area alone to son along would morning point because.,Premium,45.3,22240,Medium,Poor,False
+PID1518,JBL Go 3,BrandC,Home Appliance,65917,3.6,6971,2021-10-11,In Stock,Mission painting law eye practice population high blue eight decide Mr kid.,Mid-Tier,27.25,47955,Medium,Average,False
+PID1519,Noise ColorFit Pro 4,BrandB,Phone,23789,4.6,3525,2020-07-04,Out of Stock,Bill control consumer tough either central state small with ever wear trade science.,Mid-Tier,8.76,21705,Low,Excellent,False
+PID1520,Sony WH-1000XM4,BrandC,Home Appliance,10323,3.5,2822,2024-06-20,In Stock,Together appear newspaper specific yeah table once report heart nothing major less.,Budget,48.11,5357,Low,Average,False
+PID1521,Redmi Note 12,BrandC,Home Appliance,60660,2.9,4943,2025-04-16,Out of Stock,Close they finally nice court simply through president charge decade fly plan service employee.,Premium,20.72,48091,Medium,Poor,False
+PID1522,Apple MacBook Air M1,BrandY,Beauty,42475,4.4,6530,2024-01-07,Limited Stock,Everything gun until give career month wait mind series maintain represent religious.,Premium,28.8,30242,Medium,Good,False
+PID1523,Xiaomi Pad 6,BrandA,Laptop,10040,4.5,258,2024-01-24,Limited Stock,Gas far yet east month national property.,Budget,42.7,5753,Low,Good,False
+PID1524,ASUS VivoBook 14,BrandB,Home Appliance,16864,2.9,282,2021-05-25,Out of Stock,Nice ball young single sing firm soon really.,Mid-Tier,23.29,12936,Low,Poor,False
+PID1525,Mi TV 5X,BrandX,Phone,5111,4.4,1898,2021-09-30,In Stock,Wear know city because international knowledge after last.,Premium,8.11,4696,Low,Good,False
+PID1526,Fire-Boltt Ninja,BrandZ,Grocery,28163,4.9,4135,2025-03-08,In Stock,Lose think hot partner worker life task without may memory approach field sister huge.,Mid-Tier,25.57,20962,Low,Excellent,False
+PID1527,HP Victus Gaming 16,BrandZ,Beauty,52491,2.9,6629,2022-10-14,Limited Stock,Parent difference police people challenge their whole sing wear help finally kind control production anyone.,Mid-Tier,56.94,22603,Medium,Poor,True
+PID1528,HP Pavilion 15,BrandX,Beauty,58179,4.4,3200,2021-11-11,Out of Stock,Paper low everything today but writer owner but.,Mid-Tier,40.3,34733,Medium,Good,False
+PID1529,Xiaomi Pad 6,BrandC,Phone,31477,4.3,5110,2024-08-16,Out of Stock,New budget type firm responsibility president successful.,Premium,41.93,18279,Low,Good,False
+PID1530,iPhone 13,BrandY,Laptop,95204,3.7,7167,2021-05-10,In Stock,Activity event others her leg up born everything marriage bring later their attorney not both.,Budget,39.78,57332,High,Average,False
+PID1531,Dell Inspiron 3511,BrandC,Home Appliance,49615,2.6,612,2022-05-29,Out of Stock,Single through tree child after wear idea conference long tree.,Budget,15.94,41706,Medium,Poor,False
+PID1532,Canon EOS 1500D,BrandC,Laptop,91507,2.7,687,2024-07-01,Limited Stock,High set chance and attention responsibility writer official action.,Mid-Tier,28.01,65876,High,Poor,False
+PID1533,OnePlus Nord CE 3,BrandB,Home Appliance,88723,4.6,3690,2023-12-22,Out of Stock,Listen take down management budget pretty around science price.,Budget,46.3,47644,High,Excellent,False
+PID1534,iPhone 13,BrandX,Beauty,61390,5.0,8804,2022-02-22,In Stock,Lay imagine compare mean why change research capital.,Mid-Tier,10.58,54895,Medium,Excellent,False
+PID1535,Zebronics ZEB-Rush,BrandB,Grocery,66887,4.2,2307,2022-03-30,Out of Stock,High involve street control focus hear yeah democratic.,Budget,20.28,53322,High,Good,False
+PID1536,boAt Rockerz 450,BrandY,Phone,18571,3.6,7133,2024-01-23,Limited Stock,Five sense computer society apply state form agreement paper strong.,Premium,20.2,14820,Low,Average,False
+PID1537,iPad 10th Gen,BrandC,Laptop,59775,4.1,6509,2025-02-05,Limited Stock,You whether nature team church voice traditional chance leg rock school computer.,Budget,28.76,42584,Medium,Good,False
+PID1538,Samsung Galaxy M13,BrandB,Beauty,72869,4.0,9973,2021-07-28,In Stock,Point like industry decide boy career might national scene ok.,Premium,58.92,29935,High,Average,True
+PID1539,Fire-Boltt Ninja,BrandX,Phone,12438,3.5,5906,2023-08-19,In Stock,Finish adult strategy heavy where single American view history high city receive money.,Premium,8.71,11355,Low,Average,False
+PID1540,Xiaomi Pad 6,BrandC,Grocery,35695,2.7,2591,2025-03-13,In Stock,Others one southern while responsibility civil offer decision leader listen simply thousand.,Mid-Tier,33.53,23726,Medium,Poor,False
+PID1541,iPad 10th Gen,BrandZ,Phone,92180,4.6,7183,2020-11-22,Out of Stock,Community worry government hot among shoulder crime close perform million your lot performance to.,Premium,14.87,78473,High,Excellent,False
+PID1542,Dell Inspiron 3511,BrandX,Grocery,4500,3.4,5248,2022-07-30,Out of Stock,Development leader growth each conference quickly open vote avoid whom strong behavior.,Mid-Tier,58.39,1872,Low,Average,True
+PID1543,Realme Narzo 60,BrandC,Laptop,71088,4.5,8766,2022-11-02,Limited Stock,Probably series newspaper action sound wrong clearly among.,Budget,11.23,63105,High,Good,False
+PID1544,ASUS VivoBook 14,BrandC,Beauty,94110,3.1,5108,2024-03-03,Out of Stock,Everyone interesting me have class positive your mouth person land place assume week world.,Premium,27.2,68512,High,Average,False
+PID1545,Nikon D3500,BrandX,TV,98356,2.5,3604,2024-12-10,In Stock,Third future here moment reflect guy his establish.,Budget,45.58,53525,High,Poor,False
+PID1546,Acer Aspire 7,BrandB,TV,38804,2.9,669,2025-05-02,Limited Stock,Effort create page much fill tell evening billion radio.,Budget,43.75,21827,Medium,Poor,False
+PID1547,boAt Rockerz 450,BrandC,Laptop,69949,3.7,4364,2023-02-03,Out of Stock,Keep worker would fly protect determine source.,Premium,28.25,50188,High,Average,False
+PID1548,LG Smart LED 43in,BrandB,Phone,83486,4.9,7329,2021-10-04,Limited Stock,Officer project organization discover often key say conference support back anything though huge represent affect performance.,Mid-Tier,24.06,63399,High,Excellent,False
+PID1549,Nikon D3500,BrandY,Grocery,90143,2.8,1283,2024-05-14,In Stock,Reach ready idea to food school base purpose part site.,Mid-Tier,26.87,65922,High,Poor,False
+PID1550,LG Smart LED 43in,BrandB,Home Appliance,21264,4.6,923,2021-02-08,In Stock,Deep site behavior natural natural receive attention help article.,Mid-Tier,19.54,17109,Low,Excellent,False
+PID1551,Apple MacBook Air M1,BrandC,Grocery,86527,3.8,1125,2025-02-04,In Stock,Myself live believe within economy even seat leg almost major air.,Budget,16.29,72432,High,Average,False
+PID1552,iPad 10th Gen,BrandC,Home Appliance,38994,4.6,1529,2020-12-21,In Stock,Teach from assume when each later remember wrong lay.,Premium,31.57,26684,Medium,Excellent,False
+PID1553,HP Pavilion 15,BrandX,Phone,3873,3.2,9786,2025-05-08,In Stock,Economic because one provide concern these difficult administration catch to wrong audience either firm again.,Mid-Tier,19.77,3107,Low,Average,False
+PID1554,Fire-Boltt Ninja,BrandC,Phone,12661,4.6,8438,2025-03-08,In Stock,Ago sport data choose successful media property.,Budget,20.81,10026,Low,Excellent,False
+PID1555,boAt Rockerz 450,BrandX,Phone,98032,4.4,3711,2020-10-02,In Stock,Senior Democrat development nice then election ago across future middle.,Premium,41.12,57721,High,Good,False
+PID1556,iPhone 13,BrandA,TV,93158,3.1,8004,2021-12-14,Limited Stock,Commercial which century seat level possible over bring cell member customer discover through star.,Premium,58.27,38875,High,Average,True
+PID1557,Redmi Note 12,BrandA,Beauty,27850,2.8,9752,2024-02-10,Limited Stock,Three drug simply father anything product magazine forward manager occur treat increase everyone.,Mid-Tier,38.2,17211,Low,Poor,False
+PID1558,Boult Audio AirBass,BrandZ,TV,93508,4.7,6274,2022-07-27,Limited Stock,Hospital space they economic answer direction apply.,Mid-Tier,9.23,84877,High,Excellent,False
+PID1559,iPhone 13,BrandB,Laptop,94797,4.9,3864,2022-09-10,In Stock,Stock million amount upon few born note whether choose government beat job newspaper.,Mid-Tier,9.16,86114,High,Excellent,False
+PID1560,Noise ColorFit Pro 4,BrandY,Home Appliance,25851,2.6,7833,2023-08-29,Out of Stock,Chance suggest drug together light almost power value agree.,Mid-Tier,57.33,11031,Low,Poor,True
+PID1561,Boult Audio AirBass,BrandA,Beauty,89168,4.3,6788,2021-11-14,Out of Stock,Step central idea friend senior trade hour.,Premium,21.35,70131,High,Good,False
+PID1562,JBL Go 3,BrandB,Beauty,15805,4.8,226,2024-08-18,Limited Stock,Term say material wonder anything later race us oil.,Mid-Tier,10.06,14215,Low,Excellent,False
+PID1563,Acer Aspire 7,BrandZ,Home Appliance,75853,4.6,264,2023-10-26,In Stock,Enjoy simple fund guess matter draw case poor visit information outside.,Premium,37.95,47067,High,Excellent,False
+PID1564,boAt Rockerz 450,BrandZ,Beauty,77297,4.9,9587,2023-01-12,Limited Stock,Example us quickly compare development send face painting use red dark get meeting owner manage.,Premium,39.3,46919,High,Excellent,False
+PID1565,Boult Audio AirBass,BrandZ,Grocery,66453,4.4,645,2022-01-03,Limited Stock,Foreign whom suggest sell computer across dinner.,Mid-Tier,40.67,39427,Medium,Good,False
+PID1566,HP Pavilion 15,BrandY,Beauty,57958,3.6,7544,2025-06-07,Out of Stock,Skin laugh find often ready history wind on.,Premium,19.71,46534,Medium,Average,False
+PID1567,Canon EOS 1500D,BrandZ,Grocery,20858,3.3,5569,2024-11-30,In Stock,Kind evidence common listen federal everyone executive remember point deal new.,Budget,5.83,19642,Low,Average,False
+PID1568,ASUS VivoBook 14,BrandX,Phone,3767,3.3,2990,2023-05-16,Out of Stock,Dream walk live able save cut doctor policy your field certainly evening.,Budget,58.08,1579,Low,Average,True
+PID1569,iPad 10th Gen,BrandX,Home Appliance,83245,4.3,2504,2022-03-15,Out of Stock,Their price yourself wife next against national visit reality event industry measure.,Mid-Tier,18.8,67595,High,Good,False
+PID1570,Boult Audio AirBass,BrandZ,Grocery,90088,4.4,9346,2021-04-07,In Stock,Might expect second fast pay tend agreement purpose mission film evening.,Premium,42.18,52089,High,Good,False
+PID1571,Nikon D3500,BrandA,Laptop,39013,3.0,587,2024-04-01,Limited Stock,Economic fire truth executive daughter pass exactly its new manage special offer possible some instead.,Budget,43.86,21902,Medium,Poor,False
+PID1572,Samsung Crystal 4K,BrandB,TV,26592,4.7,9177,2025-05-29,In Stock,Break under spring low continue school eye add event past ok consider.,Premium,38.55,16341,Low,Excellent,False
+PID1573,JBL Go 3,BrandC,Grocery,11838,4.3,4079,2025-06-12,In Stock,Medical almost nation where meeting determine little political western may night specific office miss personal.,Premium,22.21,9209,Low,Good,False
+PID1574,HP Pavilion 15,BrandZ,Phone,912,3.9,3348,2022-04-19,In Stock,Camera ahead form call stop town or important security area receive people.,Premium,19.91,730,Low,Average,False
+PID1575,Logitech MX Master 3,BrandB,Grocery,8043,3.7,6299,2021-07-10,In Stock,Light report son impact determine bit consider.,Mid-Tier,37.87,4997,Low,Average,False
+PID1576,Boult Audio AirBass,BrandB,TV,33996,3.9,3831,2021-07-09,Limited Stock,Teacher fast white sea option size among treatment season.,Budget,52.64,16101,Medium,Average,True
+PID1577,iPad 10th Gen,BrandB,Beauty,61192,2.9,9433,2023-09-07,Out of Stock,Old bar break with toward whole knowledge bill act result institution minute paper.,Budget,57.07,26270,Medium,Poor,True
+PID1578,HP Victus Gaming 16,BrandY,Phone,89584,3.0,8381,2021-09-12,Out of Stock,Though painting return safe image item clear party again.,Mid-Tier,10.82,79891,High,Poor,False
+PID1579,Realme Narzo 60,BrandC,TV,93420,2.7,9172,2023-10-17,In Stock,Financial yourself where participant know have land she alone development key see structure reality.,Mid-Tier,13.52,80790,High,Poor,False
+PID1580,Boult Audio AirBass,BrandB,Laptop,44925,2.9,9890,2022-07-01,In Stock,Strategy far least fish relationship control three.,Mid-Tier,56.96,19336,Medium,Poor,True
+PID1581,Dell Inspiron 3511,BrandA,Home Appliance,39256,3.6,1715,2025-06-09,In Stock,Forget time seem six magazine fund high peace high necessary believe personal message.,Budget,45.51,21391,Medium,Average,False
+PID1582,Redmi Note 12,BrandZ,Laptop,19388,3.8,6450,2024-04-02,Out of Stock,Forward author my begin read remember despite food address must factor.,Mid-Tier,53.56,9004,Low,Average,True
+PID1583,Dell Inspiron 3511,BrandA,Beauty,36235,2.5,5433,2025-04-13,In Stock,Effect case itself sign admit try oil agency address participant.,Premium,16.14,30387,Medium,Poor,False
+PID1584,Xiaomi Pad 6,BrandY,TV,47795,4.5,1098,2023-05-30,Limited Stock,Provide hand consumer capital hard owner these detail write attention common.,Mid-Tier,37.32,29958,Medium,Good,False
+PID1585,Mi TV 5X,BrandB,Phone,83542,3.2,7096,2024-11-20,In Stock,Understand strategy officer financial recent father indeed science school field front add face study affect.,Budget,43.56,47151,High,Average,False
+PID1586,Mi TV 5X,BrandY,Laptop,86499,4.8,2326,2024-01-21,Limited Stock,Position low commercial able new glass me development somebody politics each economic discussion.,Premium,42.41,49815,High,Excellent,False
+PID1587,Apple MacBook Air M1,BrandY,TV,18455,4.9,9087,2022-12-25,Out of Stock,Bar happy since discussion job treatment compare tend remain scientist stage language work she thank.,Budget,27.45,13389,Low,Excellent,False
+PID1588,HP Pavilion 15,BrandX,Phone,38341,3.0,6416,2021-12-09,In Stock,Sound short animal though kitchen Republican resource start art.,Budget,5.85,36098,Medium,Poor,False
+PID1589,iPad 10th Gen,BrandY,Laptop,71140,3.7,6980,2023-04-12,Limited Stock,New create culture animal decade future manage with short whom.,Mid-Tier,37.06,44776,High,Average,False
+PID1590,OnePlus Nord CE 3,BrandB,Laptop,66010,2.5,6763,2023-11-11,In Stock,Partner list poor policy agreement whether yourself political any billion real set.,Budget,18.92,53521,Medium,Poor,False
+PID1591,Nikon D3500,BrandY,Phone,35411,4.0,1674,2024-05-05,Out of Stock,Despite same community sure possible remain condition mission value community likely security scene.,Premium,29.76,24873,Medium,Average,False
+PID1592,Zebronics ZEB-Rush,BrandA,Phone,59531,4.0,7950,2023-12-26,Out of Stock,Include guess loss story would material attorney building hear positive.,Budget,57.67,25199,Medium,Average,True
+PID1593,JBL Go 3,BrandB,Home Appliance,89226,3.1,9122,2023-06-09,Out of Stock,Popular many notice yourself man throughout represent rather cost measure send total somebody range building.,Mid-Tier,26.95,65180,High,Average,False
+PID1594,ASUS VivoBook 14,BrandY,Laptop,7857,3.9,8915,2020-07-27,Out of Stock,Score front either material media example community whole whether real painting.,Budget,51.19,3835,Low,Average,True
+PID1595,Sony WH-1000XM4,BrandB,Laptop,32979,3.1,6049,2023-04-22,In Stock,Scientist strong quickly natural shake wrong citizen election window moment remain as coach.,Premium,15.37,27910,Low,Average,False
+PID1596,Sony WH-1000XM4,BrandX,Phone,61976,2.9,1089,2024-07-07,Out of Stock,Could beyond image social network hair sign listen former nearly.,Budget,41.99,35952,Medium,Poor,False
+PID1597,iPad 10th Gen,BrandA,TV,45311,4.1,4578,2023-07-09,Out of Stock,Likely model candidate rest film dog work policy commercial these security clear add performance foreign.,Mid-Tier,58.74,18695,Medium,Good,True
+PID1598,Apple MacBook Air M1,BrandY,Beauty,36708,3.3,9127,2025-05-18,Limited Stock,Pass now foreign already region subject receive system hospital.,Mid-Tier,10.6,32817,Medium,Average,False
+PID1599,OnePlus Nord CE 3,BrandZ,Grocery,20650,4.0,155,2021-01-14,Out of Stock,There ago tonight wait focus support maintain bit.,Mid-Tier,5.46,19523,Low,Average,False
+PID1600,Dell Inspiron 3511,BrandX,Laptop,71680,3.6,9262,2021-07-09,Limited Stock,Memory wish work boy director become north building only resource.,Premium,28.85,51000,High,Average,False
+PID1601,Logitech MX Master 3,BrandC,Home Appliance,43786,5.0,1958,2020-11-09,Out of Stock,Sit sister matter kind have us word American defense against social environmental and.,Budget,10.09,39368,Medium,Excellent,False
+PID1602,Mi TV 5X,BrandX,Phone,68950,2.9,6344,2024-06-13,Limited Stock,Face owner close article notice certainly art me series into morning knowledge activity.,Budget,46.16,37123,High,Poor,False
+PID1603,Lenovo IdeaPad Slim 3,BrandY,Laptop,21852,3.7,5779,2021-06-07,Out of Stock,Hear TV top Republican million hundred charge animal race involve ground decide central medical type support.,Budget,55.3,9768,Low,Average,True
+PID1604,Apple MacBook Air M1,BrandY,Beauty,55569,4.2,6144,2020-11-14,Out of Stock,Meet almost fund evidence determine social glass area nice ago election fast.,Premium,28.87,39526,Medium,Good,False
+PID1605,Realme Narzo 60,BrandB,Laptop,14897,3.5,5063,2020-07-15,Limited Stock,Represent say miss better culture ready sometimes central night mean whom.,Budget,19.23,12032,Low,Average,False
+PID1606,Apple MacBook Air M1,BrandC,Laptop,42055,4.9,3830,2025-01-06,Limited Stock,Compare about Congress simply space set surface.,Mid-Tier,28.89,29905,Medium,Excellent,False
+PID1607,LG Smart LED 43in,BrandB,Phone,47459,4.3,9046,2022-04-28,Limited Stock,Herself film age trip my exactly half other job idea bag other be her his herself.,Budget,44.79,26202,Medium,Good,False
+PID1608,Samsung Galaxy M13,BrandY,Grocery,1228,4.1,8831,2020-10-30,In Stock,Agree property off culture film huge just into through follow.,Budget,5.5,1160,Low,Good,False
+PID1609,Canon EOS 1500D,BrandZ,Grocery,51017,4.4,9794,2022-11-17,In Stock,Step benefit again save seem between remember process none campaign phone.,Mid-Tier,37.42,31926,Medium,Good,False
+PID1610,Xiaomi Pad 6,BrandA,Grocery,66734,4.9,6659,2024-01-16,Out of Stock,Pressure reach crime cell cause conference game team decide country each focus key girl shoulder.,Premium,38.73,40888,High,Excellent,False
+PID1611,Logitech MX Master 3,BrandA,Grocery,40454,4.8,441,2020-08-01,In Stock,Black report central better instead or show law discuss reduce according building.,Budget,40.07,24244,Medium,Excellent,False
+PID1612,Samsung Galaxy M13,BrandX,Phone,47780,4.3,6040,2022-04-28,Out of Stock,Dog rate center try rise every popular recent wrong success structure son become old street.,Budget,18.31,39031,Medium,Good,False
+PID1613,HP Victus Gaming 16,BrandX,Beauty,79959,4.4,5925,2024-09-06,Limited Stock,Board establish think smile support might test floor five quality size behavior seem.,Budget,44.27,44561,High,Good,False
+PID1614,Samsung Galaxy M13,BrandZ,Grocery,17279,2.9,7358,2021-04-28,Out of Stock,Away develop happen century two instead small vote hold bad child skin site.,Budget,10.03,15546,Low,Poor,False
+PID1615,Nikon D3500,BrandY,Grocery,64432,2.8,4628,2021-09-17,In Stock,Will dog could usually member morning strong establish company argue wear firm agent shoulder government and.,Premium,15.96,54149,Medium,Poor,False
+PID1616,Apple MacBook Air M1,BrandY,TV,73436,3.9,6370,2024-03-10,In Stock,Marriage choose box peace until for land character show almost after beat much.,Premium,53.26,34324,High,Average,True
+PID1617,JBL Go 3,BrandA,Laptop,24966,2.5,9528,2025-04-19,Limited Stock,Show reduce red education hard southern pull paper company baby box employee.,Mid-Tier,45.63,13574,Low,Poor,False
+PID1618,Zebronics ZEB-Rush,BrandY,TV,37439,3.7,948,2023-10-13,Out of Stock,Benefit evidence kid majority information product camera two.,Budget,5.76,35283,Medium,Average,False
+PID1619,Dell Inspiron 3511,BrandX,TV,70396,3.0,8179,2021-03-30,Out of Stock,Hope until issue yard then treat leave performance.,Mid-Tier,18.66,57260,High,Poor,False
+PID1620,Noise ColorFit Pro 4,BrandA,Laptop,35770,3.4,6115,2022-08-25,In Stock,Beyond describe policy voice production field only raise.,Mid-Tier,16.79,29764,Medium,Average,False
+PID1621,Noise ColorFit Pro 4,BrandX,Beauty,59663,4.4,459,2023-10-18,Out of Stock,Service east president campaign language sign southern.,Budget,19.89,47796,Medium,Good,False
+PID1622,Sony WH-1000XM4,BrandA,Beauty,83137,4.9,7568,2022-08-25,Out of Stock,Everyone ever address us else must include four then order risk class window tell last remember.,Mid-Tier,18.62,67657,High,Excellent,False
+PID1623,HP Victus Gaming 16,BrandA,Beauty,52434,2.7,4646,2023-11-25,Limited Stock,Parent reflect gas itself event side way could which since candidate research lawyer serve.,Premium,8.44,48009,Medium,Poor,False
+PID1624,Redmi Note 12,BrandB,TV,65395,3.8,392,2021-01-19,In Stock,Small spend opportunity purpose season rock hear reality cup visit whatever between feel.,Mid-Tier,30.24,45620,Medium,Average,False
+PID1625,boAt Rockerz 450,BrandB,Phone,32807,4.7,1787,2023-02-06,Out of Stock,Dark design military why attorney either people stuff pass suffer.,Mid-Tier,45.3,17945,Low,Excellent,False
+PID1626,Lenovo IdeaPad Slim 3,BrandX,TV,54598,2.7,7374,2020-09-07,Out of Stock,Need me only course it strong animal ground letter these just hour.,Premium,38.37,33649,Medium,Poor,False
+PID1627,LG Smart LED 43in,BrandB,Grocery,61421,4.6,1138,2024-04-16,In Stock,Ball total list popular help provide improve population anything age dinner.,Budget,42.01,35618,Medium,Excellent,False
+PID1628,LG Smart LED 43in,BrandY,Grocery,5986,3.4,4741,2022-12-16,Out of Stock,Kind factor worry city hot sell change clear like capital difficult minute reason strategy partner other.,Mid-Tier,9.46,5420,Low,Average,False
+PID1629,iPad 10th Gen,BrandZ,Phone,8835,3.3,7418,2023-09-06,Out of Stock,Kind ground professional list compare three consumer man language more reason some nice even event relationship.,Premium,57.33,3770,Low,Average,True
+PID1630,Apple MacBook Air M1,BrandY,Laptop,87400,4.9,6362,2023-12-21,Out of Stock,Until stand all election concern which choose center sense tonight democratic heart huge suggest player soldier.,Budget,51.12,42721,High,Excellent,True
+PID1631,JBL Go 3,BrandX,Beauty,89612,3.0,2454,2020-09-08,Limited Stock,Production individual short receive election position paper treatment look cold four treatment approach executive act.,Premium,49.28,45451,High,Poor,False
+PID1632,Redmi Note 12,BrandB,Beauty,97703,4.2,9658,2023-05-04,In Stock,Yourself somebody official election pass even I true why wall set nothing upon stop decision either.,Premium,50.26,48597,High,Good,True
+PID1633,OnePlus Nord CE 3,BrandB,Home Appliance,11630,4.6,3674,2021-06-21,Limited Stock,Whom here line explain until seven catch fine rise well event guess group age.,Budget,56.3,5082,Low,Excellent,True
+PID1634,Samsung Galaxy M13,BrandY,Phone,88008,2.6,1377,2021-05-20,Out of Stock,Goal material include soldier far line stock interview treatment.,Mid-Tier,34.93,57267,High,Poor,False
+PID1635,HP Victus Gaming 16,BrandA,Laptop,61066,4.2,6701,2025-06-03,Limited Stock,Capital live fast knowledge country special way share society.,Mid-Tier,16.02,51283,Medium,Good,False
+PID1636,Noise ColorFit Pro 4,BrandB,Phone,67203,4.9,2597,2024-12-19,In Stock,Hospital ten push term then what determine similar I subject music child huge put.,Mid-Tier,38.92,41048,High,Excellent,False
+PID1637,LG Smart LED 43in,BrandB,Phone,27692,2.8,141,2023-05-07,In Stock,Chair admit use long responsibility beat game theory born reality it hundred ready way.,Budget,45.86,14992,Low,Poor,False
+PID1638,Zebronics ZEB-Rush,BrandB,Grocery,1562,4.7,2659,2025-04-07,Out of Stock,At school world marriage these opportunity billion how billion.,Budget,45.59,850,Low,Excellent,False
+PID1639,iPhone 13,BrandC,Beauty,84576,4.0,4596,2022-01-29,Limited Stock,Exist forward answer laugh blood price animal around happen give hear beat environment wide.,Budget,33.68,56091,High,Average,False
+PID1640,Realme Narzo 60,BrandA,Phone,90280,4.0,9031,2022-04-18,Out of Stock,Person couple hot hair fine deal rich appear total relationship beat two community person police.,Premium,8.77,82362,High,Average,False
+PID1641,HP Victus Gaming 16,BrandX,TV,22045,4.0,5661,2023-10-24,In Stock,Above economy let note family player call pick information growth process get return organization.,Budget,25.41,16443,Low,Average,False
+PID1642,Apple MacBook Air M1,BrandY,TV,22189,3.2,6142,2025-04-26,Out of Stock,Impact peace fund along nice voice number each natural himself message tax kind.,Mid-Tier,55.64,9843,Low,Average,True
+PID1643,Noise ColorFit Pro 4,BrandY,Beauty,11674,4.8,5626,2023-03-04,Limited Stock,Owner that whole me person usually sport thought wall move sit dog her.,Budget,37.14,7338,Low,Excellent,False
+PID1644,Zebronics ZEB-Rush,BrandX,TV,88961,4.9,8787,2024-07-25,In Stock,Happen various gun specific range region process mouth medical imagine soldier prevent rise.,Premium,34.61,58172,High,Excellent,False
+PID1645,Acer Aspire 7,BrandA,Home Appliance,9848,4.1,8472,2024-04-14,Limited Stock,Week nearly discuss movement shake around agree computer suddenly theory we pressure most collection.,Premium,19.79,7899,Low,Good,False
+PID1646,Dell Inspiron 3511,BrandC,TV,24214,4.5,423,2022-05-10,Limited Stock,City sense computer study including ready set through southern chair significant memory police Mr.,Mid-Tier,25.26,18098,Low,Good,False
+PID1647,HP Victus Gaming 16,BrandB,Laptop,38602,4.0,6999,2021-03-27,Out of Stock,Defense share draw low majority clearly least heavy job race name today finally religious option.,Mid-Tier,54.24,17664,Medium,Average,True
+PID1648,Realme Narzo 60,BrandX,Laptop,74960,3.7,4249,2021-03-10,Out of Stock,Way every get religious management camera clearly officer child production give.,Budget,41.66,43732,High,Average,False
+PID1649,Nikon D3500,BrandX,Beauty,90430,4.2,1750,2023-09-15,In Stock,Tend ask medical lot party program care wear wrong politics win firm heart wait.,Premium,48.31,46743,High,Good,False
+PID1650,Apple MacBook Air M1,BrandB,Home Appliance,7301,3.9,4757,2022-06-19,In Stock,Computer full himself present couple beat every section describe upon analysis south sea.,Budget,29.99,5111,Low,Average,False
+PID1651,iPad 10th Gen,BrandB,Grocery,72767,4.0,1967,2024-05-01,Limited Stock,Cold book door lot help approach wide main only last also plan his.,Mid-Tier,39.66,43908,High,Average,False
+PID1652,Fire-Boltt Ninja,BrandX,TV,48636,4.5,4088,2022-01-12,In Stock,Six successful road provide second identify forget dinner reduce cut administration system develop little moment.,Premium,18.66,39561,Medium,Good,False
+PID1653,Canon EOS 1500D,BrandZ,Grocery,24125,3.7,4178,2022-08-17,Limited Stock,Report professional activity dream source choice human pretty policy hot yourself concern yet citizen senior.,Budget,43.8,13558,Low,Average,False
+PID1654,Sony WH-1000XM4,BrandB,Laptop,83373,2.6,7789,2024-12-11,Limited Stock,Court campaign arrive better finally above probably nature.,Premium,28.52,59595,High,Poor,False
+PID1655,LG Smart LED 43in,BrandY,Grocery,73092,2.9,2946,2023-10-24,In Stock,Major news note conference market her fire little style learn laugh share strategy remain go.,Mid-Tier,29.34,51647,High,Poor,False
+PID1656,JBL Go 3,BrandZ,Phone,77552,3.6,9641,2021-09-22,Limited Stock,Area song along some deal role pull.,Budget,40.71,45981,High,Average,False
+PID1657,ASUS VivoBook 14,BrandX,Beauty,44761,4.3,5394,2025-04-17,Out of Stock,World window room until loss camera pass.,Mid-Tier,56.5,19471,Medium,Good,True
+PID1658,Samsung Galaxy M13,BrandC,Phone,2042,4.0,7880,2023-10-29,Out of Stock,Back moment name be remain check draw improve resource direction.,Mid-Tier,8.52,1868,Low,Average,False
+PID1659,Lenovo IdeaPad Slim 3,BrandX,Phone,22177,4.1,5075,2022-11-20,Limited Stock,Keep treat just create it staff bit American.,Budget,50.36,11009,Low,Good,True
+PID1660,ASUS VivoBook 14,BrandX,TV,47232,3.7,7230,2022-05-07,Out of Stock,Country nor majority whose parent statement talk garden business speak subject.,Mid-Tier,21.08,37275,Medium,Average,False
+PID1661,ASUS VivoBook 14,BrandX,Phone,50843,4.0,1531,2024-07-03,Limited Stock,Energy shake almost mind government activity may decide act capital where skill yes treat tell also.,Mid-Tier,29.42,35885,Medium,Average,False
+PID1662,LG Smart LED 43in,BrandC,Home Appliance,39581,3.3,2990,2025-03-26,In Stock,Heart different national where possible college decide thought scientist.,Premium,6.21,37123,Medium,Average,False
+PID1663,Lenovo IdeaPad Slim 3,BrandY,Grocery,63356,3.7,7155,2022-05-13,In Stock,Much manager recognize along view mother defense.,Mid-Tier,21.56,49696,Medium,Average,False
+PID1664,Sony WH-1000XM4,BrandC,Grocery,93605,4.4,4493,2025-01-30,Limited Stock,Defense argue face recognize school however can.,Budget,32.64,63052,High,Good,False
+PID1665,Samsung Galaxy M13,BrandX,TV,89358,4.7,9335,2023-03-10,Limited Stock,Nearly would area public care page must side or region nation network minute.,Budget,8.09,82129,High,Excellent,False
+PID1666,Noise ColorFit Pro 4,BrandB,Grocery,19565,3.6,933,2021-08-28,In Stock,The inside test draw run ready cost better well spend challenge interview.,Premium,32.01,13302,Low,Average,False
+PID1667,iPad 10th Gen,BrandY,Laptop,83960,2.6,1460,2021-12-29,Limited Stock,Whom science event Mr whose small Mr growth discover.,Mid-Tier,55.99,36951,High,Poor,True
+PID1668,JBL Go 3,BrandX,Beauty,88592,2.9,2723,2022-10-19,Out of Stock,Movement view beautiful think us himself computer certainly instead local need.,Mid-Tier,10.8,79024,High,Poor,False
+PID1669,Acer Aspire 7,BrandY,TV,55193,2.6,285,2023-04-02,Out of Stock,Society its factor economy hard fine agent reveal hair minute none white score cultural difficult.,Budget,47.04,29230,Medium,Poor,False
+PID1670,Zebronics ZEB-Rush,BrandY,Laptop,27462,4.1,264,2021-06-29,Limited Stock,News total finally against involve why always.,Mid-Tier,27.53,19902,Low,Good,False
+PID1671,Redmi Note 12,BrandA,Grocery,28795,3.3,6816,2023-04-16,Out of Stock,Cold so partner environmental foot sister sometimes.,Mid-Tier,41.03,16980,Low,Average,False
+PID1672,Samsung Crystal 4K,BrandX,Home Appliance,14307,3.9,1762,2023-04-11,Out of Stock,Carry live defense amount data glass certainly management cost gas why between action start sense remain.,Premium,19.31,11544,Low,Average,False
+PID1673,Zebronics ZEB-Rush,BrandY,Laptop,42848,3.7,40,2021-12-20,Out of Stock,Control half take population local western class stay budget every behavior include call.,Premium,13.77,36948,Medium,Average,False
+PID1674,Samsung Crystal 4K,BrandB,TV,26932,2.7,5827,2025-03-07,In Stock,Safe green camera anything consumer manager mouth themselves relationship half writer treatment prove.,Mid-Tier,13.83,23207,Low,Poor,False
+PID1675,iPhone 13,BrandZ,Laptop,83785,3.5,8259,2023-10-03,In Stock,Cost type hotel claim skill commercial computer.,Premium,8.88,76345,High,Average,False
+PID1676,Samsung Galaxy M13,BrandC,Beauty,92292,3.1,987,2023-11-11,Out of Stock,Fine discover a land use artist smile court line theory eye attack class blood myself.,Premium,15.21,78254,High,Average,False
+PID1677,Xiaomi Pad 6,BrandY,TV,58354,3.5,7804,2024-11-14,Out of Stock,Smile both region strong use get draw here.,Mid-Tier,41.53,34120,Medium,Average,False
+PID1678,iPhone 13,BrandY,Phone,40762,3.0,7789,2022-12-06,Limited Stock,Avoid left force suddenly accept sister seek maintain.,Budget,53.49,18958,Medium,Poor,True
+PID1679,ASUS VivoBook 14,BrandZ,Home Appliance,37580,4.6,5717,2020-08-13,Out of Stock,Great hard story trouble partner scientist ten cultural list experience store crime improve.,Budget,49.78,18873,Medium,Excellent,False
+PID1680,Apple MacBook Air M1,BrandX,Laptop,1824,2.9,3198,2022-02-28,In Stock,Generation own tree national live seven show policy none listen evidence on way.,Budget,42.68,1046,Low,Poor,False
+PID1681,Acer Aspire 7,BrandX,Phone,91767,4.9,5374,2024-12-17,Limited Stock,Help air chance war second stay compare turn law market.,Budget,11.07,81608,High,Excellent,False
+PID1682,Zebronics ZEB-Rush,BrandC,TV,36409,3.5,4790,2023-09-18,Out of Stock,Official woman gun Republican home within thus than audience head.,Premium,20.91,28796,Medium,Average,False
+PID1683,Zebronics ZEB-Rush,BrandX,Laptop,89839,4.6,7183,2021-11-29,Out of Stock,Kid deep here where author among of chance mean southern east clear finish partner.,Budget,22.04,70038,High,Excellent,False
+PID1684,iPad 10th Gen,BrandC,Grocery,20370,4.1,2524,2022-04-08,Out of Stock,City bill black human most cultural defense security of send.,Budget,18.75,16551,Low,Good,False
+PID1685,Nikon D3500,BrandA,Phone,35078,4.3,9277,2023-07-05,Limited Stock,Claim coach house available entire live baby college stuff attention environment now treatment trouble since.,Mid-Tier,33.33,23387,Medium,Good,False
+PID1686,Lenovo IdeaPad Slim 3,BrandX,TV,72624,4.4,2479,2025-02-18,In Stock,Teach someone vote choice direction final imagine help.,Premium,34.46,47598,High,Good,False
+PID1687,Lenovo IdeaPad Slim 3,BrandA,Phone,27290,3.8,9885,2023-10-09,In Stock,Affect decision free girl figure it red people improve.,Premium,24.63,20568,Low,Average,False
+PID1688,Fire-Boltt Ninja,BrandY,Phone,25789,3.9,5154,2024-02-27,Out of Stock,His between she region along discover dark apply.,Budget,24.46,19481,Low,Average,False
+PID1689,Apple MacBook Air M1,BrandX,Phone,55629,3.8,778,2020-07-23,In Stock,Them detail keep form page turn concern out name.,Budget,50.57,27497,Medium,Average,True
+PID1690,ASUS VivoBook 14,BrandB,Home Appliance,94214,4.0,9777,2022-12-31,In Stock,Sport I much similar not industry wife management may.,Mid-Tier,48.41,48605,High,Average,False
+PID1691,LG Smart LED 43in,BrandX,Phone,94746,2.6,1492,2020-08-21,In Stock,Begin become red recognize partner mission east computer strategy reflect push officer company when decide.,Budget,21.93,73968,High,Poor,False
+PID1692,Realme Narzo 60,BrandY,Laptop,15985,3.5,660,2025-02-23,Limited Stock,Go court necessary choice hospital stand beautiful ahead task important read.,Budget,55.26,7152,Low,Average,True
+PID1693,Xiaomi Pad 6,BrandA,Grocery,44982,4.0,1348,2024-12-04,Limited Stock,Religious because yourself radio common white produce term now to example Democrat include color rest.,Budget,57.4,19162,Medium,Average,True
+PID1694,Lenovo IdeaPad Slim 3,BrandC,Beauty,86688,4.0,9491,2025-01-28,Out of Stock,Wind current make treat similar fast guess good there card close learn.,Mid-Tier,22.97,66776,High,Average,False
+PID1695,Noise ColorFit Pro 4,BrandC,Phone,5248,4.5,7851,2020-11-25,In Stock,Action theory nearly determine work miss region site soon food this Mrs.,Premium,24.49,3963,Low,Good,False
+PID1696,HP Pavilion 15,BrandX,Beauty,87269,4.1,7156,2024-03-19,In Stock,Game buy moment difficult always civil listen defense who speak any no.,Premium,32.81,58636,High,Good,False
+PID1697,boAt Rockerz 450,BrandY,Grocery,9935,5.0,2044,2024-07-12,Limited Stock,Wish policy available dinner day case this lose think great chair market.,Budget,56.76,4296,Low,Excellent,True
+PID1698,Acer Aspire 7,BrandB,Beauty,4209,3.2,7368,2024-12-25,In Stock,Scientist fish choose consumer usually prevent source wrong nor.,Premium,53.2,1970,Low,Average,True
+PID1699,ASUS VivoBook 14,BrandC,TV,30855,3.4,3516,2022-08-20,Out of Stock,Former eye standard indeed well cold run always expert water.,Budget,10.64,27572,Low,Average,False
+PID1700,Zebronics ZEB-Rush,BrandY,Phone,56271,3.5,9250,2023-07-18,Out of Stock,Themselves information respond ask find employee thing carry compare.,Premium,26.6,41303,Medium,Average,False
+PID1701,Acer Aspire 7,BrandB,Laptop,58299,3.7,9168,2024-01-03,In Stock,North finally doctor fill father up response themselves name how manager.,Premium,35.44,37638,Medium,Average,False
+PID1702,ASUS VivoBook 14,BrandB,TV,13616,4.6,4577,2021-08-02,Limited Stock,Consider care join wind defense father develop board leg stage sure whole account walk.,Budget,32.67,9168,Low,Excellent,False
+PID1703,JBL Go 3,BrandZ,Home Appliance,25970,3.1,727,2020-07-17,Out of Stock,Recognize fast wonder common early off need themselves treat brother heavy myself side chair research.,Premium,15.66,21903,Low,Average,False
+PID1704,Dell Inspiron 3511,BrandZ,TV,42844,4.4,7468,2023-10-16,In Stock,Book field ready leg tonight sense team trial.,Mid-Tier,52.23,20467,Medium,Good,True
+PID1705,Realme Narzo 60,BrandA,TV,43418,3.5,342,2025-05-07,In Stock,Themselves site reason leave deal friend receive of thought wait improve total miss.,Premium,42.23,25083,Medium,Average,False
+PID1706,Logitech MX Master 3,BrandX,Phone,52724,4.0,1447,2021-10-11,Out of Stock,Society job else hospital capital collection water page public meeting.,Mid-Tier,51.08,25793,Medium,Average,True
+PID1707,LG Smart LED 43in,BrandZ,Beauty,39798,4.1,6581,2024-02-27,Out of Stock,Eight line matter case doctor course standard surface no action join response play.,Premium,52.23,19012,Medium,Good,True
+PID1708,HP Pavilion 15,BrandB,TV,80719,3.4,6317,2023-10-14,In Stock,Spring you occur responsibility chance this country democratic white themselves concern garden put magazine.,Mid-Tier,46.16,43459,High,Average,False
+PID1709,Lenovo IdeaPad Slim 3,BrandX,Phone,62129,3.8,526,2021-03-12,Out of Stock,Wish newspaper available sometimes main operation attack know have between type rather.,Mid-Tier,29.16,44012,Medium,Average,False
+PID1710,Zebronics ZEB-Rush,BrandZ,Grocery,66540,3.5,6748,2022-12-07,In Stock,Point campaign risk money development cold describe reflect painting blue put upon budget happen.,Mid-Tier,38.58,40869,Medium,Average,False
+PID1711,JBL Go 3,BrandY,Home Appliance,28516,2.7,405,2024-07-11,Out of Stock,Too discussion bar body laugh me establish bill economic leave man meeting remember leave investment bring.,Mid-Tier,13.82,24575,Low,Poor,False
+PID1712,LG Smart LED 43in,BrandB,Home Appliance,24460,3.6,7986,2024-06-23,Out of Stock,Perhaps create plan American minute natural among police organization.,Budget,42.05,14175,Low,Average,False
+PID1713,Dell Inspiron 3511,BrandZ,Laptop,34091,2.7,9765,2025-03-29,Out of Stock,Understand environmental several decision development black reflect fear although stage few.,Budget,14.86,29025,Medium,Poor,False
+PID1714,HP Victus Gaming 16,BrandC,Laptop,83348,3.5,3740,2021-06-14,Limited Stock,Feeling sister grow forward effect fact majority system never prove strategy ok.,Premium,43.17,47367,High,Average,False
+PID1715,Noise ColorFit Pro 4,BrandB,Grocery,68141,4.0,1846,2022-01-09,In Stock,For window security available kitchen send hear life behind top.,Mid-Tier,17.63,56128,High,Average,False
+PID1716,Logitech MX Master 3,BrandA,Beauty,36895,3.9,1478,2021-03-03,Out of Stock,Create seat rate news ball evening conference.,Budget,11.47,32663,Medium,Average,False
+PID1717,Sony WH-1000XM4,BrandZ,Home Appliance,23200,4.2,771,2024-04-27,Limited Stock,Type make throw outside expert film especially doctor from word brother.,Premium,14.09,19931,Low,Good,False
+PID1718,HP Victus Gaming 16,BrandA,Phone,35120,2.7,5525,2023-11-20,Limited Stock,Consider recognize both begin sort popular idea security forward civil task.,Budget,5.11,33325,Medium,Poor,False
+PID1719,Acer Aspire 7,BrandA,TV,21059,4.1,8770,2022-12-20,In Stock,Job suffer wish least cover there remember professor skill participant new call listen account tree.,Mid-Tier,44.53,11681,Low,Good,False
+PID1720,Noise ColorFit Pro 4,BrandY,Home Appliance,93545,3.3,193,2024-06-29,Limited Stock,Southern beat service wish make least over mention eat get animal yet expect go.,Premium,45.28,51188,High,Average,False
+PID1721,Lenovo IdeaPad Slim 3,BrandY,TV,93896,3.5,2007,2022-09-08,Out of Stock,Service spring offer quickly national safe face economy line.,Premium,33.32,62610,High,Average,False
+PID1722,Samsung Crystal 4K,BrandX,Grocery,62142,4.6,1185,2023-03-19,In Stock,New for share could popular individual enjoy fight site night bit environmental hard I structure.,Premium,13.87,53523,Medium,Excellent,False
+PID1723,Acer Aspire 7,BrandY,Grocery,77039,2.5,2394,2021-02-11,In Stock,Hit admit meet everyone together hit at.,Mid-Tier,9.6,69643,High,Poor,False
+PID1724,Logitech MX Master 3,BrandA,Home Appliance,22232,4.0,9984,2022-10-26,Limited Stock,A particular actually past event century close best cause industry send enough system analysis sort set.,Budget,6.05,20887,Low,Average,False
+PID1725,ASUS VivoBook 14,BrandB,TV,91862,4.0,9302,2024-05-01,Limited Stock,Perhaps practice school determine form wait partner decide know.,Premium,14.12,78891,High,Average,False
+PID1726,OnePlus Nord CE 3,BrandB,TV,30854,3.5,4005,2024-03-26,Out of Stock,Morning military current central pull condition me into major officer evening who oil force little never.,Premium,54.0,14193,Low,Average,True
+PID1727,Redmi Note 12,BrandX,Laptop,14343,3.1,7429,2023-02-08,Limited Stock,Experience gas couple strategy candidate four prove.,Mid-Tier,18.28,11721,Low,Average,False
+PID1728,LG Smart LED 43in,BrandY,Laptop,72226,3.1,2261,2023-08-18,Out of Stock,Action light prepare step since same gas agent buy war memory pass vote certainly ago.,Mid-Tier,24.48,54545,High,Average,False
+PID1729,ASUS VivoBook 14,BrandY,Beauty,18140,4.7,3736,2024-04-30,Limited Stock,Data standard already history tonight cover recognize gun huge one vote almost rich.,Premium,10.79,16183,Low,Excellent,False
+PID1730,Mi TV 5X,BrandA,Beauty,53028,3.6,6716,2021-11-02,In Stock,Drug PM property decade compare agency nature middle difference include protect bring example point bank turn.,Mid-Tier,17.23,43891,Medium,Average,False
+PID1731,Acer Aspire 7,BrandZ,Laptop,38913,3.3,4875,2024-02-07,Limited Stock,Painting imagine amount admit everything school for themselves too anything.,Budget,33.56,25854,Medium,Average,False
+PID1732,Fire-Boltt Ninja,BrandB,Laptop,53138,3.6,8921,2021-06-17,In Stock,Box they rather part one clearly voice main language over after benefit nature truth might.,Mid-Tier,38.43,32717,Medium,Average,False
+PID1733,Xiaomi Pad 6,BrandA,Grocery,53236,4.2,4378,2020-10-03,In Stock,Get require speak turn agree tend determine many too treat medical within feel.,Mid-Tier,18.49,43393,Medium,Good,False
+PID1734,Canon EOS 1500D,BrandC,Beauty,69366,2.9,7815,2021-10-28,Limited Stock,Front summer weight politics behavior enter series candidate attorney nor position with form nothing.,Budget,8.18,63692,High,Poor,False
+PID1735,Lenovo IdeaPad Slim 3,BrandY,Home Appliance,19587,3.6,3451,2023-12-08,In Stock,Garden space this if must sea resource sort drug remain this street.,Budget,26.51,14394,Low,Average,False
+PID1736,OnePlus Nord CE 3,BrandX,Phone,41930,4.0,7616,2020-07-14,Limited Stock,Form south without suggest each between cut stage everything book better billion information case smile.,Premium,17.88,34433,Medium,Average,False
+PID1737,JBL Go 3,BrandZ,Beauty,25004,4.9,9836,2023-08-23,Limited Stock,Allow light number interview ball officer Democrat instead television.,Premium,17.08,20733,Low,Excellent,False
+PID1738,Logitech MX Master 3,BrandB,Phone,7614,3.1,2800,2022-07-04,In Stock,Social treatment quality break change soon share life people agreement.,Premium,57.79,3214,Low,Average,True
+PID1739,Realme Narzo 60,BrandX,Beauty,79359,3.4,8333,2025-03-28,In Stock,Final past marriage matter thing court ago part against.,Premium,38.9,48488,High,Average,False
+PID1740,HP Pavilion 15,BrandY,Beauty,11475,3.4,5410,2023-03-23,In Stock,Material ball girl support up nation people clearly unit rise country.,Budget,35.63,7386,Low,Average,False
+PID1741,Logitech MX Master 3,BrandX,Beauty,11523,4.0,1455,2021-01-18,In Stock,Half push similar camera return fly smile article country likely win wind.,Premium,27.87,8312,Low,Average,False
+PID1742,Sony WH-1000XM4,BrandX,Beauty,21947,3.4,6892,2023-03-17,Out of Stock,View show sister recently make type response should together goal race lead.,Premium,28.59,15672,Low,Average,False
+PID1743,Apple MacBook Air M1,BrandB,Home Appliance,90969,3.8,5808,2022-08-28,Out of Stock,Focus trial reveal ball front big imagine consider pattern site.,Premium,34.75,59357,High,Average,False
+PID1744,Realme Narzo 60,BrandX,Laptop,24459,4.5,6796,2024-03-17,In Stock,Parent important win talk number suddenly why space food receive foot.,Premium,43.3,13868,Low,Good,False
+PID1745,Nikon D3500,BrandY,Phone,66703,4.3,4796,2024-06-27,In Stock,Recently relate example marriage get production among cut other arrive move check side business miss.,Budget,43.62,37607,High,Good,False
+PID1746,Samsung Galaxy M13,BrandZ,TV,30203,3.6,5093,2025-02-03,Limited Stock,Whether writer interest to almost professional site finally guess future even.,Mid-Tier,14.44,25842,Low,Average,False
+PID1747,iPhone 13,BrandA,Beauty,9837,4.7,1325,2020-11-03,In Stock,Red kid happen western respond magazine land act front record use kid north group water.,Premium,32.51,6639,Low,Excellent,False
+PID1748,Mi TV 5X,BrandC,Phone,46927,3.9,4976,2023-04-18,Limited Stock,Back four air project among blood when effect son whatever pressure network join.,Budget,27.66,33947,Medium,Average,False
+PID1749,boAt Rockerz 450,BrandX,Grocery,62029,3.8,9405,2021-11-07,Out of Stock,Change small own doctor religious method everybody participant.,Budget,52.88,29228,Medium,Average,True
+PID1750,Acer Aspire 7,BrandC,Laptop,85165,2.6,1159,2023-11-17,Out of Stock,Program media bring send than responsibility level leader decade team between firm later.,Budget,39.73,51329,High,Poor,False
+PID1751,Mi TV 5X,BrandX,Phone,32421,5.0,4650,2021-11-17,Limited Stock,Up administration tonight important hundred middle national purpose project any range.,Mid-Tier,34.29,21304,Low,Excellent,False
+PID1752,iPad 10th Gen,BrandC,Beauty,33807,2.8,4987,2023-11-07,Out of Stock,Usually land mouth floor item individual age wrong model agent start event defense south.,Mid-Tier,11.35,29970,Medium,Poor,False
+PID1753,Sony WH-1000XM4,BrandC,TV,27855,3.1,4697,2023-11-09,Limited Stock,Than subject agree most actually begin by include side understand.,Budget,38.31,17184,Low,Average,False
+PID1754,ASUS VivoBook 14,BrandX,Phone,5335,2.6,340,2024-07-24,Limited Stock,With treat Mrs response face wind nature record quickly.,Budget,11.45,4724,Low,Poor,False
+PID1755,Logitech MX Master 3,BrandX,TV,20659,4.1,3828,2024-08-23,Limited Stock,Attention ok resource standard member catch dog real someone popular street exist candidate.,Premium,23.55,15794,Low,Good,False
+PID1756,ASUS VivoBook 14,BrandY,Home Appliance,48105,3.1,1968,2023-04-08,In Stock,College say employee week image understand seven use main picture wish together nothing matter behavior he.,Mid-Tier,12.86,41919,Medium,Average,False
+PID1757,ASUS VivoBook 14,BrandZ,Beauty,38588,3.0,703,2021-04-19,Out of Stock,Million billion fact team behind information cell data pay institution including music important.,Premium,43.06,21972,Medium,Poor,False
+PID1758,Noise ColorFit Pro 4,BrandY,Phone,79252,2.7,5482,2021-05-26,Limited Stock,Forget lot lot production letter purpose responsibility school society lose.,Budget,16.34,66302,High,Poor,False
+PID1759,iPhone 13,BrandY,Home Appliance,55784,2.8,6376,2022-06-16,In Stock,Country possible consider option receive image safe seem skill game poor amount program.,Budget,26.55,40973,Medium,Poor,False
+PID1760,ASUS VivoBook 14,BrandZ,TV,57543,4.0,1800,2021-09-18,Out of Stock,Apply feel while rather professional space some without must.,Premium,54.26,26320,Medium,Average,True
+PID1761,Boult Audio AirBass,BrandZ,TV,36047,4.2,5463,2021-12-26,Limited Stock,Unit single particular career reduce scientist trade.,Mid-Tier,16.24,30193,Medium,Good,False
+PID1762,OnePlus Nord CE 3,BrandZ,Laptop,97507,3.5,4912,2021-10-22,Out of Stock,Blood team stand body chance risk before cause ball course her prevent official.,Budget,32.93,65398,High,Average,False
+PID1763,HP Pavilion 15,BrandX,Home Appliance,83344,3.7,4648,2024-09-02,Limited Stock,Charge sign determine movie from itself hour sound physical size specific common concern politics.,Premium,28.06,59958,High,Average,False
+PID1764,Canon EOS 1500D,BrandB,Home Appliance,28032,4.2,855,2025-05-24,Limited Stock,Our growth sort appear everybody bring section move law already mouth.,Budget,6.0,26350,Low,Good,False
+PID1765,Nikon D3500,BrandA,Laptop,34849,2.5,2866,2021-08-28,In Stock,Rather safe job relate evidence single they question to worry law home year certain stop.,Budget,48.6,17912,Medium,Poor,False
+PID1766,Xiaomi Pad 6,BrandA,Beauty,45945,3.3,182,2024-05-30,In Stock,Director wonder agree themselves discussion film common travel go although science enjoy free experience.,Budget,8.8,41902,Medium,Average,False
+PID1767,Xiaomi Pad 6,BrandY,Beauty,6213,4.9,3112,2022-02-22,Out of Stock,Family relate effort hold grow admit not plant product ask age stock cultural month across.,Budget,31.08,4282,Low,Excellent,False
+PID1768,Samsung Galaxy M13,BrandC,Home Appliance,56678,4.0,5670,2021-12-29,In Stock,Guess hit various seem husband focus audience care start.,Budget,35.84,36365,Medium,Average,False
+PID1769,Apple MacBook Air M1,BrandX,TV,49907,3.1,4492,2021-10-12,Limited Stock,Return candidate one it record investment leg.,Budget,39.56,30164,Medium,Average,False
+PID1770,Apple MacBook Air M1,BrandB,Phone,70840,3.8,5823,2024-10-25,Out of Stock,Into page economic us quickly officer class yard weight themselves morning fire could may tell.,Mid-Tier,42.87,40471,High,Average,False
+PID1771,Redmi Note 12,BrandZ,Phone,51490,3.4,1517,2021-06-01,Limited Stock,Away remember grow learn admit expect better above air director travel executive.,Premium,18.93,41743,Medium,Average,False
+PID1772,Fire-Boltt Ninja,BrandA,Beauty,76172,3.8,5002,2024-07-29,In Stock,First green some source crime general Republican player federal thought.,Premium,5.55,71944,High,Average,False
+PID1773,OnePlus Nord CE 3,BrandX,Home Appliance,66045,2.8,1356,2024-01-05,Limited Stock,Deep matter probably so probably certainly old.,Budget,44.79,36463,Medium,Poor,False
+PID1774,Dell Inspiron 3511,BrandA,Beauty,85291,2.8,3629,2022-12-31,Out of Stock,Enjoy also how since finally election man administration culture environmental other citizen.,Budget,34.46,55900,High,Poor,False
+PID1775,HP Pavilion 15,BrandB,Home Appliance,58641,2.9,3628,2024-05-21,In Stock,White computer simple small yeah reveal appear say page ground.,Premium,50.99,28740,Medium,Poor,True
+PID1776,Boult Audio AirBass,BrandY,Laptop,24293,4.8,8210,2020-07-19,Limited Stock,Cover while remember central style message skin meet international upon environment fear drop.,Premium,50.18,12103,Low,Excellent,True
+PID1777,ASUS VivoBook 14,BrandA,Phone,57070,4.3,6132,2024-02-11,Out of Stock,Discover court boy force world forget seven particular box enjoy involve for Mr effect brother research.,Budget,51.38,27747,Medium,Good,True
+PID1778,boAt Rockerz 450,BrandY,Beauty,95584,2.9,9324,2022-02-10,Out of Stock,Car discover present night exactly pattern lot gas could.,Premium,31.68,65303,High,Poor,False
+PID1779,Mi TV 5X,BrandZ,TV,38392,3.0,6588,2023-04-22,Out of Stock,Least wife value night large probably mission hair practice worry start.,Premium,23.35,29427,Medium,Poor,False
+PID1780,iPhone 13,BrandB,Phone,1515,4.3,3311,2021-07-14,Out of Stock,Drop factor them show present young fly might indicate image thank financial role.,Premium,48.54,780,Low,Good,False
+PID1781,OnePlus Nord CE 3,BrandZ,Beauty,62313,2.9,6048,2024-11-28,Limited Stock,Budget the do give blue so health member technology experience man finally.,Premium,29.82,43731,Medium,Poor,False
+PID1782,Samsung Crystal 4K,BrandX,Home Appliance,28212,3.1,6246,2022-10-16,In Stock,Rather effect hour tend push four perhaps.,Budget,15.09,23955,Low,Average,False
+PID1783,Noise ColorFit Pro 4,BrandA,Laptop,8915,4.9,987,2023-03-15,Out of Stock,Feel fight could program end program car clearly although into speak.,Budget,52.02,4277,Low,Excellent,True
+PID1784,Samsung Galaxy M13,BrandB,Laptop,62792,3.1,3321,2024-07-13,Out of Stock,Age market power full concern rather recent senior.,Premium,53.54,29173,Medium,Average,True
+PID1785,Canon EOS 1500D,BrandB,Laptop,24333,4.2,4615,2021-03-23,Out of Stock,Sister may society bed voice strong create story democratic.,Premium,30.65,16875,Low,Good,False
+PID1786,Dell Inspiron 3511,BrandZ,Laptop,4658,4.9,8365,2021-08-20,Limited Stock,However set ability war yeah campaign stay choice difficult owner blue watch use.,Budget,9.16,4231,Low,Excellent,False
+PID1787,HP Victus Gaming 16,BrandA,Home Appliance,63180,3.4,3741,2020-08-18,In Stock,Keep indeed visit staff relate nature laugh finish game project rise establish enjoy past education.,Mid-Tier,26.33,46545,Medium,Average,False
+PID1788,Realme Narzo 60,BrandC,TV,20809,2.5,3052,2021-05-10,In Stock,Much against actually my sell scene receive.,Premium,49.19,10573,Low,Poor,False
+PID1789,Nikon D3500,BrandC,Laptop,7470,3.1,6574,2020-09-19,Limited Stock,From child would couple throw final economic various we trade.,Premium,54.6,3391,Low,Average,True
+PID1790,Zebronics ZEB-Rush,BrandX,Beauty,72974,4.6,726,2023-10-03,In Stock,Theory act quickly even say reality cold turn phone safe.,Budget,16.19,61160,High,Excellent,False
+PID1791,Lenovo IdeaPad Slim 3,BrandZ,TV,87204,4.7,3760,2021-01-26,In Stock,Citizen face drug least operation family high consider issue consider.,Premium,8.68,79635,High,Excellent,False
+PID1792,ASUS VivoBook 14,BrandX,Grocery,47040,4.4,5806,2023-04-21,Out of Stock,Operation today expect buy official hold successful economic head off picture medical.,Premium,53.25,21991,Medium,Good,True
+PID1793,HP Pavilion 15,BrandA,TV,20884,2.8,1875,2024-04-03,Out of Stock,Treatment political finally my listen you choice.,Budget,26.42,15366,Low,Poor,False
+PID1794,HP Victus Gaming 16,BrandA,Phone,18517,4.5,6993,2021-12-24,Limited Stock,Focus kid hard total move assume new out long really popular front political require time cold.,Mid-Tier,34.8,12073,Low,Good,False
+PID1795,JBL Go 3,BrandA,Laptop,76380,4.8,4033,2024-05-20,Limited Stock,Course certainly beat case still any expert third.,Premium,58.24,31896,High,Excellent,True
+PID1796,ASUS VivoBook 14,BrandZ,TV,9202,4.0,5443,2023-05-17,Limited Stock,Quickly discussion morning race serious of research candidate board yes.,Premium,8.66,8405,Low,Average,False
+PID1797,HP Pavilion 15,BrandY,Laptop,884,4.9,989,2021-04-30,Out of Stock,Must mean only I carry month now boy contain fear question million until serious throughout fire.,Premium,40.66,525,Low,Excellent,False
+PID1798,Lenovo IdeaPad Slim 3,BrandA,Home Appliance,904,4.6,3744,2024-05-22,Limited Stock,Walk conference contain start next lead painting know where attention.,Budget,9.08,822,Low,Excellent,False
+PID1799,OnePlus Nord CE 3,BrandC,Phone,41443,4.2,8611,2024-02-17,In Stock,Election walk door and thank concern cup per where team garden group large world.,Premium,25.65,30813,Medium,Good,False
+PID1800,Acer Aspire 7,BrandY,Beauty,48426,3.9,593,2024-10-10,In Stock,Doctor company learn operation body could have prevent discuss finally what.,Premium,49.21,24596,Medium,Average,False
+PID1801,boAt Rockerz 450,BrandB,Phone,29689,3.4,1774,2021-03-28,Limited Stock,Visit design find later out house read.,Premium,28.84,21127,Low,Average,False
+PID1802,Apple MacBook Air M1,BrandY,Beauty,13263,2.9,935,2024-12-24,In Stock,Property one there feeling close economy keep little instead home people beautiful and left.,Budget,59.85,5325,Low,Poor,True
+PID1803,Apple MacBook Air M1,BrandC,Grocery,18884,4.0,3808,2023-04-05,Out of Stock,Republican image pay issue cut region this control simply whether hit summer.,Budget,35.75,12133,Low,Average,False
+PID1804,boAt Rockerz 450,BrandA,Home Appliance,60600,3.3,331,2021-05-29,Limited Stock,Plant edge game military expect their analysis nothing soldier develop.,Budget,22.66,46868,Medium,Average,False
+PID1805,Dell Inspiron 3511,BrandZ,Phone,98642,4.7,7922,2023-04-25,Limited Stock,Attention after total listen real authority sport its amount religious room court success bag list.,Budget,17.11,81764,High,Excellent,False
+PID1806,Nikon D3500,BrandY,TV,10360,5.0,2702,2021-03-07,Out of Stock,Fund director mission theory next assume hand question team sing.,Mid-Tier,24.28,7845,Low,Excellent,False
+PID1807,Apple MacBook Air M1,BrandY,Grocery,81142,4.4,5889,2022-02-25,Out of Stock,Drive tell crime serious modern responsibility compare president street kid have cost newspaper light somebody.,Budget,25.49,60459,High,Good,False
+PID1808,Noise ColorFit Pro 4,BrandC,Laptop,51112,2.7,5054,2023-03-01,Out of Stock,Level box risk student official life where in board.,Premium,8.78,46624,Medium,Poor,False
+PID1809,Acer Aspire 7,BrandC,Grocery,24074,3.2,3868,2023-03-25,Out of Stock,Late mind together clear good few trial.,Premium,25.33,17976,Low,Average,False
+PID1810,Samsung Crystal 4K,BrandX,Laptop,24024,2.8,4200,2021-08-17,Limited Stock,Oil item service show young produce still much foot job this tree story car medical.,Premium,30.53,16689,Low,Poor,False
+PID1811,Fire-Boltt Ninja,BrandY,Home Appliance,69672,4.1,201,2024-11-10,Out of Stock,Model around huge often necessary artist four including safe senior suddenly save best relationship able summer.,Premium,44.75,38494,High,Good,False
+PID1812,HP Victus Gaming 16,BrandX,Laptop,11416,4.4,2497,2024-05-24,Out of Stock,Standard hope check window job building court report likely television identify similar cell by follow.,Premium,41.12,6722,Low,Good,False
+PID1813,Lenovo IdeaPad Slim 3,BrandZ,Grocery,5309,4.8,1842,2021-11-19,Limited Stock,Night base forget five identify owner quality.,Mid-Tier,43.98,2974,Low,Excellent,False
+PID1814,Mi TV 5X,BrandB,Laptop,32701,3.6,9101,2021-08-09,In Stock,Center make serve a where conference great thus question.,Premium,5.46,30916,Low,Average,False
+PID1815,Samsung Galaxy M13,BrandZ,Beauty,53830,4.8,4658,2021-11-25,Out of Stock,Ten source dark my plan appear record consumer despite finish perhaps any until seek.,Premium,16.97,44695,Medium,Excellent,False
+PID1816,Mi TV 5X,BrandA,Beauty,13956,4.7,7544,2024-09-16,Out of Stock,Address natural may happen talk several try sense candidate financial available.,Budget,41.39,8180,Low,Excellent,False
+PID1817,Samsung Crystal 4K,BrandC,Phone,56897,3.3,7718,2022-09-12,In Stock,Until learn their allow change black scene strong attention later develop loss anything world simple.,Budget,31.62,38906,Medium,Average,False
+PID1818,Samsung Galaxy M13,BrandX,Beauty,39265,4.7,770,2024-07-06,Out of Stock,Fill smile sense lawyer participant level history fire why.,Mid-Tier,5.29,37188,Medium,Excellent,False
+PID1819,Realme Narzo 60,BrandY,Beauty,35316,3.4,3155,2020-10-27,Out of Stock,Relate often sing cause us by civil if make happy sing heart could.,Premium,49.25,17923,Medium,Average,False
+PID1820,Samsung Crystal 4K,BrandB,TV,45606,3.2,1628,2022-04-07,In Stock,Right team with to center box expert often close maybe wall.,Budget,47.5,23943,Medium,Average,False
+PID1821,JBL Go 3,BrandB,Laptop,54432,4.1,386,2024-04-15,In Stock,Show season machine my result shoulder state agency agent.,Premium,35.16,35294,Medium,Good,False
+PID1822,Canon EOS 1500D,BrandA,Grocery,17600,3.3,6031,2023-08-26,In Stock,Specific performance tonight bag establish executive guess best.,Budget,8.66,16076,Low,Average,False
+PID1823,Zebronics ZEB-Rush,BrandA,Beauty,57591,4.1,6439,2021-02-11,Limited Stock,Course skin start such doctor during imagine good.,Budget,47.16,30431,Medium,Good,False
+PID1824,Samsung Crystal 4K,BrandC,Beauty,22449,4.0,6401,2021-07-20,Out of Stock,Conference develop write little sound safe give community agent man loss though deal pass.,Premium,37.1,14120,Low,Average,False
+PID1825,Noise ColorFit Pro 4,BrandA,Grocery,70580,3.9,4008,2025-05-26,Limited Stock,Certainly her image treatment right study fire concern name subject draw image.,Mid-Tier,48.01,36695,High,Average,False
+PID1826,OnePlus Nord CE 3,BrandX,Grocery,38244,3.5,2466,2025-05-24,Limited Stock,Side maybe really reduce attack black part beautiful.,Budget,46.35,20518,Medium,Average,False
+PID1827,JBL Go 3,BrandB,TV,46043,3.9,2282,2021-01-12,Limited Stock,Trial leader respond art factor suffer feel day rather care point.,Premium,49.17,23404,Medium,Average,False
+PID1828,ASUS VivoBook 14,BrandY,TV,92693,4.0,1856,2024-12-28,Out of Stock,Measure bit describe on particularly responsibility few television foreign degree call.,Premium,33.49,61650,High,Average,False
+PID1829,JBL Go 3,BrandA,Beauty,36687,3.9,7980,2022-01-18,Limited Stock,Energy change information reach tell culture second receive house place way including party.,Mid-Tier,12.72,32020,Medium,Average,False
+PID1830,Sony WH-1000XM4,BrandC,TV,7739,3.6,1998,2022-05-05,Out of Stock,Use weight maybe Mrs notice doctor safe wrong perhaps customer mention job.,Budget,41.91,4496,Low,Average,False
+PID1831,Sony WH-1000XM4,BrandC,Beauty,14989,2.5,5476,2021-09-11,In Stock,Actually every by approach hard agreement throughout to.,Budget,39.13,9124,Low,Poor,False
+PID1832,HP Pavilion 15,BrandZ,Phone,58517,4.0,9428,2025-01-19,Out of Stock,Model system avoid whom ball five maintain boy determine arrive seat save line law answer.,Premium,45.82,31705,Medium,Average,False
+PID1833,Acer Aspire 7,BrandC,TV,62377,2.9,4669,2025-03-19,Limited Stock,Nor hotel police nor your official discuss book national.,Mid-Tier,14.34,53432,Medium,Poor,False
+PID1834,boAt Rockerz 450,BrandA,Phone,43625,4.1,9342,2024-04-15,In Stock,These idea month drug nor to at hundred test ready beautiful open mouth serious show parent.,Budget,15.72,36767,Medium,Good,False
+PID1835,HP Victus Gaming 16,BrandC,Grocery,50422,4.4,4318,2023-01-18,Out of Stock,Without among computer movement yes easy low show whose power some do father worry because that.,Premium,53.97,23209,Medium,Good,True
+PID1836,Noise ColorFit Pro 4,BrandZ,Phone,94574,3.8,7064,2023-02-17,Out of Stock,Employee a reduce buy rather feel large blood.,Budget,46.25,50834,High,Average,False
+PID1837,Acer Aspire 7,BrandY,Laptop,32549,3.9,7446,2024-03-30,Limited Stock,Prepare senior maintain total care foreign treatment.,Mid-Tier,54.95,14663,Low,Average,True
+PID1838,Fire-Boltt Ninja,BrandY,TV,37631,4.9,1431,2025-03-06,Limited Stock,Edge bag else bag security heavy political stuff dream author decision.,Budget,46.73,20046,Medium,Excellent,False
+PID1839,Dell Inspiron 3511,BrandA,Grocery,43444,4.6,5624,2024-07-20,Out of Stock,Audience theory they involve six audience instead tree parent.,Budget,37.84,27005,Medium,Excellent,False
+PID1840,LG Smart LED 43in,BrandX,Phone,74463,4.8,7461,2022-10-16,In Stock,Nature major along place really entire about quality pay form her.,Premium,40.98,43948,High,Excellent,False
+PID1841,HP Victus Gaming 16,BrandY,Laptop,24785,4.5,1819,2024-09-12,Limited Stock,Law campaign down point experience store election truth woman painting little garden lose fire result.,Mid-Tier,53.9,11426,Low,Good,True
+PID1842,Logitech MX Master 3,BrandZ,Grocery,38126,2.8,1130,2023-06-14,Out of Stock,Book one fight Republican less alone enter stop court so.,Premium,36.83,24084,Medium,Poor,False
+PID1843,Nikon D3500,BrandA,Beauty,43308,2.9,6563,2021-03-16,In Stock,Stop decide audience ever senior difficult stay lead range five space arrive.,Mid-Tier,39.78,26080,Medium,Poor,False
+PID1844,Samsung Galaxy M13,BrandA,Laptop,88964,3.8,2658,2021-12-29,Limited Stock,History major reduce green push best book.,Budget,13.61,76856,High,Average,False
+PID1845,Zebronics ZEB-Rush,BrandA,TV,54371,3.1,3500,2025-04-30,Limited Stock,Image market dark quickly adult those heavy several simple speech save best customer thousand however.,Mid-Tier,31.07,37478,Medium,Average,False
+PID1846,Apple MacBook Air M1,BrandB,TV,19698,3.7,8566,2020-10-15,In Stock,Gun amount part likely lot catch how term plan imagine subject have.,Premium,44.4,10952,Low,Average,False
+PID1847,Apple MacBook Air M1,BrandA,Laptop,20258,3.5,2120,2021-03-07,In Stock,Form friend five garden arm force bag as reach exist.,Budget,19.9,16227,Low,Average,False
+PID1848,Zebronics ZEB-Rush,BrandX,Grocery,15754,3.9,4020,2021-05-12,In Stock,World thing whole buy need owner detail history option give talk major office which thousand ok.,Mid-Tier,16.12,13214,Low,Average,False
+PID1849,Samsung Galaxy M13,BrandC,Phone,44738,4.4,3259,2025-05-22,Out of Stock,Kitchen health plant any reality top husband.,Mid-Tier,22.26,34779,Medium,Good,False
+PID1850,iPhone 13,BrandB,TV,1752,4.3,1823,2025-04-23,Limited Stock,Hard mission expect since form nearly surface that weight hair head single guy also decade.,Mid-Tier,18.28,1432,Low,Good,False
+PID1851,iPhone 13,BrandX,Home Appliance,40264,3.8,1474,2025-04-04,Out of Stock,Charge happy ground never price certain up international.,Premium,16.82,33492,Medium,Average,False
+PID1852,HP Victus Gaming 16,BrandC,Beauty,78209,4.6,2242,2021-10-25,Limited Stock,Necessary the learn away impact develop get usually.,Budget,28.37,56021,High,Excellent,False
+PID1853,Boult Audio AirBass,BrandX,Home Appliance,37941,3.6,3243,2024-05-28,Out of Stock,Market question might mention just value south drop development.,Mid-Tier,54.93,17100,Medium,Average,True
+PID1854,Noise ColorFit Pro 4,BrandB,Beauty,92734,4.7,6990,2022-09-23,Out of Stock,Director bar particularly develop simply window mouth blood detail know high as short involve.,Mid-Tier,32.89,62234,High,Excellent,False
+PID1855,Zebronics ZEB-Rush,BrandB,Laptop,54182,2.7,5160,2023-12-06,Limited Stock,Amount area view enter peace garden answer good ask control present already.,Premium,15.34,45870,Medium,Poor,False
+PID1856,HP Victus Gaming 16,BrandA,TV,59994,4.9,3134,2021-09-02,In Stock,But soldier seven indeed interview down resource successful.,Premium,9.23,54457,Medium,Excellent,False
+PID1857,Nikon D3500,BrandC,Grocery,81817,4.1,2070,2022-08-22,In Stock,The actually value hope view class window scene key.,Premium,43.29,46398,High,Good,False
+PID1858,Zebronics ZEB-Rush,BrandZ,Beauty,65715,3.5,359,2022-03-14,Limited Stock,Data artist training child enter despite adult energy family discussion word pass property.,Budget,26.05,48596,Medium,Average,False
+PID1859,HP Victus Gaming 16,BrandA,Phone,79087,3.0,1141,2023-11-23,Limited Stock,Usually those professional benefit about along huge possible talk.,Budget,50.2,39385,High,Poor,True
+PID1860,Sony WH-1000XM4,BrandZ,Grocery,7449,3.7,1635,2021-12-29,In Stock,Table former American under career anything national few hear receive.,Mid-Tier,41.27,4375,Low,Average,False
+PID1861,Xiaomi Pad 6,BrandA,Home Appliance,55893,3.0,4000,2021-10-08,Limited Stock,Fill him phone letter together quite ok girl least thus young.,Mid-Tier,48.79,28623,Medium,Poor,False
+PID1862,HP Victus Gaming 16,BrandA,Laptop,74053,2.9,3361,2022-05-06,Out of Stock,Chance heart skill in run final trade speak agency result able guess perhaps herself bag.,Budget,19.96,59272,High,Poor,False
+PID1863,Xiaomi Pad 6,BrandY,Beauty,7441,4.0,6583,2024-04-11,In Stock,Form go hair agree trip gas president him whatever own speak parent.,Mid-Tier,43.08,4235,Low,Average,False
+PID1864,HP Victus Gaming 16,BrandC,Grocery,26434,3.8,7835,2022-02-13,Limited Stock,Off military maintain simply trade threat site fire career special coach western.,Budget,19.52,21274,Low,Average,False
+PID1865,Dell Inspiron 3511,BrandY,TV,23886,4.2,6,2025-02-20,In Stock,Political morning common girl read administration develop.,Budget,56.65,10355,Low,Good,True
+PID1866,iPad 10th Gen,BrandY,Home Appliance,62386,4.8,3267,2025-02-28,In Stock,Pattern machine what child risk onto their save exist president theory music high pull.,Premium,40.0,37432,Medium,Excellent,False
+PID1867,Sony WH-1000XM4,BrandA,TV,76245,3.8,6564,2022-02-25,Out of Stock,Return student finally pull air member heavy would represent personal out prevent good available.,Budget,22.85,58823,High,Average,False
+PID1868,Dell Inspiron 3511,BrandA,TV,83751,4.0,9783,2021-12-24,In Stock,Do memory respond particularly long according meeting series.,Mid-Tier,19.82,67152,High,Average,False
+PID1869,Apple MacBook Air M1,BrandA,Home Appliance,94956,2.7,4928,2022-07-02,Limited Stock,Week experience investment big view road call he people finally behavior above between rather sing social.,Budget,15.5,80238,High,Poor,False
+PID1870,Samsung Crystal 4K,BrandZ,Laptop,53913,4.3,2606,2024-11-25,Out of Stock,Sort particularly character clear last opportunity large region any view among music into college.,Premium,43.21,30617,Medium,Good,False
+PID1871,Sony WH-1000XM4,BrandY,TV,57300,3.5,5906,2024-01-27,Out of Stock,Material event always short or line myself south.,Mid-Tier,17.03,47542,Medium,Average,False
+PID1872,iPad 10th Gen,BrandA,Grocery,97739,4.9,3273,2023-03-07,Limited Stock,Sit arm line item manager inside air area opportunity cut man century seat.,Budget,37.74,60852,High,Excellent,False
+PID1873,boAt Rockerz 450,BrandC,Phone,42818,4.6,7611,2021-05-13,In Stock,Beat rise interview those since list work simple level.,Mid-Tier,19.55,34447,Medium,Excellent,False
+PID1874,Zebronics ZEB-Rush,BrandA,Laptop,70673,3.8,913,2023-11-19,Limited Stock,Method head level answer administration west loss actually head above woman money serve.,Mid-Tier,41.41,41407,High,Average,False
+PID1875,Dell Inspiron 3511,BrandA,Phone,70890,2.8,2011,2021-07-10,Limited Stock,Apply spring civil change enter single never number.,Mid-Tier,49.82,35573,High,Poor,False
+PID1876,Realme Narzo 60,BrandB,Laptop,52829,4.6,1442,2021-06-19,Limited Stock,Free Mr maintain bill book occur some charge.,Mid-Tier,47.79,27582,Medium,Excellent,False
+PID1877,Dell Inspiron 3511,BrandC,Laptop,43588,4.5,5546,2024-09-03,Limited Stock,Fine conference lead raise turn development care student.,Mid-Tier,46.85,23167,Medium,Good,False
+PID1878,OnePlus Nord CE 3,BrandC,Home Appliance,40311,3.0,1829,2022-07-02,Out of Stock,Yeah little again care ask newspaper reduce if carry each serious.,Mid-Tier,15.32,34135,Medium,Poor,False
+PID1879,OnePlus Nord CE 3,BrandY,TV,55979,3.2,8767,2021-01-11,Limited Stock,Discuss strong vote expert respond pay claim center industry kind across.,Premium,9.86,50459,Medium,Average,False
+PID1880,Realme Narzo 60,BrandX,Laptop,85892,4.5,6468,2022-08-22,In Stock,These almost another agree turn people prepare law real mind court behind quality agreement gas.,Mid-Tier,43.44,48581,High,Good,False
+PID1881,Noise ColorFit Pro 4,BrandZ,Home Appliance,87869,3.0,929,2022-08-04,Limited Stock,Material nation center important production prove player perhaps conference still clearly bad age.,Premium,25.26,65673,High,Poor,False
+PID1882,Apple MacBook Air M1,BrandA,Home Appliance,20463,4.8,3699,2023-01-26,Limited Stock,Travel knowledge heavy on civil white television recently situation give former.,Premium,28.78,14574,Low,Excellent,False
+PID1883,Canon EOS 1500D,BrandA,Phone,55623,3.6,9655,2021-07-20,Limited Stock,Recently worry prove way again any evidence score child really mention forward.,Budget,6.71,51891,Medium,Average,False
+PID1884,Acer Aspire 7,BrandY,Home Appliance,93205,2.7,1054,2020-11-14,Limited Stock,Onto hotel other art major bill total edge popular eat talk technology PM year.,Premium,19.28,75235,High,Poor,False
+PID1885,Zebronics ZEB-Rush,BrandC,Home Appliance,73977,4.5,5744,2021-02-03,In Stock,Black example federal room position part agree research son reflect lawyer support.,Mid-Tier,6.85,68910,High,Good,False
+PID1886,Apple MacBook Air M1,BrandB,Beauty,14888,3.4,1900,2024-02-07,Limited Stock,Nothing option figure price season morning base wrong dream.,Budget,53.36,6944,Low,Average,True
+PID1887,Zebronics ZEB-Rush,BrandZ,Home Appliance,6069,3.8,9649,2021-06-18,In Stock,Face any east challenge say treatment its major second.,Premium,18.39,4953,Low,Average,False
+PID1888,Mi TV 5X,BrandY,Home Appliance,70336,2.8,6980,2025-05-01,Limited Stock,Time industry world memory reach break minute bit number.,Budget,35.65,45261,High,Poor,False
+PID1889,Logitech MX Master 3,BrandB,Home Appliance,37086,2.5,7069,2021-08-10,In Stock,Nature television month single much mind what onto guy building over type close different father.,Budget,7.14,34438,Medium,Poor,False
+PID1890,Boult Audio AirBass,BrandB,TV,12515,4.1,9591,2022-05-02,In Stock,Something whatever happy be according end finally behind station range stock save everyone fast physical record.,Budget,41.68,7299,Low,Good,False
+PID1891,Redmi Note 12,BrandX,TV,45502,3.8,3415,2025-04-10,In Stock,Owner reduce wife PM industry without parent office shoulder heavy report.,Premium,22.77,35141,Medium,Average,False
+PID1892,Acer Aspire 7,BrandA,Home Appliance,6754,4.0,442,2025-03-22,Limited Stock,Try state itself risk on my fund.,Budget,54.39,3080,Low,Average,True
+PID1893,Logitech MX Master 3,BrandZ,Phone,17644,4.5,6218,2022-10-30,Out of Stock,Give ten assume get wonder under upon almost.,Mid-Tier,53.85,8143,Low,Good,True
+PID1894,Dell Inspiron 3511,BrandX,Grocery,24714,4.1,4652,2023-10-03,Limited Stock,Message mother sign leader center official someone animal other her.,Premium,22.89,19057,Low,Good,False
+PID1895,Noise ColorFit Pro 4,BrandX,TV,81219,2.9,7939,2020-12-18,Out of Stock,Moment figure party save best opportunity sign sit.,Budget,54.55,36914,High,Poor,True
+PID1896,Zebronics ZEB-Rush,BrandY,Phone,72274,3.4,7833,2025-04-03,Out of Stock,Interest food century reality way ever page build question politics source force while strategy in.,Premium,59.79,29061,High,Average,True
+PID1897,Dell Inspiron 3511,BrandB,Beauty,6590,4.8,9370,2024-11-18,In Stock,President seem major over single much open body study.,Budget,50.4,3269,Low,Excellent,True
+PID1898,iPhone 13,BrandX,Grocery,12137,4.4,7597,2023-05-07,In Stock,Help until answer some up control owner interview growth tend stage other similar.,Mid-Tier,51.47,5890,Low,Good,True
+PID1899,iPhone 13,BrandZ,Phone,22915,3.9,4458,2020-09-07,Out of Stock,Party later special alone political yourself bring shake traditional.,Mid-Tier,18.7,18630,Low,Average,False
+PID1900,Dell Inspiron 3511,BrandA,TV,24571,3.1,6591,2022-01-26,In Stock,Its sign idea police body know full accept staff give leg maintain send.,Premium,36.72,15549,Low,Average,False
+PID1901,boAt Rockerz 450,BrandX,Phone,58743,3.3,9449,2023-09-06,Limited Stock,Machine organization recently thought order bed area discover fund share decade hour magazine young.,Premium,8.7,53632,Medium,Average,False
+PID1902,Acer Aspire 7,BrandX,Beauty,41740,4.3,2309,2023-11-02,Out of Stock,Stop world allow charge cover raise hear say few experience.,Budget,10.22,37474,Medium,Good,False
+PID1903,iPhone 13,BrandY,Beauty,84307,4.6,6268,2021-11-07,Limited Stock,Middle surface military certain other Mrs tax show early move church away six.,Premium,59.94,33773,High,Excellent,True
+PID1904,Samsung Crystal 4K,BrandZ,Laptop,33934,4.2,910,2022-09-08,Limited Stock,Story clearly position worker weight draw college even war if.,Mid-Tier,22.97,26139,Medium,Good,False
+PID1905,OnePlus Nord CE 3,BrandA,Home Appliance,70224,4.5,4340,2023-07-22,Out of Stock,For usually item raise rate close dream.,Premium,46.15,37816,High,Good,False
+PID1906,OnePlus Nord CE 3,BrandX,Laptop,76197,4.4,4009,2023-10-22,In Stock,Off plan design community director floor eat him piece beat because none number environmental.,Budget,49.37,38579,High,Good,False
+PID1907,Samsung Galaxy M13,BrandY,Laptop,29232,2.9,6628,2024-12-19,In Stock,Career eye ground spring until those open down culture determine argue clearly factor.,Budget,52.19,13976,Low,Poor,True
+PID1908,JBL Go 3,BrandA,Phone,11814,3.6,2169,2024-12-25,Out of Stock,More their about serve same nature action score former movement bring artist.,Budget,59.87,4741,Low,Average,True
+PID1909,Xiaomi Pad 6,BrandY,Laptop,24454,2.9,2172,2025-03-31,Out of Stock,Rate protect whatever religious statement clearly pull poor cell public most.,Premium,18.28,19984,Low,Poor,False
+PID1910,JBL Go 3,BrandB,Laptop,57608,3.1,5668,2021-08-03,Limited Stock,Team training must why popular indeed marriage space nation message save court lawyer lay treat.,Premium,7.22,53449,Medium,Average,False
+PID1911,HP Victus Gaming 16,BrandX,Grocery,87544,4.7,6313,2021-08-22,Limited Stock,Company any card become establish left difficult guess head do.,Budget,27.62,63364,High,Excellent,False
+PID1912,OnePlus Nord CE 3,BrandA,Laptop,88005,3.7,8315,2021-02-07,Out of Stock,Billion manage bad involve wife or himself allow.,Premium,12.15,77312,High,Average,False
+PID1913,HP Victus Gaming 16,BrandY,TV,37168,3.8,8036,2023-08-22,In Stock,Traditional put detail part country affect meet dog fine focus loss respond commercial practice.,Mid-Tier,6.23,34852,Medium,Average,False
+PID1914,Canon EOS 1500D,BrandY,TV,23561,2.9,6789,2024-12-10,Limited Stock,Court appear actually research step successful force institution enough choose anything fine every apply.,Budget,24.82,17713,Low,Poor,False
+PID1915,Xiaomi Pad 6,BrandB,TV,79752,3.3,785,2024-06-21,In Stock,With major reason experience him modern none film woman house writer bit financial recently responsibility brother.,Budget,48.11,41383,High,Average,False
+PID1916,JBL Go 3,BrandZ,Phone,40249,3.1,6139,2020-07-06,Out of Stock,Another day bag quality power few every tax field Democrat game fish business.,Budget,36.14,25703,Medium,Average,False
+PID1917,Samsung Galaxy M13,BrandC,Beauty,17407,3.0,6344,2025-02-07,In Stock,Poor prepare industry participant off happy right magazine development charge available.,Mid-Tier,22.2,13543,Low,Poor,False
+PID1918,ASUS VivoBook 14,BrandY,Home Appliance,19277,4.1,2416,2021-12-10,Limited Stock,Agent there southern large way least section.,Budget,40.99,11375,Low,Good,False
+PID1919,Acer Aspire 7,BrandZ,Home Appliance,93729,3.1,8988,2021-09-01,Limited Stock,Among allow wonder more again citizen hold away site month.,Budget,17.76,77083,High,Average,False
+PID1920,Xiaomi Pad 6,BrandZ,Phone,52245,4.1,4154,2024-12-17,Limited Stock,Kitchen bag end far score behavior because scientist seven position fact soon.,Premium,5.79,49220,Medium,Good,False
+PID1921,iPad 10th Gen,BrandX,Phone,92365,2.6,5619,2025-04-30,Limited Stock,Top world top head view scene movement choice believe religious game anyone phone represent easy.,Mid-Tier,47.04,48917,High,Poor,False
+PID1922,boAt Rockerz 450,BrandY,TV,82318,2.9,1936,2022-08-24,Out of Stock,Onto late prepare determine mission camera movement role significant act discussion subject pick material exactly natural.,Budget,39.31,49959,High,Poor,False
+PID1923,Apple MacBook Air M1,BrandY,Beauty,24124,3.2,3807,2025-04-27,In Stock,Today main pretty key water source before about later industry house sister economic.,Budget,46.93,12803,Low,Average,False
+PID1924,Mi TV 5X,BrandZ,Laptop,23821,4.0,7151,2021-10-09,In Stock,Yourself growth wish same it knowledge business available stuff occur only join section show.,Mid-Tier,7.14,22120,Low,Average,False
+PID1925,HP Victus Gaming 16,BrandB,TV,10988,4.2,9493,2025-05-12,In Stock,Fine painting next another realize certainly garden record if.,Mid-Tier,51.04,5380,Low,Good,True
+PID1926,Fire-Boltt Ninja,BrandY,TV,23074,3.6,3236,2025-05-25,Out of Stock,Just executive compare amount history safe idea director evening religious Mrs very present claim along.,Budget,39.07,14059,Low,Average,False
+PID1927,Mi TV 5X,BrandY,Phone,5740,3.6,2352,2022-09-22,In Stock,Place purpose already effort house energy hard check perform adult.,Mid-Tier,35.99,3674,Low,Average,False
+PID1928,Lenovo IdeaPad Slim 3,BrandY,Grocery,43721,4.3,1932,2024-01-20,Out of Stock,Data million turn skin especially entire build difference responsibility international movement recently hold behind.,Budget,39.35,26517,Medium,Good,False
+PID1929,Acer Aspire 7,BrandY,Laptop,10978,2.5,8556,2023-08-29,In Stock,Rest bed second ready trade paper next charge director impact common east ago all.,Budget,52.54,5210,Low,Poor,True
+PID1930,Sony WH-1000XM4,BrandZ,Phone,56145,3.4,4916,2022-01-24,In Stock,Thousand understand table event feel ability Mr sport.,Mid-Tier,37.28,35214,Medium,Average,False
+PID1931,Canon EOS 1500D,BrandA,Laptop,19762,4.5,5498,2023-08-04,Out of Stock,Best result peace follow magazine mean discuss.,Mid-Tier,36.95,12460,Low,Good,False
+PID1932,Logitech MX Master 3,BrandC,Beauty,53296,4.0,946,2023-11-30,Out of Stock,Rich check city north brother turn boy beyond forward town team foreign theory gun throw.,Budget,59.49,21590,Medium,Average,True
+PID1933,Redmi Note 12,BrandZ,Home Appliance,4932,3.3,9569,2022-07-23,In Stock,Serve its join national common almost region enjoy already system.,Budget,46.62,2633,Low,Average,False
+PID1934,Apple MacBook Air M1,BrandA,Beauty,95757,4.8,1439,2024-03-14,Out of Stock,Animal personal east relate describe pattern house feeling back building their author bit agency scene lot.,Budget,29.33,67671,High,Excellent,False
+PID1935,Acer Aspire 7,BrandX,TV,64791,4.4,7730,2022-10-27,Out of Stock,Somebody serious will send attorney turn edge our low quite.,Budget,43.91,36341,Medium,Good,False
+PID1936,Redmi Note 12,BrandY,Beauty,79604,3.2,4857,2024-04-24,In Stock,Or civil later often oil senior machine finish exist market us push.,Premium,26.41,58581,High,Average,False
+PID1937,OnePlus Nord CE 3,BrandY,Laptop,59899,4.1,340,2024-12-27,In Stock,Appear gas able account age similar history.,Mid-Tier,17.59,49363,Medium,Good,False
+PID1938,iPad 10th Gen,BrandX,TV,80214,4.0,382,2022-10-11,Out of Stock,Majority town cultural common goal would indeed behind author.,Mid-Tier,37.83,49869,High,Average,False
+PID1939,Zebronics ZEB-Rush,BrandZ,Home Appliance,50928,3.5,9748,2024-05-09,Limited Stock,Fill with man citizen someone three himself entire the blue teach.,Mid-Tier,56.05,22383,Medium,Average,True
+PID1940,Noise ColorFit Pro 4,BrandZ,Beauty,88231,3.4,8491,2024-09-07,In Stock,Card they body window tough man must factor drive until must story home.,Budget,56.1,38733,High,Average,True
+PID1941,Redmi Note 12,BrandY,Beauty,802,3.4,138,2023-11-15,In Stock,Issue TV over future to radio from look so.,Premium,23.8,611,Low,Average,False
+PID1942,Mi TV 5X,BrandZ,TV,83058,4.0,358,2024-05-20,In Stock,Full style for everything suggest crime significant film throughout red memory maintain live accept.,Premium,34.02,54802,High,Average,False
+PID1943,ASUS VivoBook 14,BrandX,Phone,555,3.6,4931,2020-10-04,Limited Stock,Community hair affect laugh impact discuss attention.,Premium,16.64,463,Low,Average,False
+PID1944,Noise ColorFit Pro 4,BrandB,TV,9217,4.6,9714,2025-04-08,In Stock,Identify he to author figure guess whose.,Premium,59.76,3709,Low,Excellent,True
+PID1945,Nikon D3500,BrandA,TV,29199,4.2,3456,2020-09-22,Out of Stock,Long wonder maintain long training perhaps charge detail analysis build trial eat campaign tough.,Budget,58.96,11983,Low,Good,True
+PID1946,Noise ColorFit Pro 4,BrandZ,Laptop,74186,2.7,1627,2021-03-01,Limited Stock,Mission range reach energy impact skin class.,Budget,40.72,43977,High,Poor,False
+PID1947,JBL Go 3,BrandX,TV,68161,4.1,9495,2025-01-24,In Stock,Small team determine around husband indicate per weight situation trial represent to customer some.,Budget,49.24,34599,High,Good,False
+PID1948,Zebronics ZEB-Rush,BrandB,Home Appliance,44747,3.2,6626,2023-03-23,Limited Stock,But cup beautiful next drive way rather lose four why keep.,Premium,44.33,24911,Medium,Average,False
+PID1949,Logitech MX Master 3,BrandC,Beauty,17248,4.0,5004,2023-08-11,Out of Stock,News course determine near grow north goal bar notice product onto.,Premium,37.62,10759,Low,Average,False
+PID1950,Dell Inspiron 3511,BrandC,Grocery,5121,4.2,9326,2024-03-24,Out of Stock,About most really report company leg number.,Budget,7.93,4715,Low,Good,False
+PID1951,Sony WH-1000XM4,BrandC,Phone,15534,3.1,6652,2022-06-18,Out of Stock,One fear on yes away impact suffer spend important form.,Mid-Tier,30.01,10872,Low,Average,False
+PID1952,iPad 10th Gen,BrandC,Grocery,5626,3.6,6416,2023-08-07,Out of Stock,Friend amount miss practice rather message life pressure character view fish stand.,Mid-Tier,42.11,3257,Low,Average,False
+PID1953,Sony WH-1000XM4,BrandZ,Beauty,5622,3.0,3170,2023-11-12,Out of Stock,Worry improve strong usually investment view dog.,Budget,42.26,3246,Low,Poor,False
+PID1954,Mi TV 5X,BrandA,Grocery,18530,2.6,3835,2022-06-04,In Stock,Phone fall after letter worry leave imagine agent very.,Premium,25.52,13801,Low,Poor,False
+PID1955,Acer Aspire 7,BrandY,Laptop,83338,3.4,8017,2024-06-06,Out of Stock,Arrive care and than floor other tend choose against attention.,Mid-Tier,56.79,36010,High,Average,True
+PID1956,HP Pavilion 15,BrandZ,Beauty,85217,3.4,2151,2023-11-19,Limited Stock,Suggest budget he discussion none food can star sit up door why.,Premium,14.2,73116,High,Average,False
+PID1957,Mi TV 5X,BrandC,Laptop,56158,5.0,9429,2021-05-25,Out of Stock,Safe which ago feel should might they mother realize no contain exactly what.,Budget,32.52,37895,Medium,Excellent,False
+PID1958,Lenovo IdeaPad Slim 3,BrandZ,Grocery,39138,3.6,6905,2020-09-02,Out of Stock,Do mean program Democrat site blue natural morning reveal.,Budget,43.0,22309,Medium,Average,False
+PID1959,Apple MacBook Air M1,BrandB,Beauty,67567,3.3,2834,2024-10-15,In Stock,Change manage majority president choice major painting another.,Premium,43.34,38283,High,Average,False
+PID1960,Dell Inspiron 3511,BrandX,TV,89369,4.0,9190,2020-10-13,Limited Stock,Up modern remain success time soon American pressure far travel administration report.,Budget,40.68,53014,High,Average,False
+PID1961,OnePlus Nord CE 3,BrandX,TV,35174,2.7,2567,2025-05-09,Out of Stock,Subject represent machine hundred dream outside thank how every here simply.,Mid-Tier,20.14,28090,Medium,Poor,False
+PID1962,Xiaomi Pad 6,BrandX,TV,36354,4.9,1307,2020-08-12,In Stock,Gas identify politics writer trip court than floor.,Budget,13.59,31413,Medium,Excellent,False
+PID1963,Acer Aspire 7,BrandY,Laptop,46771,4.1,8848,2023-05-26,Out of Stock,Conference real the analysis despite medical out man model material paper.,Premium,39.98,28072,Medium,Good,False
+PID1964,iPad 10th Gen,BrandA,Laptop,74188,4.4,2660,2023-09-04,Limited Stock,Positive media out beat there board media.,Premium,37.96,46026,High,Good,False
+PID1965,Samsung Galaxy M13,BrandC,TV,39018,2.9,3730,2021-04-19,In Stock,Executive whose time pick play last series movie six across us seek perform.,Premium,14.86,33220,Medium,Poor,False
+PID1966,Zebronics ZEB-Rush,BrandZ,TV,10767,3.5,6207,2021-12-14,In Stock,Control all first child political place large teacher today.,Premium,43.78,6053,Low,Average,False
+PID1967,Redmi Note 12,BrandX,Grocery,91325,3.6,3162,2022-07-18,Limited Stock,Particularly happen suggest son event ever need democratic and wind full edge work son.,Premium,30.03,63900,High,Average,False
+PID1968,Boult Audio AirBass,BrandZ,Grocery,1562,4.6,1140,2023-01-06,Limited Stock,Discussion develop poor thought again mean most benefit.,Mid-Tier,41.73,910,Low,Excellent,False
+PID1969,Logitech MX Master 3,BrandZ,Beauty,50948,2.5,8458,2023-09-21,In Stock,Sea capital save training theory beat group pick capital old dream change give stay.,Premium,51.06,24934,Medium,Poor,True
+PID1970,Canon EOS 1500D,BrandA,Beauty,95962,3.3,1708,2024-03-18,Out of Stock,Thought away continue today tree eight treatment.,Budget,14.34,82201,High,Average,False
+PID1971,Noise ColorFit Pro 4,BrandC,Home Appliance,6729,5.0,3630,2024-11-14,Out of Stock,Age white newspaper nation century green right back test most commercial recent ten president collection story.,Budget,6.05,6322,Low,Excellent,False
+PID1972,iPhone 13,BrandC,Beauty,57293,3.7,3211,2024-12-11,Out of Stock,Rate create pattern sense debate they check just figure fear claim quite degree.,Premium,47.85,29878,Medium,Average,False
+PID1973,Dell Inspiron 3511,BrandX,Home Appliance,48415,3.5,6538,2023-11-28,Out of Stock,Collection blood machine position court front range form visit.,Budget,38.53,29761,Medium,Average,False
+PID1974,HP Victus Gaming 16,BrandC,Phone,5132,2.8,9702,2021-08-01,In Stock,High smile design director to difficult about represent a bed thought.,Premium,43.48,2901,Low,Poor,False
+PID1975,iPhone 13,BrandX,Grocery,4096,4.9,475,2023-01-16,Limited Stock,Sit since decision direction part feeling budget probably surface he help investment.,Mid-Tier,51.1,2003,Low,Excellent,True
+PID1976,Xiaomi Pad 6,BrandY,Phone,6668,2.6,7684,2022-12-10,Out of Stock,Business capital idea research fast bring wind notice hot.,Mid-Tier,49.15,3391,Low,Poor,False
+PID1977,ASUS VivoBook 14,BrandB,Beauty,8061,4.3,9168,2021-09-18,Out of Stock,Where stay paper mean turn true worker stuff hit government still decide treat imagine use least.,Budget,57.85,3398,Low,Good,True
+PID1978,HP Victus Gaming 16,BrandB,Home Appliance,74294,4.4,1207,2024-02-13,In Stock,Past star state rather already charge who.,Premium,34.48,48677,High,Good,False
+PID1979,Mi TV 5X,BrandC,Beauty,82652,3.1,1960,2022-11-20,Limited Stock,Join institution environment we cost into high.,Premium,31.87,56311,High,Average,False
+PID1980,Dell Inspiron 3511,BrandC,Home Appliance,27234,4.2,557,2023-01-06,In Stock,Soldier chair right model no majority deal.,Budget,27.1,19854,Low,Good,False
+PID1981,Lenovo IdeaPad Slim 3,BrandC,Phone,6871,2.7,882,2024-01-23,Out of Stock,Bed set research north that success job find chair campaign.,Premium,13.45,5947,Low,Poor,False
+PID1982,Mi TV 5X,BrandY,Phone,26569,3.1,4761,2022-05-31,Limited Stock,Increase although house about cultural break put they.,Budget,36.49,16874,Low,Average,False
+PID1983,Xiaomi Pad 6,BrandC,Phone,80405,4.5,5867,2021-04-18,Limited Stock,Whole fall grow test daughter build everyone daughter sea sound.,Budget,20.24,64131,High,Good,False
+PID1984,ASUS VivoBook 14,BrandX,TV,13410,4.7,6963,2024-08-08,In Stock,Raise truth career dog appear issue bed we lot maybe point card trip summer modern.,Premium,55.67,5945,Low,Excellent,True
+PID1985,JBL Go 3,BrandB,Beauty,73979,4.0,7166,2021-08-03,In Stock,Chair two necessary friend really need collection budget mention former where series change face rest.,Premium,37.08,46548,High,Average,False
+PID1986,LG Smart LED 43in,BrandY,Laptop,78235,3.8,7929,2021-12-18,Out of Stock,Little remain school everyone support general gas them mouth term best one itself alone.,Premium,37.61,48811,High,Average,False
+PID1987,Xiaomi Pad 6,BrandB,TV,81764,2.9,5347,2024-10-23,In Stock,Can no focus art catch system something century development artist.,Mid-Tier,24.52,61715,High,Poor,False
+PID1988,Mi TV 5X,BrandY,Home Appliance,23775,2.7,7269,2023-06-13,Out of Stock,Speak ball street although talk policy western carry politics detail husband school key picture agent.,Budget,7.86,21906,Low,Poor,False
+PID1989,Redmi Note 12,BrandB,Laptop,72774,2.8,9802,2024-07-04,Limited Stock,Environment different friend during shake character add drive produce ball result adult.,Mid-Tier,6.75,67862,High,Poor,False
+PID1990,Realme Narzo 60,BrandZ,Grocery,81949,3.1,8125,2022-06-18,In Stock,Give man since data among old investment person.,Premium,28.28,58774,High,Average,False
+PID1991,JBL Go 3,BrandX,TV,60504,3.4,2454,2022-11-25,Limited Stock,Your successful according win senior her those.,Mid-Tier,9.65,54665,Medium,Average,False
+PID1992,OnePlus Nord CE 3,BrandX,Grocery,63481,3.5,4494,2022-01-11,Limited Stock,Near audience training school all record everything theory better south ok others.,Mid-Tier,38.38,39117,Medium,Average,False
+PID1993,Acer Aspire 7,BrandY,Beauty,85159,3.4,1946,2024-03-07,Limited Stock,Interest manager rule everybody boy minute baby toward woman movement development hand pay ground stand.,Premium,53.45,39642,High,Average,True
+PID1994,Zebronics ZEB-Rush,BrandZ,Beauty,55053,3.1,2808,2023-08-06,Out of Stock,Game his all attorney without want ten clearly new economic drug else chance several player.,Mid-Tier,53.56,25567,Medium,Average,True
+PID1995,JBL Go 3,BrandB,Beauty,48947,3.8,6642,2025-04-26,Limited Stock,Involve suggest soldier opportunity step very word or Congress.,Premium,41.25,28756,Medium,Average,False
+PID1996,ASUS VivoBook 14,BrandC,Beauty,35029,4.6,3825,2024-07-16,Limited Stock,High relationship above next of see feel child reflect four baby paper.,Budget,16.62,29207,Medium,Excellent,False
+PID1997,Noise ColorFit Pro 4,BrandY,Laptop,76203,3.2,3536,2022-11-27,Limited Stock,Claim building course floor heart any here support reveal.,Budget,52.46,36227,High,Average,True
+PID1998,Nikon D3500,BrandA,Home Appliance,76590,4.9,6068,2023-11-14,Limited Stock,Rise interest south wonder place remain call risk hot above explain agree.,Mid-Tier,53.74,35431,High,Excellent,True
+PID1999,HP Victus Gaming 16,BrandZ,Beauty,17760,4.7,3802,2025-01-02,Limited Stock,Tree moment result hand born machine garden dog.,Budget,15.82,14950,Low,Excellent,False
