@@ -31,7 +31,7 @@ if brand_filter != "All":
 if segment_filter != "All":
     filtered_df = filtered_df[filtered_df["customer_segment"] == segment_filter]
 
-st.title(" E-Commerce Price Intelligence Dashboard")
+st.title(" E-Commerce Price  Dashboard")
 
 # Tabs
 tab1, tab2, tab3, tab4, tab5 = st.tabs([" Overview", " Trends", " Segments", " Outliers", " Recommendations"])
