@@ -13,7 +13,7 @@ df['review_score'] = df['ratings'] * np.log1p(df['reviews'])
 df['rating_level'] = pd.cut(df['ratings'], bins=[0, 2, 3.5, 4.5, 5], labels=["Poor", "Average", "Good", "Excellent"])
 df['is_outlier'] = df['discount_pct'] > 50
 
-st.set_page_config(page_title="E-Commerce Pro Dashboard", layout="wide")
+st.set_page_config(page_title="E-Commerce Dashboard", layout="wide")
 
 # Sidebar filters
 st.sidebar.title(" Filters")
@@ -31,7 +31,7 @@ if brand_filter != "All":
 if segment_filter != "All":
     filtered_df = filtered_df[filtered_df["customer_segment"] == segment_filter]
 
-st.title("📈 E-Commerce Price Intelligence Dashboard (Pro Version)")
+st.title(" E-Commerce Price Intelligence Dashboard")
 
 # Tabs
 tab1, tab2, tab3, tab4, tab5 = st.tabs([" Overview", " Trends", " Segments", " Outliers", " Recommendations"])
