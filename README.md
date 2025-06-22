@@ -43,13 +43,14 @@ It's designed for both **analytical depth** and **business strategy**, using Pyt
 
 ---
 
-## 🌐 Streamlit Dashboard
+##  Streamlit Dashboard
 
 Run the dashboard locally:
 ```bash
 streamlit run streamlit_app.py
-
+|
 ---
+
 
 ##  About Me  
 **Ashish Sahu**  
