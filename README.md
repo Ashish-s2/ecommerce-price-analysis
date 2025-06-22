@@ -40,12 +40,6 @@ It's designed for both **analytical depth** and **business strategy**, using Pyt
 - ✅ KMeans product clustering
 - ✅ Final business recommendations
 
----
-
-##  Visual Sample
-
-![sample-visual](https://github.com/yourusername/ecommerce-price-analysis/blob/main/assets/sample-visual.png)  
-*Tip: Upload screenshots of your charts and link them here!*
 
 ---
 
@@ -55,6 +49,7 @@ Run the dashboard locally:
 ```bash
 streamlit run streamlit_app.py
 
+---
 
 ##  About Me  
 **Ashish Sahu**  
