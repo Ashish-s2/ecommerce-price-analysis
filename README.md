@@ -54,3 +54,8 @@ It's designed for both **analytical depth** and **business strategy**, using Pyt
 Run the dashboard locally:
 ```bash
 streamlit run streamlit_app.py
+
+
+##  About Me  
+**Ashish Sahu**  
+ [LinkedIn](https://www.linkedin.com/in/ashish-sahu-342a13232/)v
