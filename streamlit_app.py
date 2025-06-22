@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 
 # Load the cleaned dataset
-df = pd.read_csv("ecommerce_data_cleaned_final.csv")
+df = pd.read_csv("ecommerce_data.csv")
 
 # Preprocessing
 df['date_added'] = pd.to_datetime(df['date_added'])
@@ -31,18 +31,18 @@ if segment != "All":
     filtered_df = filtered_df[filtered_df['customer_segment'] == segment]
 
 # Title
-st.title("📦 E-Commerce Price Intelligence Dashboard")
+st.title(" E-Commerce Price Intelligence Dashboard")
 
 # Tabs
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Overview", "📈 Trends", "🧍 Segments", "🔥 Outliers", "🎯 Recommendations"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs([" Overview", " Trends", " Segments", " Outliers", " Recommendations"])
 
 with tab1:
     st.subheader("Key Metrics")
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("💸 Avg Discount %", f"{filtered_df['discount_pct'].mean():.2f}%")
-    col2.metric("⭐ Avg Rating", f"{filtered_df['ratings'].mean():.2f}")
-    col3.metric("💬 Total Reviews", int(filtered_df['reviews'].sum()))
-    col4.metric("📦 Total Products", len(filtered_df))
+    col1.metric(" Avg Discount %", f"{filtered_df['discount_pct'].mean():.2f}%")
+    col2.metric(" Avg Rating", f"{filtered_df['ratings'].mean():.2f}")
+    col3.metric(" Total Reviews", int(filtered_df['reviews'].sum()))
+    col4.metric(" Total Products", len(filtered_df))
 
     st.subheader("Product Explorer")
     st.dataframe(filtered_df[['product_name', 'category', 'brand', 'discounted_price', 'ratings', 'reviews', 'customer_segment']])
@@ -76,7 +76,7 @@ with tab4:
         st.info("No outliers found for the selected threshold.")
 
 with tab5:
-    st.subheader("🧠 Recommended for You")
+    st.subheader(" Recommended for You")
     top_recos = (
         filtered_df.copy()
         .assign(score=lambda d: d['ratings'] * np.log1p(d['reviews']) * (d['discount_pct'] + 1))
@@ -87,9 +87,9 @@ with tab5:
     for _, row in top_recos.iterrows():
         st.markdown(f"""
         <div style='background-color:#f9f9f9;padding:15px;margin-bottom:10px;border-radius:10px'>
-        <b>📦 {row['product_name']}</b><br>
-        ⭐ <b>Rating:</b> {row['ratings']} &nbsp;&nbsp; 💬 <b>Reviews:</b> {row['reviews']}<br>
-        💸 <b>Discount:</b> {row['discount_pct']}% &nbsp;&nbsp; 📂 <b>Category:</b> {row['category']}<br>
-        🏷️ <b>Brand:</b> {row['brand']} &nbsp;&nbsp; 👥 <b>Segment:</b> {row['customer_segment']}
+        <b> {row['product_name']}</b><br>
+         <b>Rating:</b> {row['ratings']} &nbsp;&nbsp;  <b>Reviews:</b> {row['reviews']}<br>
+         <b>Discount:</b> {row['discount_pct']}% &nbsp;&nbsp;  <b>Category:</b> {row['category']}<br>
+        🏷 <b>Brand:</b> {row['brand']} &nbsp;&nbsp;  <b>Segment:</b> {row['customer_segment']}
         </div>
         """, unsafe_allow_html=True)
