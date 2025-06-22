@@ -7,7 +7,7 @@ import plotly.express as px
 df = pd.read_csv("ecommerce_data.csv")
 
 # Preprocessing
-df['date_added'] = pd.to_datetime(df['date_added'])
+df['date_added'] = pd.to_datetime(df['date_added'], dayfirst=True, errors='coerce')
 df['year_month'] = df['date_added'].dt.to_period("M").astype(str)
 df['review_score'] = df['ratings'] * np.log1p(df['reviews'])
 
