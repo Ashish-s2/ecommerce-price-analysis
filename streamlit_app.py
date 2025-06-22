@@ -17,7 +17,12 @@ st.set_page_config(page_title="E-Commerce Dashboard", layout="wide")
 # Sidebar filters
 st.sidebar.header("Filter Products")
 category = st.sidebar.selectbox("Select Category", ["All"] + sorted(df['category'].unique().tolist()))
-brand = st.sidebar.selectbox("Select Brand", ["All"] + sorted(df['brand'].unique().tolist()))
+# Handle missing brand column or NaNs
+if 'brand' in df.columns:
+    brands = df['brand'].dropna().astype(str).unique().tolist()
+    brand = st.sidebar.selectbox("Select Brand", ["All"] + sorted(brands))
+else:
+    brand = "All"
 segment = st.sidebar.selectbox("Customer Segment", ["All"] + sorted(df['customer_segment'].unique().tolist()))
 outlier_threshold = st.sidebar.slider("Outlier Discount % Threshold", 10, 90, 50)
 
