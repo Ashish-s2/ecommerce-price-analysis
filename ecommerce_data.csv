@@ -38,7 +38,7 @@ PID1035,JBL Go 3,JBL,Audio,57386,2.7,1048,2024-01-19,Limited Stock,Budget,45.58,
 PID1036,Nikon D3500,Nikon,Cameras,67303,3.8,5772,2024-02-06,In Stock,Mid-Tier,50.88,33059,High,Average,True
 PID1037,Redmi Note 12,Redmi,Phones,32051,4.8,2529,2023-06-28,Out of Stock,Premium,45.73,17394,Low,Excellent,False
 PID1038,iPad 10th Gen,iPad,Tablets,11894,3.3,2964,2022-11-11,In Stock,Budget,12.86,10364,Low,Average,False
-PID1039,Fire-Boltt Ninja,FireBoltt Ninja,Wearables,69592,4.0,7137,2021-11-13,Limited Stock,Budget,46.44,37273,High,Average,False
+PID1039,Fire-Boltt Ninja,FireBoltt,Wearables,69592,4.0,7137,2021-11-13,Limited Stock,Budget,46.44,37273,High,Average,False
 PID1040,iPhone 13,Apple,Phones,4390,3.4,963,2020-09-04,In Stock,Mid-Tier,47.29,2314,Low,Average,False
 PID1041,Canon EOS 1500D,Canon,Cameras,42106,3.6,536,2021-12-14,In Stock,Mid-Tier,41.22,24750,Medium,Average,False
 PID1042,Boult Audio AirBass,Boult,Audio,96776,3.9,7340,2020-10-14,In Stock,Budget,47.14,51156,High,Average,False
@@ -65,8 +65,8 @@ PID1062,LG Smart LED 43in,Lg,Televisions,67057,4.3,689,2023-10-15,Limited Stock,
 PID1063,Mi TV 5X,Mi,Televisions,77689,2.6,5175,2020-08-28,Out of Stock,Mid-Tier,7.76,71660,High,Poor,False
 PID1064,Samsung Crystal 4K,Samsung,Televisions,79453,4.5,8648,2022-01-29,Limited Stock,Premium,9.01,72294,High,Good,False
 PID1065,Apple MacBook Air M1,Apple,Laptops,53495,4.6,5078,2022-01-23,In Stock,Premium,27.16,38966,Medium,Excellent,False
-PID1066,iPhone 13,Unknown,Phones,41257,4.4,5448,2024-08-06,Out of Stock,Premium,21.24,32494,Medium,Good,False
-PID1067,Sony WH-1000XM4,AppbWH-1000XM,Audio,10192,4.5,1179,2025-05-26,In Stock,Mid-Tier,17.78,8380,Low,Good,False
+PID1066,iPhone 13,Apple,Phones,41257,4.4,5448,2024-08-06,Out of Stock,Premium,21.24,32494,Medium,Good,False
+PID1067,Sony WH-1000, sony ,Audio,10192,4.5,1179,2025-05-26,In Stock,Mid-Tier,17.78,8380,Low,Good,False
 PID1068,boAt Rockerz 450,boAboat,Audio,46258,4.6,9074,2024-10-31,Out of Stock,Budget,20.46,36794,Medium,Excellent,False
 PID1069,Lenovo IdeaPad Slim 3,Lenovo,Laptops,72909,3.0,6406,2023-01-10,Limited Stock,Mid-Tier,49.19,37045,High,Poor,False
 PID1070,HP Pavilion 15,HP,Laptops,71711,3.1,8591,2023-09-03,Out of Stock,Budget,56.11,31474,High,Average,True
@@ -132,7 +132,7 @@ PID1129,Mi TV 5X,Mi,Televisions,11465,4.8,6164,2023-10-05,Out of Stock,Premium,3
 PID1130,Apple MacBook Air M1,Apple,Laptops,25038,2.8,2672,2023-02-22,Out of Stock,Mid-Tier,26.32,18448,Low,Poor,False
 PID1131,HP Pavilion 15,HP,Laptops,71092,2.8,4200,2022-04-16,Out of Stock,Mid-Tier,39.8,42797,High,Poor,False
 PID1132,Samsung Crystal 4K,Samsung,Televisions,98518,3.1,16,2024-12-26,Out of Stock,Budget,43.71,55456,High,Average,False
-PID1133,Fire-Boltt Ninja,AppbBoltt Ninja,Wearables,8610,4.3,3191,2024-11-07,Limited Stock,Budget,5.24,8159,Low,Good,False
+PID1133,Fire-Boltt Ninja,Boltt,Wearables,8610,4.3,3191,2024-11-07,Limited Stock,Budget,5.24,8159,Low,Good,False
 PID1134,ASUS VivoBook 14,ASUS,Laptops,79809,4.0,392,2024-02-02,In Stock,Premium,14.18,68492,High,Average,False
 PID1135,Boult Audio AirBass,Boult,Audio,27766,2.8,8616,2023-07-12,Limited Stock,Premium,44.22,15488,Low,Poor,False
 PID1136,Boult Audio AirBass,Boult,Audio,53492,4.8,6272,2023-09-21,Out of Stock,Premium,41.65,31213,Medium,Excellent,False
@@ -161,7 +161,7 @@ PID1158,Sony WH-1000XM4,ApprWH-1000XM,Audio,75950,3.0,7340,2022-07-19,In Stock,P
 PID1159,Nikon D3500,Appr D,Cameras,93926,4.5,7083,2024-07-29,In Stock,Mid-Tier,16.66,78278,High,Good,False
 PID1160,Nikon D3500,Nikon,Cameras,22799,4.0,6230,2024-07-13,Out of Stock,Budget,41.15,13417,Low,Average,False
 PID1161,Samsung Crystal 4K,Samsung,Televisions,44085,2.8,9223,2024-11-10,In Stock,Mid-Tier,30.98,30427,Medium,Poor,False
-PID1162,Fire-Boltt Ninja,ApprBoltt Ninja,Wearables,64544,3.5,4940,2021-06-10,Limited Stock,Budget,53.41,30071,Medium,Average,True
+PID1162,Fire-Boltt Ninja,Boltt,Wearables,64544,3.5,4940,2021-06-10,Limited Stock,Budget,53.41,30071,Medium,Average,True
 PID1163,Acer Aspire 7,Acer,Laptops,43057,4.7,3271,2022-12-17,Limited Stock,Budget,16.87,35793,Medium,Excellent,False
 PID1164,Xiaomi Pad 6,Xiaomi,Tablets,49580,4.8,3456,2021-02-15,Out of Stock,Budget,42.28,28618,Medium,Excellent,False
 PID1165,Zebronics ZEB-Rush,Zebronics,Audio,3193,3.7,7788,2024-04-07,Out of Stock,Mid-Tier,38.43,1966,Low,Average,False
@@ -186,7 +186,7 @@ PID1183,ASUS VivoBook 14,ASUS,Laptops,7276,3.9,7504,2021-10-03,In Stock,Budget,5
 PID1184,LG Smart LED 43in,LG,Televisions,93287,4.7,1246,2024-04-04,Out of Stock,Mid-Tier,25.85,69172,High,Excellent,False
 PID1185,Acer Aspire 7,Acer,Laptops,55516,3.8,3839,2023-01-25,In Stock,Budget,23.55,42442,Medium,Average,False
 PID1186,Logitech MX Master 3,Logitech,Accessories,9974,3.0,8551,2024-03-27,Limited Stock,Budget,6.06,9370,Low,Poor,False
-PID1187,iPhone 13,Appbe,Phones,58553,3.2,2376,2021-04-17,Out of Stock,Premium,11.84,51620,Medium,Average,False
+PID1187,iPhone 13,Apple,Phones,58553,3.2,2376,2021-04-17,Out of Stock,Premium,11.84,51620,Medium,Average,False
 PID1188,Boult Audio AirBass,Boult,Audio,22459,3.3,3009,2022-02-26,Limited Stock,Mid-Tier,27.75,16227,Low,Average,False
 PID1189,Zebronics ZEB-Rush,Applnics ZEB-Rush,Audio,6030,3.5,9154,2024-03-03,Out of Stock,Budget,32.11,4094,Low,Average,False
 PID1190,iPhone 13,Apple,Phones,95356,3.6,1827,2022-07-14,Limited Stock,Mid-Tier,27.24,69381,High,Average,False
@@ -204,11 +204,11 @@ PID1201,Redmi Note 12,Redmi,Phones,69340,3.8,5978,2024-07-26,Out of Stock,Premiu
 PID1202,iPad 10th Gen,iPad,Tablets,54884,3.7,5607,2023-09-04,In Stock,Budget,58.68,22678,Medium,Average,True
 PID1203,Sony WH-1000XM4,ApplWH-1000XM,Audio,51505,3.7,769,2021-01-14,In Stock,Premium,11.91,45371,Medium,Average,False
 PID1204,Xiaomi Pad 6,Xiaomi,Tablets,47076,4.4,780,2022-03-12,Out of Stock,Mid-Tier,5.93,44284,Medium,Good,False
-PID1205,Fire-Boltt Ninja,ApplBoltt Ninja,Wearables,39853,2.8,9908,2025-02-04,Out of Stock,Premium,47.36,20979,Medium,Poor,False
+PID1205,Fire-Boltt Ninja,Boltt,Wearables,39853,2.8,9908,2025-02-04,Out of Stock,Premium,47.36,20979,Medium,Poor,False
 PID1206,LG Smart LED 43in,Lg,Televisions,62503,3.3,6303,2022-04-07,Out of Stock,Premium,49.39,31633,Medium,Average,False
 PID1207,Lenovo IdeaPad Slim 3,Lenovo,Laptops,83711,2.7,3983,2024-03-02,Limited Stock,Premium,11.61,73992,High,Poor,False
 PID1208,iPad 10th Gen,iPad,Tablets,53233,4.4,9503,2021-05-17,Out of Stock,Mid-Tier,19.61,42794,Medium,Good,False
-PID1209,iPhone 13,Unknown,Phones,65818,3.2,8714,2024-01-24,Limited Stock,Mid-Tier,5.97,61889,Medium,Average,False
+PID1209,iPhone 13,Apple,Phones,65818,3.2,8714,2024-01-24,Limited Stock,Mid-Tier,5.97,61889,Medium,Average,False
 PID1210,Noise ColorFit Pro 4,Noise,Wearables,89974,4.7,521,2021-06-23,Limited Stock,Budget,21.13,70962,High,Excellent,False
 PID1211,HP Victus Gaming 16,HP,Laptops,24164,3.8,9127,2022-03-04,Out of Stock,Mid-Tier,47.52,12681,Low,Average,False
 PID1212,Canon EOS 1500D,Canon,Cameras,67672,4.5,7569,2025-01-25,Out of Stock,Premium,33.49,45009,High,Good,False
@@ -260,7 +260,7 @@ PID1257,Boult Audio AirBass,Boult,Audio,84263,4.4,2460,2021-07-24,In Stock,Premi
 PID1258,OnePlus Nord CE 3,Oneplus,Phones,9180,2.8,5926,2024-06-16,Out of Stock,Mid-Tier,53.96,4226,Low,Poor,True
 PID1259,Samsung Galaxy M13,Samsung,Phones,85396,3.9,6251,2022-12-30,Limited Stock,Mid-Tier,43.92,47890,High,Average,False
 PID1260,Samsung Galaxy M13,Samsung,Phones,84379,5.0,9496,2022-07-31,Limited Stock,Budget,8.42,77274,High,Excellent,False
-PID1261,Fire-Boltt Ninja,AppbBoltt Ninja,Wearables,71795,3.7,7295,2024-09-14,Out of Stock,Premium,13.1,62390,High,Average,False
+PID1261,Fire-Boltt Ninja,Boltt,Wearables,71795,3.7,7295,2024-09-14,Out of Stock,Premium,13.1,62390,High,Average,False
 PID1262,Lenovo IdeaPad Slim 3,Lenovo,Laptops,89114,3.0,3300,2020-07-13,In Stock,Budget,5.43,84275,High,Poor,False
 PID1263,Samsung Crystal 4K,Samsung,Televisions,11611,3.7,6279,2021-08-12,Limited Stock,Mid-Tier,39.7,7001,Low,Average,False
 PID1264,Canon EOS 1500D,Canon,Cameras,38004,3.8,8553,2024-01-30,In Stock,Budget,29.62,26747,Medium,Average,False
